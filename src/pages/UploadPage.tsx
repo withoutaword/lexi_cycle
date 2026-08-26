@@ -1,0 +1,9 @@
+import { FileJson,Upload } from 'lucide-react'
+import { useRef,useState,type ChangeEvent } from 'react'
+import { useApp } from '../context/AppContext'
+import { useAuth } from '../context/AuthContext'
+import { uploadUserVocabulary } from '../services/cloudRepository'
+import { parseVocabularyUpload } from '../services/uploadValidator'
+export function UploadPage(){const {user}=useAuth(),{cards,refresh}=useApp(),input=useRef<HTMLInputElement>(null),[name,setName]=useState(''),[message,setMessage]=useState(''),[busy,setBusy]=useState(false);const customCount=cards.filter(c=>c.dataset==='custom').length
+ const choose=async(e:ChangeEvent<HTMLInputElement>)=>{const file=e.target.files?.[0];if(!file)return;setName(file.name);setBusy(true);const parsed=parseVocabularyUpload(await file.text());if(parsed.errors.length){setMessage(`校验失败：${parsed.errors.slice(0,3).join('；')}${parsed.errors.length>3?'…':''}`)}else if(user){try{await uploadUserVocabulary(user,parsed.items);await refresh();setMessage(`成功导入 ${parsed.items.length} 个词条。同 id 会更新原词条。`)}catch(error){setMessage(error instanceof Error?error.message:'上传失败')}}setBusy(false);e.target.value=''}
+ return <div className="page upload-page"><p className="eyebrow">MY LIBRARY</p><h1>我的词库</h1><p className="page-intro">上传 JSON 词库，只对当前账户可见。已有个人词条 {customCount} 个。</p><div className="upload-box" onClick={()=>input.current?.click()}><input ref={input} type="file" accept="application/json,.json" onChange={choose}/><span><Upload/></span><h2>{busy?'正在校验并上传…':'选择 JSON 文件'}</h2><p>支持顶层数组或包含 items 数组的文件</p><button className="secondary" disabled={busy}>{name||'浏览文件'}</button></div>{message&&<div className="upload-message">{message}</div>}<section className="format-help"><FileJson/><div><h2>必填字段</h2><p>每条数据需要 id、lemma、sentence、translation、answer 和 targetType。sentence 必须包含 answer。</p></div></section></div>}

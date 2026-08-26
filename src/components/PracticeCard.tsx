@@ -1,0 +1,9 @@
+import { useEffect,useRef,useState,type FormEvent } from 'react'
+import type { LoadedVocabulary } from '../domain/vocabulary'
+import { buildClozeSentence } from '../services/clozeBuilder'
+import { hideReveal, initialAttemptState, submitAttempt, toReviewResult } from '../services/practiceSession'
+import type { ReviewResult } from '../domain/reviewResult'
+export function PracticeCard({card,onComplete}:{card:LoadedVocabulary;onComplete:(r:ReviewResult)=>void}){const [input,setInput]=useState(''),[attempt,setAttempt]=useState(initialAttemptState),[shake,setShake]=useState(false),ref=useRef<HTMLInputElement>(null),cloze=buildClozeSentence(card.sentence,card.answer)
+ useEffect(()=>{if(!attempt.reveal)return;const timer=setTimeout(()=>{setAttempt(hideReveal);ref.current?.focus()},1000);return()=>clearTimeout(timer)},[attempt.reveal])
+ const submit=(e:FormEvent)=>{e.preventDefault();if(!input.trim()||attempt.reveal)return;const next=submitAttempt(card,attempt,input);setAttempt(next);setInput('');if(next.complete)setTimeout(()=>onComplete(toReviewResult(card,next)),350);else{setShake(true);setTimeout(()=>setShake(false),350)}}
+ return <div className="practice-card"><p className="translation">{card.translation}</p><p className="cloze">{attempt.reveal?<><span>{cloze.before}</span><strong>{card.answer}</strong><span>{cloze.after}</span></>:<><span>{cloze.before}</span><span className="blank">{cloze.blank}</span><span>{cloze.after}</span></>}</p><form onSubmit={submit}><input ref={ref} autoFocus className={`${shake?'wrong ':''}${attempt.complete?'correct':''}`} value={input} onChange={e=>setInput(e.target.value)} disabled={attempt.reveal||attempt.complete} placeholder="输入答案，按 Enter 提交" autoComplete="off" spellCheck={false}/><p className={`feedback ${attempt.reveal?'visible':''}`}>{attempt.reveal?'看清答案，然后再亲手输入一次':' '}</p></form></div>}

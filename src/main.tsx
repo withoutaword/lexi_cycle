@@ -1,0 +1,19 @@
+import { StrictMode,type ReactNode } from 'react'
+import { createRoot } from 'react-dom/client'
+import { createBrowserRouter,RouterProvider } from 'react-router-dom'
+import { AppShell } from './components/AppShell'
+import { AppProvider } from './context/AppContext'
+import { SessionProvider } from './context/SessionContext'
+import { HomePage } from './pages/HomePage'
+import { PracticePage } from './pages/PracticePage'
+import { SummaryPage } from './pages/SummaryPage'
+import { VocabularyPage } from './pages/VocabularyPage'
+import { MistakesPage } from './pages/MistakesPage'
+import { UploadPage } from './pages/UploadPage'
+import { AuthPage } from './pages/AuthPage'
+import { AuthProvider } from './context/AuthContext'
+import { ProtectedRoute } from './components/ProtectedRoute'
+import './styles.css'
+const protect=(node:ReactNode)=><ProtectedRoute>{node}</ProtectedRoute>
+const router=createBrowserRouter([{path:'/login',element:<AuthPage/>},{element:protect(<AppShell/>),children:[{path:'/',element:<HomePage/>},{path:'/vocabulary',element:<VocabularyPage/>},{path:'/upload',element:<UploadPage/>},{path:'/mistakes',element:<MistakesPage/>}]},{path:'/practice',element:protect(<PracticePage/>)},{path:'/summary',element:protect(<SummaryPage/>)}])
+createRoot(document.getElementById('root')!).render(<StrictMode><AuthProvider><AppProvider><SessionProvider><RouterProvider router={router}/></SessionProvider></AppProvider></AuthProvider></StrictMode>)

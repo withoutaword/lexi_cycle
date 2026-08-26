@@ -1,0 +1,572 @@
+{
+  "version": 1,
+  "schema": "vocabulary-source-v1",
+  "dataset": "participles",
+  "datasetZh": "分词形式",
+  "items": [
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Double final consonant",
+      "lemma": "stop",
+      "sentence": "rain stopped us from going out",
+      "translation": "雨阻止了我们出门",
+      "answer": "stopped",
+      "targetType": "word",
+      "confusionGroup": "double-final-consonant",
+      "id": "part-0001",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Double final consonant",
+      "lemma": "stop",
+      "sentence": "the bus is stopping at the next station",
+      "translation": "公交车将在下一站停车",
+      "answer": "stopping",
+      "targetType": "word",
+      "confusionGroup": "double-final-consonant",
+      "id": "part-0002",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Double final consonant",
+      "lemma": "refer",
+      "sentence": "the doctor referred me to a specialist",
+      "translation": "医生把我转诊给了一位专家",
+      "answer": "referred",
+      "targetType": "word",
+      "confusionGroup": "double-final-consonant",
+      "id": "part-0003",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Double final consonant",
+      "lemma": "refer",
+      "sentence": "she is referring to the medical records",
+      "translation": "她正在查阅病历",
+      "answer": "referring",
+      "targetType": "word",
+      "confusionGroup": "double-final-consonant",
+      "id": "part-0004",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Double final consonant",
+      "lemma": "prefer",
+      "sentence": "she preferred coffee over tea",
+      "translation": "比起茶，她更喜欢咖啡",
+      "answer": "preferred",
+      "targetType": "word",
+      "confusionGroup": "double-final-consonant",
+      "id": "part-0005",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Double final consonant",
+      "lemma": "prefer",
+      "sentence": "she is preferring stronger flavors these days",
+      "translation": "她这些天更偏爱味道浓一些的食物",
+      "answer": "preferring",
+      "targetType": "word",
+      "confusionGroup": "double-final-consonant",
+      "needsReview": true,
+      "id": "part-0006",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Irregular & doubled forms",
+      "lemma": "run",
+      "sentence": "I began running this morning",
+      "translation": "我今天早上开始跑步",
+      "answer": "running",
+      "targetType": "word",
+      "confusionGroup": "irregular-or-doubled",
+      "id": "part-0007",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Irregular & doubled forms",
+      "lemma": "run",
+      "sentence": "she has run five kilometers today",
+      "translation": "她今天已经跑了五公里",
+      "answer": "run",
+      "targetType": "word",
+      "confusionGroup": "irregular-or-doubled",
+      "id": "part-0008",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Irregular & doubled forms",
+      "lemma": "cut",
+      "sentence": "I accidentally cut my finger",
+      "translation": "我不小心割伤了手指",
+      "answer": "cut",
+      "targetType": "word",
+      "confusionGroup": "irregular-or-doubled",
+      "id": "part-0009",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Irregular & doubled forms",
+      "lemma": "cut",
+      "sentence": "he is cutting costs this year",
+      "translation": "他今年正在削减成本",
+      "answer": "cutting",
+      "targetType": "word",
+      "confusionGroup": "irregular-or-doubled",
+      "id": "part-0010",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Irregular & doubled forms",
+      "lemma": "begin",
+      "sentence": "the meeting began at nine",
+      "translation": "会议九点开始",
+      "answer": "began",
+      "targetType": "word",
+      "confusionGroup": "irregular-begin-began-begun",
+      "id": "part-0011",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Irregular & doubled forms",
+      "lemma": "begin",
+      "sentence": "the meeting has begun already",
+      "translation": "会议已经开始了",
+      "answer": "begun",
+      "targetType": "word",
+      "confusionGroup": "irregular-begin-began-begun",
+      "id": "part-0012",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Irregular & doubled forms",
+      "lemma": "begin",
+      "sentence": "the course is beginning next week",
+      "translation": "课程下周开始",
+      "answer": "beginning",
+      "targetType": "word",
+      "confusionGroup": "irregular-begin-began-begun",
+      "id": "part-0013",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Direct -ing / -ed",
+      "lemma": "train",
+      "sentence": "he was trained as a pilot",
+      "translation": "他曾接受飞行员培训",
+      "answer": "trained",
+      "targetType": "word",
+      "confusionGroup": "direct-suffix",
+      "id": "part-0014",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Direct -ing / -ed",
+      "lemma": "train",
+      "sentence": "he is training new recruits",
+      "translation": "他正在培训新兵",
+      "answer": "training",
+      "targetType": "word",
+      "confusionGroup": "direct-suffix",
+      "id": "part-0015",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Direct -ing / -ed",
+      "lemma": "help",
+      "sentence": "your advice really helped me yesterday",
+      "translation": "你的建议昨天确实帮了我",
+      "answer": "helped",
+      "targetType": "word",
+      "confusionGroup": "direct-suffix",
+      "id": "part-0016",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Direct -ing / -ed",
+      "lemma": "help",
+      "sentence": "thank you for offering a helping hand",
+      "translation": "谢谢你伸出援手",
+      "answer": "helping",
+      "targetType": "word",
+      "confusionGroup": "direct-suffix",
+      "id": "part-0017",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Direct -ing / -ed",
+      "lemma": "visit",
+      "sentence": "they visited the museum yesterday",
+      "translation": "他们昨天参观了博物馆",
+      "answer": "visited",
+      "targetType": "word",
+      "confusionGroup": "direct-suffix",
+      "id": "part-0018",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Direct -ing / -ed",
+      "lemma": "visit",
+      "sentence": "they are visiting their relatives in London",
+      "translation": "他们正在伦敦拜访亲戚",
+      "answer": "visiting",
+      "targetType": "word",
+      "confusionGroup": "direct-suffix",
+      "id": "part-0019",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Direct -ing / -ed",
+      "lemma": "open",
+      "sentence": "the store opened last week",
+      "translation": "这家店上周开业了",
+      "answer": "opened",
+      "targetType": "word",
+      "confusionGroup": "direct-suffix",
+      "id": "part-0020",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Direct -ing / -ed",
+      "lemma": "open",
+      "sentence": "the store celebrated its grand opening",
+      "translation": "这家店庆祝了盛大开业",
+      "answer": "opening",
+      "targetType": "word",
+      "confusionGroup": "direct-suffix",
+      "id": "part-0021",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Direct -ing / -ed",
+      "lemma": "happen",
+      "sentence": "nobody knew what happened",
+      "translation": "没有人知道发生了什么",
+      "answer": "happened",
+      "targetType": "word",
+      "confusionGroup": "direct-suffix",
+      "id": "part-0022",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Direct -ing / -ed",
+      "lemma": "happen",
+      "sentence": "something strange is happening outside",
+      "translation": "外面正在发生一些奇怪的事情",
+      "answer": "happening",
+      "targetType": "word",
+      "confusionGroup": "direct-suffix",
+      "id": "part-0023",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Endings x / w / y",
+      "lemma": "snow",
+      "sentence": "it snowed heavily all night",
+      "translation": "昨晚下了一整夜的大雪",
+      "answer": "snowed",
+      "targetType": "word",
+      "confusionGroup": "no-double-x-w-y",
+      "id": "part-0024",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Endings x / w / y",
+      "lemma": "snow",
+      "sentence": "it is still snowing right now",
+      "translation": "现在仍然在下雪",
+      "answer": "snowing",
+      "targetType": "word",
+      "confusionGroup": "no-double-x-w-y",
+      "id": "part-0025",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Endings x / w / y",
+      "lemma": "play",
+      "sentence": "the kids played outside",
+      "translation": "孩子们在外面玩了",
+      "answer": "played",
+      "targetType": "word",
+      "confusionGroup": "no-double-x-w-y",
+      "id": "part-0026",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Endings x / w / y",
+      "lemma": "play",
+      "sentence": "the kids are playing hide-and-seek",
+      "translation": "孩子们正在玩捉迷藏",
+      "answer": "playing",
+      "targetType": "word",
+      "confusionGroup": "no-double-x-w-y",
+      "id": "part-0027",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Endings x / w / y",
+      "lemma": "fix",
+      "sentence": "he fixed the broken chair",
+      "translation": "他修好了坏掉的椅子",
+      "answer": "fixed",
+      "targetType": "word",
+      "confusionGroup": "no-double-x-w-y",
+      "id": "part-0028",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "Endings x / w / y",
+      "lemma": "fix",
+      "sentence": "he is fixing the kitchen sink",
+      "translation": "他正在修厨房水槽",
+      "answer": "fixing",
+      "targetType": "word",
+      "confusionGroup": "no-double-x-w-y",
+      "id": "part-0029",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "US / UK spelling variants",
+      "lemma": "travel",
+      "sentence": "she traveled around Europe last year",
+      "translation": "她去年环游了欧洲",
+      "answer": "traveled",
+      "targetType": "word",
+      "aliases": [
+        "travelled"
+      ],
+      "confusionGroup": "travel-us-uk",
+      "id": "part-0030",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Participles & Verb Forms",
+      "categoryZh": "分词形式",
+      "conceptGroup": "US / UK spelling variants",
+      "lemma": "travel",
+      "sentence": "she loves traveling by train",
+      "translation": "她喜欢乘火车旅行",
+      "answer": "traveling",
+      "targetType": "word",
+      "aliases": [
+        "travelling"
+      ],
+      "confusionGroup": "travel-us-uk",
+      "id": "part-0031",
+      "tags": [
+        "participle",
+        "verb-form"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    }
+  ]
+}

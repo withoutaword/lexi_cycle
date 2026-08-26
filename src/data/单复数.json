@@ -1,0 +1,739 @@
+{
+  "version": 1,
+  "schema": "vocabulary-source-v1",
+  "dataset": "singular-plural",
+  "datasetZh": "单复数",
+  "items": [
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Uncountable nouns",
+      "lemma": "water",
+      "sentence": "drink fresh water every day",
+      "translation": "每天喝新鲜的水",
+      "answer": "water",
+      "targetType": "word",
+      "confusionGroup": "uncountable-no-s",
+      "id": "sp-0001",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Uncountable nouns",
+      "lemma": "news",
+      "sentence": "the news is based on reliable information",
+      "translation": "这则新闻基于可靠的信息",
+      "answer": "news",
+      "targetType": "word",
+      "confusionGroup": "uncountable-or-singular-form",
+      "id": "sp-0002",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Uncountable nouns",
+      "lemma": "information",
+      "sentence": "provide useful information",
+      "translation": "提供有用的信息",
+      "answer": "information",
+      "targetType": "word",
+      "confusionGroup": "uncountable-no-s",
+      "id": "sp-0003",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Uncountable nouns",
+      "lemma": "advice",
+      "sentence": "give me some useful advice",
+      "translation": "给我一些有用的建议",
+      "answer": "advice",
+      "targetType": "word",
+      "confusionGroup": "uncountable-no-s",
+      "id": "sp-0004",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Uncountable nouns",
+      "lemma": "furniture",
+      "sentence": "buy some new furniture",
+      "translation": "买一些新家具",
+      "answer": "furniture",
+      "targetType": "word",
+      "confusionGroup": "uncountable-no-s",
+      "id": "sp-0005",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Uncountable nouns",
+      "lemma": "litter",
+      "sentence": "clear the litter from the park",
+      "translation": "清理公园里的垃圾",
+      "answer": "litter",
+      "targetType": "word",
+      "confusionGroup": "uncountable-no-s",
+      "id": "sp-0006",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Uncountable nouns",
+      "lemma": "money",
+      "sentence": "save your money for the future",
+      "translation": "为将来存钱",
+      "answer": "money",
+      "targetType": "word",
+      "confusionGroup": "uncountable-no-s",
+      "id": "sp-0007",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - singular",
+      "lemma": "dog",
+      "sentence": "I saw a dog in the park",
+      "translation": "我在公园里看到一只狗",
+      "answer": "dog",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0008",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - singular",
+      "lemma": "cat",
+      "sentence": "She has a cat at home",
+      "translation": "她家里养了一只猫",
+      "answer": "cat",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0009",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - singular",
+      "lemma": "friend",
+      "sentence": "He is a good friend of mine",
+      "translation": "他是我的一个好朋友",
+      "answer": "friend",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0010",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - singular",
+      "lemma": "apple",
+      "sentence": "eat an apple after lunch",
+      "translation": "午饭后吃一个苹果",
+      "answer": "apple",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0011",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - singular",
+      "lemma": "book",
+      "sentence": "read a book every week",
+      "translation": "每周读一本书",
+      "answer": "book",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0012",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - singular",
+      "lemma": "car",
+      "sentence": "my new car is very comfortable",
+      "translation": "我的新车非常舒适",
+      "answer": "car",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0013",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - singular",
+      "lemma": "student",
+      "sentence": "I am a student at this college",
+      "translation": "我是这所学院的一名学生",
+      "answer": "student",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0014",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - plural",
+      "lemma": "dog",
+      "sentence": "dogs are popular pets",
+      "translation": "狗是很受欢迎的宠物",
+      "answer": "dogs",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0015",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - plural",
+      "lemma": "cat",
+      "sentence": "cats are popular pets",
+      "translation": "猫是很受欢迎的宠物",
+      "answer": "cats",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0016",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - plural",
+      "lemma": "friend",
+      "sentence": "my friends prefer watching videos online",
+      "translation": "我的朋友们更喜欢在线观看视频",
+      "answer": "friends",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0017",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - plural",
+      "lemma": "apple",
+      "sentence": "buy some apples at the market",
+      "translation": "在市场买一些苹果",
+      "answer": "apples",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0018",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - plural",
+      "lemma": "book",
+      "sentence": "students love reading books",
+      "translation": "学生们喜欢读书",
+      "answer": "books",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0019",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - plural",
+      "lemma": "car",
+      "sentence": "many cars are parked outside",
+      "translation": "外面停着很多汽车",
+      "answer": "cars",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0020",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Regular countable nouns - plural",
+      "lemma": "student",
+      "sentence": "students love reading books",
+      "translation": "学生们喜欢读书",
+      "answer": "students",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0021",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Fixed expressions with by",
+      "lemma": "boat",
+      "sentence": "go on a trip by boat",
+      "translation": "乘船旅行",
+      "answer": "boat",
+      "targetType": "word",
+      "confusionGroup": "by-plus-singular",
+      "id": "sp-0022",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Fixed expressions with by",
+      "lemma": "ear",
+      "sentence": "play the piano by ear",
+      "translation": "凭听觉弹钢琴",
+      "answer": "ear",
+      "targetType": "word",
+      "confusionGroup": "by-plus-singular",
+      "id": "sp-0023",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Fixed expressions with by",
+      "lemma": "hand",
+      "sentence": "the table was made by hand",
+      "translation": "这张桌子是手工制作的",
+      "answer": "hand",
+      "targetType": "word",
+      "confusionGroup": "by-plus-singular",
+      "id": "sp-0024",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Fixed expressions with by",
+      "lemma": "foot",
+      "sentence": "go there on foot",
+      "translation": "步行去那里",
+      "answer": "foot",
+      "targetType": "word",
+      "confusionGroup": "fixed-expression-on-foot",
+      "aliases": [
+        "by foot"
+      ],
+      "needsReview": false,
+      "id": "sp-0025",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Body parts - plural",
+      "lemma": "ear",
+      "sentence": "use your ears carefully when listening",
+      "translation": "听的时候认真使用你的双耳",
+      "answer": "ears",
+      "targetType": "word",
+      "confusionGroup": "body-part-singular-plural",
+      "id": "sp-0026",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Body parts - plural",
+      "lemma": "hand",
+      "sentence": "open your hands",
+      "translation": "张开双手",
+      "answer": "hands",
+      "targetType": "word",
+      "confusionGroup": "body-part-singular-plural",
+      "id": "sp-0027",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Instruments",
+      "lemma": "piano",
+      "sentence": "play the piano by ear",
+      "translation": "凭听觉弹钢琴",
+      "answer": "piano",
+      "targetType": "word",
+      "id": "sp-0028",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Abstract vs concrete",
+      "lemma": "space",
+      "sentence": "visit an exhibition about space exploration",
+      "translation": "参观一个关于太空探索的展览",
+      "answer": "space",
+      "targetType": "word",
+      "confusionGroup": "abstract-vs-concrete",
+      "id": "sp-0029",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Abstract vs concrete",
+      "lemma": "space",
+      "sentence": "the building has several open spaces",
+      "translation": "这栋建筑有几个开放空间",
+      "answer": "spaces",
+      "targetType": "word",
+      "confusionGroup": "abstract-vs-concrete",
+      "id": "sp-0030",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Abstract vs concrete",
+      "lemma": "sound",
+      "sentence": "sound travels through the air",
+      "translation": "声音通过空气传播",
+      "answer": "sound",
+      "targetType": "word",
+      "confusionGroup": "abstract-vs-concrete",
+      "id": "sp-0031",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Abstract vs concrete",
+      "lemma": "sound",
+      "sentence": "children make different sounds in the forest",
+      "translation": "孩子们在森林里发出各种不同的声音",
+      "answer": "sounds",
+      "targetType": "word",
+      "confusionGroup": "abstract-vs-concrete",
+      "id": "sp-0032",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Abstract vs concrete",
+      "lemma": "light",
+      "sentence": "light and sound travel at different speeds",
+      "translation": "光和声音以不同的速度传播",
+      "answer": "light",
+      "targetType": "word",
+      "confusionGroup": "abstract-vs-concrete",
+      "id": "sp-0033",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Nature nouns",
+      "lemma": "forest",
+      "sentence": "children make different sounds in the forest",
+      "translation": "孩子们在森林里发出各种不同的声音",
+      "answer": "forest",
+      "targetType": "word",
+      "id": "sp-0034",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Recurring schedules",
+      "lemma": "class",
+      "sentence": "all English classes are held on Wednesdays",
+      "translation": "所有英语课都安排在每周三",
+      "answer": "classes",
+      "targetType": "word",
+      "confusionGroup": "recurring-singular-plural",
+      "id": "sp-0035",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Recurring schedules",
+      "lemma": "Wednesday",
+      "sentence": "all English classes are held on Wednesdays",
+      "translation": "所有英语课都安排在每周三",
+      "answer": "Wednesdays",
+      "targetType": "word",
+      "confusionGroup": "recurring-singular-plural",
+      "id": "sp-0036",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Specific schedule",
+      "lemma": "class",
+      "sentence": "the class on Wednesday starts at ten",
+      "translation": "这周三的那节课十点开始",
+      "answer": "class",
+      "targetType": "word",
+      "confusionGroup": "recurring-singular-plural",
+      "id": "sp-0037",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Specific schedule",
+      "lemma": "Wednesday",
+      "sentence": "the class on Wednesday starts at ten",
+      "translation": "这周三的那节课十点开始",
+      "answer": "Wednesday",
+      "targetType": "word",
+      "confusionGroup": "recurring-singular-plural",
+      "id": "sp-0038",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Food as ingredient",
+      "lemma": "spice",
+      "sentence": "cook curry with aromatic spices",
+      "translation": "用香浓的香料烹饪咖喱",
+      "answer": "spices",
+      "targetType": "word",
+      "confusionGroup": "ingredient-vs-individual-item",
+      "id": "sp-0039",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Food as ingredient",
+      "lemma": "coconut",
+      "sentence": "cook curry with coconut",
+      "translation": "用椰子作为食材烹饪咖喱",
+      "answer": "coconut",
+      "targetType": "word",
+      "confusionGroup": "ingredient-vs-individual-item",
+      "id": "sp-0040",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Food",
+      "lemma": "curry",
+      "sentence": "this chef cooks delicious curry",
+      "translation": "这位厨师烹饪美味的咖喱",
+      "answer": "curry",
+      "targetType": "word",
+      "id": "sp-0041",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Individual fruits & plants",
+      "lemma": "coconut",
+      "sentence": "children pick coconuts from the trees",
+      "translation": "孩子们从树上摘椰子",
+      "answer": "coconuts",
+      "targetType": "word",
+      "confusionGroup": "ingredient-vs-individual-item",
+      "id": "sp-0042",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "Singular & Plural",
+      "categoryZh": "单复数专项",
+      "conceptGroup": "Individual fruits & plants",
+      "lemma": "tree",
+      "sentence": "children pick coconuts from the trees",
+      "translation": "孩子们从树上摘椰子",
+      "answer": "trees",
+      "targetType": "word",
+      "confusionGroup": "countable-singular-plural",
+      "id": "sp-0043",
+      "tags": [
+        "singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    }
+  ]
+}
