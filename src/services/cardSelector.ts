@@ -8,6 +8,19 @@ export function selectCards(cards:LoadedVocabulary[],progress:Record<string,Lear
  let pool=cards.filter(c=>!excluded.has(c.id) && (options.mode==='mixed'||options.mode==='mistakes'||c.dataset===options.mode))
  if(options.mode==='mistakes') pool=pool.filter(c=>(progress[c.id]?.incorrectCount??0)>0)
  const recentlyWrongGroups=new Set(pool.filter(c=>(progress[c.id]?.lastWrongAttempts??0)>0).map(c=>c.confusionGroup).filter(Boolean))
- const score=(c:LoadedVocabulary)=>{const p=progress[c.id]; if(p?.nextReviewAt!==undefined&&p.nextReviewAt<=now)return 1000+errorRate(p)*100; if(errorRate(p)>0)return 700+errorRate(p)*100; if(c.confusionGroup&&recentlyWrongGroups.has(c.confusionGroup))return 500; if(p?.lastReviewedAt)return 300+Math.min(100,(now-p.lastReviewedAt)/86_400_000); return 100}
- return pool.map(c=>({c,s:score(c)+random()})).sort((a,b)=>b.s-a.s).slice(0,options.limit??20).map(x=>x.c)
+ const limit=options.limit??20
+ const score=(c:LoadedVocabulary)=>{const p=progress[c.id];if(errorRate(p)>0)return 700+errorRate(p)*100;if(c.confusionGroup&&recentlyWrongGroups.has(c.confusionGroup))return 500;if(p?.lastReviewedAt)return 200+Math.min(100,(now-p.lastReviewedAt)/86_400_000);return 100}
+ const rank=(items:LoadedVocabulary[])=>items.map(c=>({c,s:score(c)+random()})).sort((a,b)=>b.s-a.s).map(item=>item.c)
+ if(options.mode==='mistakes')return rank(pool).slice(0,limit)
+ const overdue=rank(pool.filter(c=>progress[c.id]?.nextReviewAt!==undefined&&progress[c.id].nextReviewAt!<=now))
+ const selected=overdue.slice(0,limit),selectedIds=new Set(selected.map(c=>c.id))
+ if(selected.length>=limit)return selected
+ const fresh=rank(pool.filter(c=>!progress[c.id]&&!selectedIds.has(c.id)))
+ const reviews=rank(pool.filter(c=>progress[c.id]&&!selectedIds.has(c.id)))
+ const newTarget=Math.min(Math.ceil(limit*.6),limit-selected.length)
+ const chosenNew=fresh.splice(0,newTarget)
+ selected.push(...chosenNew);chosenNew.forEach(c=>selectedIds.add(c.id))
+ selected.push(...reviews.splice(0,limit-selected.length))
+ selected.push(...fresh.splice(0,limit-selected.length))
+ return selected
 }
