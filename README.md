@@ -1,6 +1,6 @@
-# Recall
+# Lexi Cycle
 
-英语主动回忆、拼写与间隔复习网站。前端部署到 Vercel，账户、个人词库和学习进度存储在 Supabase。
+Lexi Cycle 是一个英语主动回忆、拼写与间隔复习网站。前端部署到 Vercel，账户、个人词库和学习进度存储在 Supabase。
 
 ## 本地运行
 
