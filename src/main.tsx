@@ -11,10 +11,11 @@ import { VocabularyPage } from './pages/VocabularyPage'
 import { MistakesPage } from './pages/MistakesPage'
 import { UploadPage } from './pages/UploadPage'
 import { AuthPage } from './pages/AuthPage'
+import { LeaderboardPage } from './pages/LeaderboardPage'
 import { AuthProvider } from './context/AuthContext'
 import { ProtectedRoute } from './components/ProtectedRoute'
 import './styles.css'
 import './homeStats.css'
 const protect=(node:ReactNode)=><ProtectedRoute>{node}</ProtectedRoute>
-const router=createBrowserRouter([{path:'/login',element:<AuthPage/>},{element:protect(<AppShell/>),children:[{path:'/',element:<HomePage/>},{path:'/vocabulary',element:<VocabularyPage/>},{path:'/upload',element:<UploadPage/>},{path:'/mistakes',element:<MistakesPage/>}]},{path:'/practice',element:protect(<PracticePage/>)},{path:'/summary',element:protect(<SummaryPage/>)}])
+const router=createBrowserRouter([{path:'/login',element:<AuthPage/>},{element:protect(<AppShell/>),children:[{path:'/',element:<HomePage/>},{path:'/vocabulary',element:<VocabularyPage/>},{path:'/upload',element:<UploadPage/>},{path:'/mistakes',element:<MistakesPage/>},{path:'/leaderboard',element:<LeaderboardPage/>}]},{path:'/practice',element:protect(<PracticePage/>)},{path:'/summary',element:protect(<SummaryPage/>)}])
 createRoot(document.getElementById('root')!).render(<StrictMode><AuthProvider><AppProvider><SessionProvider><RouterProvider router={router}/></SessionProvider></AppProvider></AuthProvider></StrictMode>)
