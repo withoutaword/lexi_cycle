@@ -20,8 +20,10 @@ export function selectCards(cards:LoadedVocabulary[],progress:Record<string,Lear
  const selected=overdue.slice(0,reviewTarget),selectedIds=new Set(selected.map(c=>c.id))
  const chosenNew=fresh.splice(0,newTarget)
  selected.push(...chosenNew);chosenNew.forEach(c=>selectedIds.add(c.id))
- const reviews=rank(pool.filter(c=>progress[c.id]&&!selectedIds.has(c.id)))
+ const reviews=rank(pool.filter(c=>progress[c.id]&&progress[c.id].status!=='mastered'&&!selectedIds.has(c.id)))
+ const mastered=rank(pool.filter(c=>progress[c.id]?.status==='mastered'&&!selectedIds.has(c.id)))
  selected.push(...reviews.splice(0,limit-selected.length))
  selected.push(...fresh.splice(0,limit-selected.length))
+ selected.push(...mastered.splice(0,limit-selected.length))
  return selected
 }

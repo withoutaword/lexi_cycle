@@ -129,6 +129,7 @@ declare
   previous_completed integer;
   base_points integer;
   awarded_points integer;
+  first_mastery boolean;
 begin
   if current_user_id is null then raise exception 'Authentication required'; end if;
   if p_wrong_attempts < 0 then raise exception 'Invalid wrong attempt count'; end if;
@@ -137,8 +138,14 @@ begin
   from public.daily_learning_stats
   where user_id = current_user_id and stat_date = local_date;
   previous_completed := coalesce(previous_completed, 0);
+  first_mastery := p_became_mastered and not exists (
+    select 1 from public.practice_events
+    where user_id = current_user_id
+      and vocabulary_id = p_vocabulary_id
+      and became_mastered
+  );
   base_points := case when p_first_try_correct then 10 when p_eventually_correct then 5 else 0 end
-    + case when p_became_mastered then 20 else 0 end;
+    + case when first_mastery then 20 else 0 end;
   awarded_points := base_points + case when previous_completed = 19 then 20 else 0 end;
 
   insert into public.practice_events (
@@ -146,14 +153,14 @@ begin
     eventually_correct, became_mastered, earned_points
   ) values (
     current_user_id, p_vocabulary_id, p_first_try_correct, p_wrong_attempts,
-    p_eventually_correct, p_became_mastered, awarded_points
+    p_eventually_correct, first_mastery, awarded_points
   );
 
   insert into public.daily_learning_stats (
     user_id, stat_date, completed_count, first_try_correct_count, new_mastered_count, points
   ) values (
     current_user_id, local_date, 1, p_first_try_correct::integer,
-    p_became_mastered::integer, least(300, awarded_points)
+    first_mastery::integer, least(300, awarded_points)
   )
   on conflict (user_id, stat_date) do update set
     completed_count = daily_learning_stats.completed_count + 1,
@@ -162,6 +169,62 @@ begin
     points = least(300, daily_learning_stats.points + excluded.points);
 end;
 $$;
+
+-- Re-identify historical first mastery events using three consecutive,
+-- correctly spaced first-try recalls. This also upgrades v1/v2 event data.
+with ordered_events as (
+  select e.id, e.user_id, e.vocabulary_id, e.reviewed_at, e.first_try_correct,
+    lag(e.first_try_correct, 1) over word_history as previous_correct,
+    lag(e.first_try_correct, 2) over word_history as two_back_correct,
+    lag(e.reviewed_at, 1) over word_history as previous_reviewed_at,
+    lag(e.reviewed_at, 2) over word_history as two_back_reviewed_at
+  from public.practice_events e
+  window word_history as (
+    partition by e.user_id, e.vocabulary_id order by e.reviewed_at, e.id
+  )
+), mastery_candidates as (
+  select *, row_number() over (
+    partition by user_id, vocabulary_id order by reviewed_at, id
+  ) as mastery_number
+  from ordered_events
+  where first_try_correct and previous_correct and two_back_correct
+    and previous_reviewed_at - two_back_reviewed_at >= interval '10 minutes'
+    and reviewed_at - previous_reviewed_at >= interval '1 day'
+), first_masteries as (
+  select id from mastery_candidates where mastery_number = 1
+)
+update public.practice_events e
+set became_mastered = exists (select 1 from first_masteries m where m.id = e.id);
+
+-- Rebuild leaderboard aggregates after applying the three-recall rule.
+with marked_events as (
+  select e.*,
+    (timezone('Asia/Shanghai', e.reviewed_at))::date as local_date,
+    row_number() over (
+      partition by e.user_id, (timezone('Asia/Shanghai', e.reviewed_at))::date
+      order by e.reviewed_at, e.id
+    ) as daily_sequence
+  from public.practice_events e
+), rebuilt as (
+  select user_id, local_date,
+    count(*)::integer as completed_count,
+    count(*) filter (where first_try_correct)::integer as first_try_correct_count,
+    count(*) filter (where became_mastered)::integer as new_mastered_count,
+    least(300, sum(
+      case when first_try_correct then 10 when eventually_correct then 5 else 0 end
+      + case when became_mastered then 20 else 0 end
+      + case when daily_sequence = 20 then 20 else 0 end
+    ))::integer as points
+  from marked_events
+  group by user_id, local_date
+)
+update public.daily_learning_stats d set
+  completed_count = r.completed_count,
+  first_try_correct_count = r.first_try_correct_count,
+  new_mastered_count = r.new_mastered_count,
+  points = r.points
+from rebuilt r
+where d.user_id = r.user_id and d.stat_date = r.local_date;
 
 create or replace function public.current_learning_streak(p_user_id uuid)
 returns integer
