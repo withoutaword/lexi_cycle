@@ -1,0 +1,2029 @@
+{
+  "version": 1,
+  "schema": "vocabulary-source-v1",
+  "dataset": "writing",
+  "datasetZh": "写作常用",
+  "items": [
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "主题词",
+      "lemma": "technological development",
+      "sentence": "Technological development.",
+      "translation": "科技发展",
+      "answer": "technological development",
+      "targetType": "phrase",
+      "id": "task2-0001",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "主题词",
+      "lemma": "technological progress",
+      "sentence": "Technological progress.",
+      "translation": "科技进步",
+      "answer": "technological progress",
+      "targetType": "phrase",
+      "id": "task2-0002",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "主题词",
+      "lemma": "technological advances",
+      "sentence": "Technological advances.",
+      "translation": "科技进步 / 技术进展",
+      "answer": "technological advances",
+      "targetType": "phrase",
+      "id": "task2-0003",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "主题词",
+      "lemma": "modern technology",
+      "sentence": "Modern technology.",
+      "translation": "现代科技",
+      "answer": "modern technology",
+      "targetType": "phrase",
+      "id": "task2-0004",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "主题词",
+      "lemma": "new technologies",
+      "sentence": "New technologies.",
+      "translation": "新技术",
+      "answer": "new technologies",
+      "targetType": "phrase",
+      "id": "task2-0005",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "主题词",
+      "lemma": "digital technology",
+      "sentence": "Digital technology.",
+      "translation": "数字技术",
+      "answer": "digital technology",
+      "targetType": "phrase",
+      "id": "task2-0006",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "问题",
+      "lemma": "create new challenges",
+      "sentence": "Create new challenges.",
+      "translation": "带来新的挑战",
+      "answer": "create new challenges",
+      "targetType": "phrase",
+      "id": "task2-0007",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "问题",
+      "lemma": "introduce new challenges",
+      "sentence": "Introduce new challenges.",
+      "translation": "带来新的挑战",
+      "answer": "introduce new challenges",
+      "targetType": "phrase",
+      "id": "task2-0008",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "问题",
+      "lemma": "cause problems",
+      "sentence": "Cause problems.",
+      "translation": "导致问题",
+      "answer": "cause problems",
+      "targetType": "phrase",
+      "id": "task2-0009",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "问题",
+      "lemma": "face challenges",
+      "sentence": "Face challenges.",
+      "translation": "面临挑战",
+      "answer": "face challenges",
+      "targetType": "phrase",
+      "id": "task2-0010",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "问题",
+      "lemma": "address problems",
+      "sentence": "Address problems.",
+      "translation": "解决 / 应对问题",
+      "answer": "address problems",
+      "targetType": "phrase",
+      "id": "task2-0011",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "问题",
+      "lemma": "overcome difficulties",
+      "sentence": "Overcome difficulties.",
+      "translation": "克服困难",
+      "answer": "overcome difficulties",
+      "targetType": "phrase",
+      "id": "task2-0012",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "问题",
+      "lemma": "pose a challenge to",
+      "sentence": "Pose a challenge to modern society.",
+      "translation": "对……构成挑战",
+      "answer": "pose a challenge to",
+      "targetType": "phrase",
+      "id": "task2-0013",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "好处",
+      "lemma": "provide greater convenience",
+      "sentence": "Provide greater convenience.",
+      "translation": "提供更大的便利",
+      "answer": "provide greater convenience",
+      "targetType": "phrase",
+      "id": "task2-0014",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "好处",
+      "lemma": "make people's lives easier",
+      "sentence": "Make people's lives easier.",
+      "translation": "让人们的生活更轻松",
+      "answer": "make people's lives easier",
+      "targetType": "phrase",
+      "id": "task2-0015",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "好处",
+      "lemma": "make everyday tasks easier",
+      "sentence": "Make everyday tasks easier.",
+      "translation": "让日常任务更容易",
+      "answer": "make everyday tasks easier",
+      "targetType": "phrase",
+      "id": "task2-0016",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "好处",
+      "lemma": "simplify everyday tasks",
+      "sentence": "Simplify everyday tasks.",
+      "translation": "简化日常任务",
+      "answer": "simplify everyday tasks",
+      "targetType": "phrase",
+      "id": "task2-0017",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "好处",
+      "lemma": "simplify the process of",
+      "sentence": "Simplify the process of applying for public services.",
+      "translation": "简化……的过程",
+      "answer": "simplify the process of",
+      "targetType": "phrase",
+      "id": "task2-0018",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "好处",
+      "lemma": "make it easier for people to",
+      "sentence": "Make it easier for people to access information.",
+      "translation": "让人们更容易……",
+      "answer": "make it easier for people to",
+      "targetType": "phrase",
+      "id": "task2-0019",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "好处",
+      "lemma": "bring significant benefits",
+      "sentence": "Bring significant benefits.",
+      "translation": "带来显著好处",
+      "answer": "bring significant benefits",
+      "targetType": "phrase",
+      "id": "task2-0020",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "好处",
+      "lemma": "bring long-term benefits",
+      "sentence": "Bring long-term benefits.",
+      "translation": "带来长期好处",
+      "answer": "bring long-term benefits",
+      "targetType": "phrase",
+      "id": "task2-0021",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "好处",
+      "lemma": "provide considerable benefits",
+      "sentence": "Provide considerable benefits.",
+      "translation": "提供相当大的好处",
+      "answer": "provide considerable benefits",
+      "targetType": "phrase",
+      "id": "task2-0022",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "好处",
+      "lemma": "be beneficial to",
+      "sentence": "Be beneficial to society as a whole.",
+      "translation": "对……有益",
+      "answer": "be beneficial to",
+      "targetType": "phrase",
+      "id": "task2-0023",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "好处",
+      "lemma": "benefit from",
+      "sentence": "Benefit from technological progress.",
+      "translation": "从……中受益",
+      "answer": "benefit from",
+      "targetType": "phrase",
+      "id": "task2-0024",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "影响",
+      "lemma": "have a positive effect on",
+      "sentence": "Have a positive effect on productivity.",
+      "translation": "对……产生积极影响",
+      "answer": "have a positive effect on",
+      "targetType": "phrase",
+      "id": "task2-0025",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "影响",
+      "lemma": "have a positive impact on",
+      "sentence": "Have a positive impact on living standards.",
+      "translation": "对……产生积极影响",
+      "answer": "have a positive impact on",
+      "targetType": "phrase",
+      "id": "task2-0026",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "影响",
+      "lemma": "have a negative effect on",
+      "sentence": "Have a negative effect on mental health.",
+      "translation": "对……产生负面影响",
+      "answer": "have a negative effect on",
+      "targetType": "phrase",
+      "id": "task2-0027",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "影响",
+      "lemma": "have a significant impact on",
+      "sentence": "Have a significant impact on everyday life.",
+      "translation": "对……产生显著影响",
+      "answer": "have a significant impact on",
+      "targetType": "phrase",
+      "id": "task2-0028",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "影响",
+      "lemma": "positively affect",
+      "sentence": "Positively affect public services.",
+      "translation": "对……产生积极影响",
+      "answer": "positively affect",
+      "targetType": "phrase",
+      "id": "task2-0029",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "影响",
+      "lemma": "negatively affect",
+      "sentence": "Negatively affect personal relationships.",
+      "translation": "对……产生负面影响",
+      "answer": "negatively affect",
+      "targetType": "phrase",
+      "id": "task2-0030",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "改善",
+      "lemma": "improve efficiency",
+      "sentence": "Improve efficiency.",
+      "translation": "提高效率",
+      "answer": "improve efficiency",
+      "targetType": "phrase",
+      "id": "task2-0031",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "改善",
+      "lemma": "improve productivity",
+      "sentence": "Improve productivity.",
+      "translation": "提高生产力",
+      "answer": "improve productivity",
+      "targetType": "phrase",
+      "id": "task2-0032",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "改善",
+      "lemma": "improve performance",
+      "sentence": "Improve performance.",
+      "translation": "提高表现 / 性能",
+      "answer": "improve performance",
+      "targetType": "phrase",
+      "id": "task2-0033",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "改善",
+      "lemma": "improve quality",
+      "sentence": "Improve quality.",
+      "translation": "提高质量",
+      "answer": "improve quality",
+      "targetType": "phrase",
+      "id": "task2-0034",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "改善",
+      "lemma": "improve access to",
+      "sentence": "Improve access to education.",
+      "translation": "改善获得……的机会",
+      "answer": "improve access to",
+      "targetType": "phrase",
+      "id": "task2-0035",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "改善",
+      "lemma": "improve communication",
+      "sentence": "Improve communication.",
+      "translation": "改善沟通",
+      "answer": "improve communication",
+      "targetType": "phrase",
+      "id": "task2-0036",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "改善",
+      "lemma": "improve public services",
+      "sentence": "Improve public services.",
+      "translation": "改善公共服务",
+      "answer": "improve public services",
+      "targetType": "phrase",
+      "id": "task2-0037",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "改善",
+      "lemma": "improve living standards",
+      "sentence": "Improve living standards.",
+      "translation": "提高生活水平",
+      "answer": "improve living standards",
+      "targetType": "phrase",
+      "id": "task2-0038",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "改善",
+      "lemma": "improve people's quality of life",
+      "sentence": "Improve people's quality of life.",
+      "translation": "提高人们的生活质量",
+      "answer": "improve people's quality of life",
+      "targetType": "phrase",
+      "id": "task2-0039",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "增加",
+      "lemma": "increase the number of",
+      "sentence": "Increase the number of skilled workers.",
+      "translation": "增加……的数量（可数）",
+      "answer": "increase the number of",
+      "targetType": "phrase",
+      "id": "task2-0040",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "增加",
+      "lemma": "increase the amount of",
+      "sentence": "Increase the amount of information available.",
+      "translation": "增加……的数量（不可数）",
+      "answer": "increase the amount of",
+      "targetType": "phrase",
+      "id": "task2-0041",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "增加",
+      "lemma": "increase costs",
+      "sentence": "Increase costs.",
+      "translation": "增加成本",
+      "answer": "increase costs",
+      "targetType": "phrase",
+      "id": "task2-0042",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "增加",
+      "lemma": "increase pressure",
+      "sentence": "Increase pressure.",
+      "translation": "增加压力",
+      "answer": "increase pressure",
+      "targetType": "phrase",
+      "id": "task2-0043",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "增加",
+      "lemma": "increase demand for",
+      "sentence": "Increase demand for digital services.",
+      "translation": "增加对……的需求",
+      "answer": "increase demand for",
+      "targetType": "phrase",
+      "id": "task2-0044",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "增加",
+      "lemma": "increase the risk of",
+      "sentence": "Increase the risk of data theft.",
+      "translation": "增加……的风险",
+      "answer": "increase the risk of",
+      "targetType": "phrase",
+      "id": "task2-0045",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce time and effort",
+      "sentence": "Reduce time and effort.",
+      "translation": "减少时间和精力",
+      "answer": "reduce time and effort",
+      "targetType": "phrase",
+      "id": "task2-0046",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce the time required to",
+      "sentence": "Reduce the time required to complete routine tasks.",
+      "translation": "减少做……所需的时间",
+      "answer": "reduce the time required to",
+      "targetType": "phrase",
+      "id": "task2-0047",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce the effort required to",
+      "sentence": "Reduce the effort required to find information.",
+      "translation": "减少做……所需的精力",
+      "answer": "reduce the effort required to",
+      "targetType": "phrase",
+      "id": "task2-0048",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce the need to",
+      "sentence": "Reduce the need to travel.",
+      "translation": "减少……的必要",
+      "answer": "reduce the need to",
+      "targetType": "phrase",
+      "id": "task2-0049",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce barriers to",
+      "sentence": "Reduce barriers to education.",
+      "translation": "减少……的障碍",
+      "answer": "reduce barriers to",
+      "targetType": "phrase",
+      "id": "task2-0050",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce costs",
+      "sentence": "Reduce costs.",
+      "translation": "降低成本",
+      "answer": "reduce costs",
+      "targetType": "phrase",
+      "id": "task2-0051",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce pollution",
+      "sentence": "Reduce pollution.",
+      "translation": "减少污染",
+      "answer": "reduce pollution",
+      "targetType": "phrase",
+      "id": "task2-0052",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce traffic congestion",
+      "sentence": "Reduce traffic congestion.",
+      "translation": "缓解交通拥堵",
+      "answer": "reduce traffic congestion",
+      "targetType": "phrase",
+      "id": "task2-0053",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce pressure",
+      "sentence": "Reduce pressure.",
+      "translation": "减轻压力",
+      "answer": "reduce pressure",
+      "targetType": "phrase",
+      "id": "task2-0054",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce stress",
+      "sentence": "Reduce stress.",
+      "translation": "减轻压力",
+      "answer": "reduce stress",
+      "targetType": "phrase",
+      "id": "task2-0055",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce inequality",
+      "sentence": "Reduce inequality.",
+      "translation": "减少不平等",
+      "answer": "reduce inequality",
+      "targetType": "phrase",
+      "id": "task2-0056",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce the risk of",
+      "sentence": "Reduce the risk of human error.",
+      "translation": "降低……的风险",
+      "answer": "reduce the risk of",
+      "targetType": "phrase",
+      "id": "task2-0057",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce dependence on",
+      "sentence": "Reduce dependence on fossil fuels.",
+      "translation": "减少对……的依赖",
+      "answer": "reduce dependence on",
+      "targetType": "phrase",
+      "id": "task2-0058",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce unnecessary work",
+      "sentence": "Reduce unnecessary work.",
+      "translation": "减少不必要的工作",
+      "answer": "reduce unnecessary work",
+      "targetType": "phrase",
+      "id": "task2-0059",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "减少",
+      "lemma": "reduce workload",
+      "sentence": "Reduce workload.",
+      "translation": "减少工作量",
+      "answer": "reduce workload",
+      "targetType": "phrase",
+      "id": "task2-0060",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "效率",
+      "lemma": "save time and effort",
+      "sentence": "Save time and effort.",
+      "translation": "节省时间和精力",
+      "answer": "save time and effort",
+      "targetType": "phrase",
+      "id": "task2-0061",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "成本",
+      "lemma": "require more time and effort",
+      "sentence": "Require more time and effort.",
+      "translation": "需要更多时间和精力",
+      "answer": "require more time and effort",
+      "targetType": "phrase",
+      "id": "task2-0062",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "成本",
+      "lemma": "require people to learn new skills",
+      "sentence": "Require people to learn new skills.",
+      "translation": "要求人们学习新技能",
+      "answer": "require people to learn new skills",
+      "targetType": "phrase",
+      "id": "task2-0063",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "成本",
+      "lemma": "require people to adapt to",
+      "sentence": "Require people to adapt to new working methods.",
+      "translation": "要求人们适应……",
+      "answer": "require people to adapt to",
+      "targetType": "phrase",
+      "id": "task2-0064",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "成本",
+      "lemma": "require significant investment",
+      "sentence": "Require significant investment.",
+      "translation": "需要大量投资",
+      "answer": "require significant investment",
+      "targetType": "phrase",
+      "id": "task2-0065",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "成本",
+      "lemma": "require additional resources",
+      "sentence": "Require additional resources.",
+      "translation": "需要额外资源",
+      "answer": "require additional resources",
+      "targetType": "phrase",
+      "id": "task2-0066",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "成本",
+      "lemma": "require careful planning",
+      "sentence": "Require careful planning.",
+      "translation": "需要仔细规划",
+      "answer": "require careful planning",
+      "targetType": "phrase",
+      "id": "task2-0067",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "机制",
+      "lemma": "allow people to",
+      "sentence": "Allow people to work remotely.",
+      "translation": "让 / 允许人们……",
+      "answer": "allow people to",
+      "targetType": "phrase",
+      "id": "task2-0068",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "机制",
+      "lemma": "enable people to",
+      "sentence": "Enable people to communicate instantly.",
+      "translation": "使人们能够……",
+      "answer": "enable people to",
+      "targetType": "phrase",
+      "id": "task2-0069",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "机制",
+      "lemma": "give people access to",
+      "sentence": "Give people access to reliable information.",
+      "translation": "让人们能够获得……",
+      "answer": "give people access to",
+      "targetType": "phrase",
+      "id": "task2-0070",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "机制",
+      "lemma": "make it possible for people to",
+      "sentence": "Make it possible for people to study remotely.",
+      "translation": "使人们能够……",
+      "answer": "make it possible for people to",
+      "targetType": "phrase",
+      "id": "task2-0071",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "因果",
+      "lemma": "lead to",
+      "sentence": "Lead to higher productivity.",
+      "translation": "导致……",
+      "answer": "lead to",
+      "targetType": "phrase",
+      "id": "task2-0072",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "因果",
+      "lemma": "result in",
+      "sentence": "Result in lower costs.",
+      "translation": "导致……",
+      "answer": "result in",
+      "targetType": "phrase",
+      "id": "task2-0073",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "因果",
+      "lemma": "result from",
+      "sentence": "Result from poor planning.",
+      "translation": "由……导致",
+      "answer": "result from",
+      "targetType": "phrase",
+      "id": "task2-0074",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "因果",
+      "lemma": "contribute to",
+      "sentence": "Contribute to economic growth.",
+      "translation": "导致 / 促成……",
+      "answer": "contribute to",
+      "targetType": "phrase",
+      "id": "task2-0075",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "因果",
+      "lemma": "as a result",
+      "sentence": "As a result.",
+      "translation": "因此 / 结果是",
+      "answer": "as a result",
+      "targetType": "phrase",
+      "id": "task2-0076",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "因果",
+      "lemma": "thereby reducing",
+      "sentence": "Online services save travel time, thereby reducing traffic congestion.",
+      "translation": "在线服务节省出行时间，从而缓解交通拥堵",
+      "answer": "thereby reducing",
+      "targetType": "phrase",
+      "id": "task2-0077",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "因果",
+      "lemma": "which in turn",
+      "sentence": "Technology can improve efficiency, which in turn reduces costs.",
+      "translation": "科技能够提高效率，进而降低成本",
+      "answer": "which in turn",
+      "targetType": "phrase",
+      "id": "task2-0078",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "机制",
+      "lemma": "by reducing",
+      "sentence": "Technology improves productivity by reducing the time spent on routine tasks.",
+      "translation": "科技通过减少花在日常任务上的时间来提高生产力",
+      "answer": "by reducing",
+      "targetType": "phrase",
+      "id": "task2-0079",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "机会",
+      "lemma": "create opportunities",
+      "sentence": "Create opportunities.",
+      "translation": "创造机会",
+      "answer": "create opportunities",
+      "targetType": "phrase",
+      "id": "task2-0080",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "机会",
+      "lemma": "create jobs",
+      "sentence": "Create jobs.",
+      "translation": "创造就业机会",
+      "answer": "create jobs",
+      "targetType": "phrase",
+      "id": "task2-0081",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "机会",
+      "lemma": "provide opportunities for",
+      "sentence": "Provide opportunities for young people.",
+      "translation": "为……提供机会",
+      "answer": "provide opportunities for",
+      "targetType": "phrase",
+      "id": "task2-0082",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "机会",
+      "lemma": "give people the opportunity to",
+      "sentence": "Give people the opportunity to learn new skills.",
+      "translation": "给人们……的机会",
+      "answer": "give people the opportunity to",
+      "targetType": "phrase",
+      "id": "task2-0083",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "障碍",
+      "lemma": "remove barriers to",
+      "sentence": "Remove barriers to employment.",
+      "translation": "消除……的障碍",
+      "answer": "remove barriers to",
+      "targetType": "phrase",
+      "id": "task2-0084",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "障碍",
+      "lemma": "overcome barriers to",
+      "sentence": "Overcome barriers to communication.",
+      "translation": "克服……的障碍",
+      "answer": "overcome barriers to",
+      "targetType": "phrase",
+      "id": "task2-0085",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "障碍",
+      "lemma": "be a barrier to",
+      "sentence": "Be a barrier to social mobility.",
+      "translation": "成为……的障碍",
+      "answer": "be a barrier to",
+      "targetType": "phrase",
+      "id": "task2-0086",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "障碍",
+      "lemma": "be an obstacle to",
+      "sentence": "Be an obstacle to technological development.",
+      "translation": "成为……的障碍",
+      "answer": "be an obstacle to",
+      "targetType": "phrase",
+      "id": "task2-0087",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "距离",
+      "lemma": "regardless of distance",
+      "sentence": "Regardless of distance.",
+      "translation": "不受距离限制",
+      "answer": "regardless of distance",
+      "targetType": "phrase",
+      "id": "task2-0088",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "距离",
+      "lemma": "regardless of location",
+      "sentence": "Regardless of location.",
+      "translation": "不受地点限制",
+      "answer": "regardless of location",
+      "targetType": "phrase",
+      "id": "task2-0089",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "距离",
+      "lemma": "be dependent on physical location",
+      "sentence": "Be dependent on physical location.",
+      "translation": "依赖物理位置",
+      "answer": "be dependent on physical location",
+      "targetType": "phrase",
+      "id": "task2-0090",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "距离",
+      "lemma": "reduce geographical barriers",
+      "sentence": "Reduce geographical barriers.",
+      "translation": "减少地理障碍",
+      "answer": "reduce geographical barriers",
+      "targetType": "phrase",
+      "id": "task2-0091",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "距离",
+      "lemma": "work remotely",
+      "sentence": "Work remotely.",
+      "translation": "远程工作",
+      "answer": "work remotely",
+      "targetType": "phrase",
+      "id": "task2-0092",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "距离",
+      "lemma": "complete tasks remotely",
+      "sentence": "Complete tasks remotely.",
+      "translation": "远程完成任务",
+      "answer": "complete tasks remotely",
+      "targetType": "phrase",
+      "id": "task2-0093",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "沟通",
+      "lemma": "maintain relationships",
+      "sentence": "Maintain relationships.",
+      "translation": "维持人际关系",
+      "answer": "maintain relationships",
+      "targetType": "phrase",
+      "id": "task2-0094",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "沟通",
+      "lemma": "exchange information",
+      "sentence": "Exchange information.",
+      "translation": "交换信息",
+      "answer": "exchange information",
+      "targetType": "phrase",
+      "id": "task2-0095",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "沟通",
+      "lemma": "communicate instantly",
+      "sentence": "Communicate instantly.",
+      "translation": "即时沟通",
+      "answer": "communicate instantly",
+      "targetType": "phrase",
+      "id": "task2-0096",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "沟通",
+      "lemma": "access information",
+      "sentence": "Access information.",
+      "translation": "获取信息",
+      "answer": "access information",
+      "targetType": "phrase",
+      "id": "task2-0097",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "科技问题",
+      "lemma": "protect personal data",
+      "sentence": "Protect personal data.",
+      "translation": "保护个人数据",
+      "answer": "protect personal data",
+      "targetType": "phrase",
+      "id": "task2-0098",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "科技问题",
+      "lemma": "manage online accounts",
+      "sentence": "Manage online accounts.",
+      "translation": "管理网络账户",
+      "answer": "manage online accounts",
+      "targetType": "phrase",
+      "id": "task2-0099",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "科技问题",
+      "lemma": "information overload",
+      "sentence": "Information overload.",
+      "translation": "信息过载",
+      "answer": "information overload",
+      "targetType": "phrase",
+      "id": "task2-0100",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "科技问题",
+      "lemma": "privacy concerns",
+      "sentence": "Privacy concerns.",
+      "translation": "隐私问题 / 担忧",
+      "answer": "privacy concerns",
+      "targetType": "phrase",
+      "id": "task2-0101",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "科技问题",
+      "lemma": "a constant flow of information",
+      "sentence": "A constant flow of information.",
+      "translation": "持续不断的信息流",
+      "answer": "a constant flow of information",
+      "targetType": "phrase",
+      "id": "task2-0102",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "适应",
+      "lemma": "become familiar with",
+      "sentence": "Become familiar with new digital tools.",
+      "translation": "熟悉……",
+      "answer": "become familiar with",
+      "targetType": "phrase",
+      "id": "task2-0103",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "适应",
+      "lemma": "adapt to new technology",
+      "sentence": "Adapt to new technology.",
+      "translation": "适应新科技",
+      "answer": "adapt to new technology",
+      "targetType": "phrase",
+      "id": "task2-0104",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "适应",
+      "lemma": "learn new skills",
+      "sentence": "Learn new skills.",
+      "translation": "学习新技能",
+      "answer": "learn new skills",
+      "targetType": "phrase",
+      "id": "task2-0105",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "权衡",
+      "lemma": "in the short term",
+      "sentence": "In the short term.",
+      "translation": "短期来看",
+      "answer": "in the short term",
+      "targetType": "phrase",
+      "id": "task2-0106",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "权衡",
+      "lemma": "in the long term",
+      "sentence": "In the long term.",
+      "translation": "长期来看",
+      "answer": "in the long term",
+      "targetType": "phrase",
+      "id": "task2-0107",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "权衡",
+      "lemma": "create short-term difficulties",
+      "sentence": "Create short-term difficulties.",
+      "translation": "造成短期困难",
+      "answer": "create short-term difficulties",
+      "targetType": "phrase",
+      "id": "task2-0108",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "让步",
+      "lemma": "although",
+      "sentence": "Although automation may create short-term difficulties, it can bring long-term benefits.",
+      "translation": "尽管自动化可能造成短期困难，但它能带来长期收益",
+      "answer": "although",
+      "targetType": "word",
+      "id": "task2-0109",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "让步",
+      "lemma": "while",
+      "sentence": "While new technology may be expensive, it can improve efficiency.",
+      "translation": "虽然新技术可能成本高昂，但它能提高效率",
+      "answer": "while",
+      "targetType": "word",
+      "id": "task2-0110",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "让步",
+      "lemma": "admittedly",
+      "sentence": "Admittedly, adapting to new technology may require time and effort.",
+      "translation": "不可否认，适应新技术可能需要时间和精力",
+      "answer": "admittedly",
+      "targetType": "word",
+      "id": "task2-0111",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "反驳",
+      "lemma": "does not necessarily mean that",
+      "sentence": "However, this does not necessarily mean that technology is harmful.",
+      "translation": "然而，这并不一定意味着科技是有害的",
+      "answer": "does not necessarily mean that",
+      "targetType": "phrase",
+      "id": "task2-0112",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "权衡",
+      "lemma": "do not outweigh",
+      "sentence": "These difficulties do not outweigh the long-term benefits.",
+      "translation": "这些困难并不足以超过长期收益",
+      "answer": "do not outweigh",
+      "targetType": "phrase",
+      "id": "task2-0113",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "深层分析",
+      "lemma": "lies not in",
+      "sentence": "The problem lies not in technology itself, but in how people use it.",
+      "translation": "问题不在科技本身，而在于人们如何使用它",
+      "answer": "lies not in",
+      "targetType": "phrase",
+      "id": "task2-0114",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "立场",
+      "lemma": "largely agree",
+      "sentence": "I largely agree that technology improves people's quality of life.",
+      "translation": "我总体同意科技能提高人们的生活质量",
+      "answer": "largely agree",
+      "targetType": "phrase",
+      "id": "task2-0115",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "结论",
+      "lemma": "therefore agree",
+      "sentence": "I therefore agree that governments should improve digital access.",
+      "translation": "因此，我同意政府应改善数字技术的可及性",
+      "answer": "therefore agree",
+      "targetType": "phrase",
+      "id": "task2-0116",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "程度/权衡",
+      "lemma": "overall",
+      "sentence": "Overall.",
+      "translation": "总体而言",
+      "answer": "overall",
+      "targetType": "word",
+      "id": "task2-0117",
+      "tags": [
+        "ielts-writing",
+        "task2-expression"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文常用表达",
+      "conceptGroup": "成本",
+      "lemma": "require time and effort",
+      "sentence": "Require time and effort.",
+      "translation": "需要时间和精力",
+      "answer": "require time and effort",
+      "targetType": "phrase",
+      "id": "task2-0118",
+      "tags": [
+        "ielts-writing",
+        "task2-expression",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    }
+  ]
+}
