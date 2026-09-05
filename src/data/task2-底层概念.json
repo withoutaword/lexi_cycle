@@ -1,0 +1,2396 @@
+{
+  "version": 1,
+  "schema": "vocabulary-source-v1",
+  "dataset": "task2-core-concepts",
+  "datasetZh": "task2-底层概念",
+  "items": [
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Time / Effort",
+      "conceptGroupZh": "时间与精力",
+      "lemma": "save time and effort",
+      "sentence": "Modern technology can save time and effort.",
+      "translation": "节省时间和精力",
+      "answer": "save time and effort",
+      "targetType": "phrase",
+      "id": "task2-core-0001",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Time / Effort",
+      "conceptGroupZh": "时间与精力",
+      "lemma": "require time and effort",
+      "sentence": "Learning a new skill can require time and effort.",
+      "translation": "学习一项新技能可能需要时间和精力。",
+      "answer": "require time and effort",
+      "targetType": "phrase",
+      "id": "task2-core-0002",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Time / Effort",
+      "conceptGroupZh": "时间与精力",
+      "lemma": "reduce the time and effort required to complete everyday tasks",
+      "sentence": "Modern technology can reduce the time and effort required to complete everyday tasks.",
+      "translation": "减少做……所需的时间和精力",
+      "answer": "reduce the time and effort required to complete everyday tasks",
+      "targetType": "phrase",
+      "id": "task2-core-0003",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Time / Effort",
+      "conceptGroupZh": "时间与精力",
+      "lemma": "spend time doing repetitive tasks",
+      "sentence": "Employees often spend time doing repetitive tasks.",
+      "translation": "员工经常花时间处理重复性任务。",
+      "answer": "spend time doing repetitive tasks",
+      "targetType": "phrase",
+      "id": "task2-core-0004",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Time / Effort",
+      "conceptGroupZh": "时间与精力",
+      "lemma": "reduce the need to travel",
+      "sentence": "Modern technology can reduce the need to travel.",
+      "translation": "减少做……的必要性",
+      "answer": "reduce the need to travel",
+      "targetType": "phrase",
+      "id": "task2-core-0005",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Time / Effort",
+      "conceptGroupZh": "时间与精力",
+      "lemma": "be time-consuming",
+      "sentence": "Adapting to a new system can be time-consuming.",
+      "translation": "适应新系统可能很耗时。",
+      "answer": "be time-consuming",
+      "targetType": "phrase",
+      "id": "task2-core-0006",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Cost / Funding",
+      "conceptGroupZh": "成本与资金",
+      "lemma": "require significant funding",
+      "sentence": "A major public programme may require significant funding.",
+      "translation": "需要大量资金",
+      "answer": "require significant funding",
+      "targetType": "phrase",
+      "id": "task2-core-0007",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Cost / Funding",
+      "conceptGroupZh": "成本与资金",
+      "lemma": "require additional resources",
+      "sentence": "A major public programme may require additional resources.",
+      "translation": "需要额外资源",
+      "answer": "require additional resources",
+      "targetType": "phrase",
+      "id": "task2-core-0008",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Cost / Funding",
+      "conceptGroupZh": "成本与资金",
+      "lemma": "reduce costs",
+      "sentence": "A major public programme may reduce costs.",
+      "translation": "降低成本",
+      "answer": "reduce costs",
+      "targetType": "phrase",
+      "id": "task2-core-0009",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Cost / Funding",
+      "conceptGroupZh": "成本与资金",
+      "lemma": "increase public spending",
+      "sentence": "A major public programme may increase public spending.",
+      "translation": "增加公共支出",
+      "answer": "increase public spending",
+      "targetType": "phrase",
+      "id": "task2-core-0010",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Cost / Funding",
+      "conceptGroupZh": "成本与资金",
+      "lemma": "place financial pressure on local governments",
+      "sentence": "A major public programme may place financial pressure on local governments.",
+      "translation": "给……造成财政压力",
+      "answer": "place financial pressure on local governments",
+      "targetType": "phrase",
+      "id": "task2-core-0011",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Cost / Funding",
+      "conceptGroupZh": "成本与资金",
+      "lemma": "allocate resources to public education",
+      "sentence": "A major public programme may allocate resources to public education.",
+      "translation": "将资金/资源分配给……",
+      "answer": "allocate resources to public education",
+      "targetType": "phrase",
+      "id": "task2-core-0012",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Cost / Funding",
+      "conceptGroupZh": "成本与资金",
+      "lemma": "invest in essential public services",
+      "sentence": "A major public programme may invest in essential public services.",
+      "translation": "投资于……",
+      "answer": "invest in essential public services",
+      "targetType": "phrase",
+      "id": "task2-core-0013",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Cost / Funding",
+      "conceptGroupZh": "成本与资金",
+      "lemma": "have limited public budgets",
+      "sentence": "Governments often have limited public budgets.",
+      "translation": "政府的公共预算往往有限。",
+      "answer": "have limited public budgets",
+      "targetType": "phrase",
+      "id": "task2-core-0014",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Access / Opportunity",
+      "conceptGroupZh": "获取机会",
+      "lemma": "have access to high-quality education",
+      "sentence": "Students in remote areas should have access to high-quality education.",
+      "translation": "偏远地区的学生应当能够获得优质教育。",
+      "answer": "have access to high-quality education",
+      "targetType": "phrase",
+      "id": "task2-core-0015",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Access / Opportunity",
+      "conceptGroupZh": "获取机会",
+      "lemma": "provide access to reliable information",
+      "sentence": "Well-designed online services can provide access to reliable information.",
+      "translation": "提供……的获取机会",
+      "answer": "provide access to reliable information",
+      "targetType": "phrase",
+      "id": "task2-core-0016",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Access / Opportunity",
+      "conceptGroupZh": "获取机会",
+      "lemma": "improve access to healthcare",
+      "sentence": "Well-designed online services can improve access to healthcare.",
+      "translation": "改善……的可及性",
+      "answer": "improve access to healthcare",
+      "targetType": "phrase",
+      "id": "task2-core-0017",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Access / Opportunity",
+      "conceptGroupZh": "获取机会",
+      "lemma": "provide opportunities for young people",
+      "sentence": "Well-designed online services can provide opportunities for young people.",
+      "translation": "为……提供机会",
+      "answer": "provide opportunities for young people",
+      "targetType": "phrase",
+      "id": "task2-core-0018",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Access / Opportunity",
+      "conceptGroupZh": "获取机会",
+      "lemma": "create opportunities for disadvantaged groups",
+      "sentence": "Well-designed online services can create opportunities for disadvantaged groups.",
+      "translation": "创造机会",
+      "answer": "create opportunities for disadvantaged groups",
+      "targetType": "phrase",
+      "id": "task2-core-0019",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Access / Opportunity",
+      "conceptGroupZh": "获取机会",
+      "lemma": "have equal access to public services",
+      "sentence": "All citizens should have equal access to public services.",
+      "translation": "所有公民都应当能够平等获得公共服务。",
+      "answer": "have equal access to public services",
+      "targetType": "phrase",
+      "id": "task2-core-0020",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Access / Opportunity",
+      "conceptGroupZh": "获取机会",
+      "lemma": "expand access to higher education",
+      "sentence": "Well-designed online services can expand access to higher education.",
+      "translation": "扩大……的可及性",
+      "answer": "expand access to higher education",
+      "targetType": "phrase",
+      "id": "task2-core-0021",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Efficiency / Productivity",
+      "conceptGroupZh": "效率与生产力",
+      "lemma": "improve efficiency",
+      "sentence": "Automation can improve efficiency.",
+      "translation": "提高效率",
+      "answer": "improve efficiency",
+      "targetType": "phrase",
+      "id": "task2-core-0022",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Efficiency / Productivity",
+      "conceptGroupZh": "效率与生产力",
+      "lemma": "increase productivity",
+      "sentence": "Automation can increase productivity.",
+      "translation": "提高生产力",
+      "answer": "increase productivity",
+      "targetType": "phrase",
+      "id": "task2-core-0023",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Efficiency / Productivity",
+      "conceptGroupZh": "效率与生产力",
+      "lemma": "make public services more efficient",
+      "sentence": "Automation can make public services more efficient.",
+      "translation": "让……更高效",
+      "answer": "make public services more efficient",
+      "targetType": "phrase",
+      "id": "task2-core-0024",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Efficiency / Productivity",
+      "conceptGroupZh": "效率与生产力",
+      "lemma": "improve work efficiency",
+      "sentence": "Automation can improve work efficiency.",
+      "translation": "提高工作效率",
+      "answer": "improve work efficiency",
+      "targetType": "phrase",
+      "id": "task2-core-0025",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Efficiency / Productivity",
+      "conceptGroupZh": "效率与生产力",
+      "lemma": "reduce unnecessary work",
+      "sentence": "Automation can reduce unnecessary work.",
+      "translation": "减少不必要的工作",
+      "answer": "reduce unnecessary work",
+      "targetType": "phrase",
+      "id": "task2-core-0026",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Efficiency / Productivity",
+      "conceptGroupZh": "效率与生产力",
+      "lemma": "streamline a process",
+      "sentence": "Automation can streamline a process.",
+      "translation": "简化流程",
+      "answer": "streamline a process",
+      "targetType": "phrase",
+      "id": "task2-core-0027",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Health / Well-being",
+      "conceptGroupZh": "健康与福祉",
+      "lemma": "improve physical health",
+      "sentence": "Public policy can improve physical health.",
+      "translation": "改善身体健康",
+      "answer": "improve physical health",
+      "targetType": "phrase",
+      "id": "task2-core-0028",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Health / Well-being",
+      "conceptGroupZh": "健康与福祉",
+      "lemma": "protect public health",
+      "sentence": "Public policy can protect public health.",
+      "translation": "保护公共健康",
+      "answer": "protect public health",
+      "targetType": "phrase",
+      "id": "task2-core-0029",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Health / Well-being",
+      "conceptGroupZh": "健康与福祉",
+      "lemma": "improve mental well-being",
+      "sentence": "Public policy can improve mental well-being.",
+      "translation": "改善心理福祉",
+      "answer": "improve mental well-being",
+      "targetType": "phrase",
+      "id": "task2-core-0030",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Health / Well-being",
+      "conceptGroupZh": "健康与福祉",
+      "lemma": "improve quality of life",
+      "sentence": "Public policy can improve quality of life.",
+      "translation": "提高生活质量",
+      "answer": "improve quality of life",
+      "targetType": "phrase",
+      "id": "task2-core-0031",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Health / Well-being",
+      "conceptGroupZh": "健康与福祉",
+      "lemma": "pose a risk to health",
+      "sentence": "Air pollution can pose a risk to health.",
+      "translation": "空气污染可能对健康构成风险。",
+      "answer": "pose a risk to health",
+      "targetType": "phrase",
+      "id": "task2-core-0032",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Health / Well-being",
+      "conceptGroupZh": "健康与福祉",
+      "lemma": "have negative effects on health",
+      "sentence": "Excessive working hours can have negative effects on health.",
+      "translation": "工作时间过长可能对健康产生负面影响。",
+      "answer": "have negative effects on health",
+      "targetType": "phrase",
+      "id": "task2-core-0033",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Education / Skills",
+      "conceptGroupZh": "教育与能力",
+      "lemma": "acquire new skills",
+      "sentence": "A good education can help people acquire new skills.",
+      "translation": "获得新技能",
+      "answer": "acquire new skills",
+      "targetType": "phrase",
+      "id": "task2-core-0034",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Education / Skills",
+      "conceptGroupZh": "教育与能力",
+      "lemma": "develop practical skills",
+      "sentence": "A good education can help people develop practical skills.",
+      "translation": "培养实用技能",
+      "answer": "develop practical skills",
+      "targetType": "phrase",
+      "id": "task2-core-0035",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Education / Skills",
+      "conceptGroupZh": "教育与能力",
+      "lemma": "improve academic performance",
+      "sentence": "A good education can help people improve academic performance.",
+      "translation": "提高学业表现",
+      "answer": "improve academic performance",
+      "targetType": "phrase",
+      "id": "task2-core-0036",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Education / Skills",
+      "conceptGroupZh": "教育与能力",
+      "lemma": "receive a good education",
+      "sentence": "Every child should have the opportunity to receive a good education.",
+      "translation": "每个孩子都应当有机会接受良好教育。",
+      "answer": "receive a good education",
+      "targetType": "phrase",
+      "id": "task2-core-0037",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Education / Skills",
+      "conceptGroupZh": "教育与能力",
+      "lemma": "provide educational opportunities",
+      "sentence": "Online courses can provide educational opportunities for remote communities.",
+      "translation": "在线课程能为偏远社区提供教育机会。",
+      "answer": "provide educational opportunities",
+      "targetType": "phrase",
+      "id": "task2-core-0038",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Education / Skills",
+      "conceptGroupZh": "教育与能力",
+      "lemma": "prepare people for the labour market",
+      "sentence": "Vocational training can prepare people for the labour market.",
+      "translation": "职业培训可以帮助人们为就业市场做好准备。",
+      "answer": "prepare people for the labour market",
+      "targetType": "phrase",
+      "id": "task2-core-0039",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Education / Skills",
+      "conceptGroupZh": "教育与能力",
+      "lemma": "develop critical-thinking skills",
+      "sentence": "A good education can help people develop critical-thinking skills.",
+      "translation": "培养批判性思维能力",
+      "answer": "develop critical-thinking skills",
+      "targetType": "phrase",
+      "id": "task2-core-0040",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Employment / Income",
+      "conceptGroupZh": "就业与收入",
+      "lemma": "create jobs",
+      "sentence": "Economic development can create jobs.",
+      "translation": "创造就业",
+      "answer": "create jobs",
+      "targetType": "phrase",
+      "id": "task2-core-0041",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Employment / Income",
+      "conceptGroupZh": "就业与收入",
+      "lemma": "create employment opportunities",
+      "sentence": "Economic development can create employment opportunities.",
+      "translation": "创造就业机会",
+      "answer": "create employment opportunities",
+      "targetType": "phrase",
+      "id": "task2-core-0042",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Employment / Income",
+      "conceptGroupZh": "就业与收入",
+      "lemma": "lose their jobs",
+      "sentence": "Automation may cause some workers to lose their jobs.",
+      "translation": "自动化可能导致一些工人失业。",
+      "answer": "lose their jobs",
+      "targetType": "phrase",
+      "id": "task2-core-0043",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Employment / Income",
+      "conceptGroupZh": "就业与收入",
+      "lemma": "increase employment",
+      "sentence": "Economic development can increase employment.",
+      "translation": "增加就业",
+      "answer": "increase employment",
+      "targetType": "phrase",
+      "id": "task2-core-0044",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Employment / Income",
+      "conceptGroupZh": "就业与收入",
+      "lemma": "earn a higher income",
+      "sentence": "Skilled workers are more likely to earn a higher income.",
+      "translation": "技术熟练的工人更有可能获得较高收入。",
+      "answer": "earn a higher income",
+      "targetType": "phrase",
+      "id": "task2-core-0045",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Employment / Income",
+      "conceptGroupZh": "就业与收入",
+      "lemma": "provide a stable income",
+      "sentence": "Economic development can provide a stable income.",
+      "translation": "提供稳定收入",
+      "answer": "provide a stable income",
+      "targetType": "phrase",
+      "id": "task2-core-0046",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Employment / Income",
+      "conceptGroupZh": "就业与收入",
+      "lemma": "generate income",
+      "sentence": "Economic development can generate income.",
+      "translation": "创造收入",
+      "answer": "generate income",
+      "targetType": "phrase",
+      "id": "task2-core-0047",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Employment / Income",
+      "conceptGroupZh": "就业与收入",
+      "lemma": "improve employment prospects",
+      "sentence": "Economic development can improve employment prospects.",
+      "translation": "改善就业前景",
+      "answer": "improve employment prospects",
+      "targetType": "phrase",
+      "id": "task2-core-0048",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Public Services",
+      "conceptGroupZh": "公共服务",
+      "lemma": "provide public services",
+      "sentence": "Governments should provide public services.",
+      "translation": "提供公共服务",
+      "answer": "provide public services",
+      "targetType": "phrase",
+      "id": "task2-core-0049",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Public Services",
+      "conceptGroupZh": "公共服务",
+      "lemma": "improve public services",
+      "sentence": "Governments should improve public services.",
+      "translation": "改善公共服务",
+      "answer": "improve public services",
+      "targetType": "phrase",
+      "id": "task2-core-0050",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Public Services",
+      "conceptGroupZh": "公共服务",
+      "lemma": "have access to public services",
+      "sentence": "Citizens in rural areas should have access to public services.",
+      "translation": "农村地区的居民应当能够获得公共服务。",
+      "answer": "have access to public services",
+      "targetType": "phrase",
+      "id": "task2-core-0051",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Public Services",
+      "conceptGroupZh": "公共服务",
+      "lemma": "invest in public services",
+      "sentence": "Governments should invest in public services.",
+      "translation": "投资公共服务",
+      "answer": "invest in public services",
+      "targetType": "phrase",
+      "id": "task2-core-0052",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Public Services",
+      "conceptGroupZh": "公共服务",
+      "lemma": "meet basic needs",
+      "sentence": "Governments should meet basic needs.",
+      "translation": "满足基本需求",
+      "answer": "meet basic needs",
+      "targetType": "phrase",
+      "id": "task2-core-0053",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Public Services",
+      "conceptGroupZh": "公共服务",
+      "lemma": "address social problems",
+      "sentence": "Governments should address social problems.",
+      "translation": "解决社会问题",
+      "answer": "address social problems",
+      "targetType": "phrase",
+      "id": "task2-core-0054",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Inequality / Fairness",
+      "conceptGroupZh": "不平等与公平",
+      "lemma": "reduce inequality",
+      "sentence": "Inclusive policies can reduce inequality.",
+      "translation": "减少不平等",
+      "answer": "reduce inequality",
+      "targetType": "phrase",
+      "id": "task2-core-0055",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Inequality / Fairness",
+      "conceptGroupZh": "不平等与公平",
+      "lemma": "increase inequality",
+      "sentence": "Unequal access to education can increase inequality.",
+      "translation": "教育机会不均可能加剧不平等。",
+      "answer": "increase inequality",
+      "targetType": "phrase",
+      "id": "task2-core-0056",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Inequality / Fairness",
+      "conceptGroupZh": "不平等与公平",
+      "lemma": "promote social equality",
+      "sentence": "Inclusive policies can promote social equality.",
+      "translation": "促进社会平等",
+      "answer": "promote social equality",
+      "targetType": "phrase",
+      "id": "task2-core-0057",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Inequality / Fairness",
+      "conceptGroupZh": "不平等与公平",
+      "lemma": "ensure equal access to educational opportunities",
+      "sentence": "Inclusive policies can ensure equal access to educational opportunities.",
+      "translation": "确保平等获得……",
+      "answer": "ensure equal access to educational opportunities",
+      "targetType": "phrase",
+      "id": "task2-core-0058",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Inequality / Fairness",
+      "conceptGroupZh": "不平等与公平",
+      "lemma": "create an unfair advantage",
+      "sentence": "Private tutoring can create an unfair advantage for wealthy students.",
+      "translation": "私人辅导可能给富裕家庭的学生造成不公平优势。",
+      "answer": "create an unfair advantage",
+      "targetType": "phrase",
+      "id": "task2-core-0059",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Inequality / Fairness",
+      "conceptGroupZh": "不平等与公平",
+      "lemma": "widen the gap between rich and poor",
+      "sentence": "Unequal access to technology may widen the gap between rich and poor.",
+      "translation": "科技使用机会不均可能扩大贫富差距。",
+      "answer": "widen the gap between rich and poor",
+      "targetType": "phrase",
+      "id": "task2-core-0060",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Dependence / Independence",
+      "conceptGroupZh": "依赖与独立",
+      "lemma": "depend on public transport",
+      "sentence": "Many urban residents depend on public transport.",
+      "translation": "许多城市居民依赖公共交通。",
+      "answer": "depend on public transport",
+      "targetType": "phrase",
+      "id": "task2-core-0061",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Dependence / Independence",
+      "conceptGroupZh": "依赖与独立",
+      "lemma": "be dependent on private cars",
+      "sentence": "People without reliable public transport may be dependent on private cars.",
+      "translation": "缺少可靠公共交通的人可能会依赖私家车。",
+      "answer": "be dependent on private cars",
+      "targetType": "phrase",
+      "id": "task2-core-0062",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Dependence / Independence",
+      "conceptGroupZh": "依赖与独立",
+      "lemma": "reduce dependence on fossil fuels",
+      "sentence": "Better infrastructure can help people reduce dependence on fossil fuels.",
+      "translation": "减少对……的依赖",
+      "answer": "reduce dependence on fossil fuels",
+      "targetType": "phrase",
+      "id": "task2-core-0063",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Dependence / Independence",
+      "conceptGroupZh": "依赖与独立",
+      "lemma": "become less dependent on physical location",
+      "sentence": "Better infrastructure can help people become less dependent on physical location.",
+      "translation": "变得更少依赖……",
+      "answer": "become less dependent on physical location",
+      "targetType": "phrase",
+      "id": "task2-core-0064",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Dependence / Independence",
+      "conceptGroupZh": "依赖与独立",
+      "lemma": "rely heavily on technology",
+      "sentence": "Students should not rely heavily on technology.",
+      "translation": "学生不应过度依赖科技。",
+      "answer": "rely heavily on technology",
+      "targetType": "phrase",
+      "id": "task2-core-0065",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Pressure / Stress",
+      "conceptGroupZh": "压力",
+      "lemma": "place pressure on public services",
+      "sentence": "An ageing population can place pressure on public services.",
+      "translation": "人口老龄化可能给公共服务造成压力。",
+      "answer": "place pressure on public services",
+      "targetType": "phrase",
+      "id": "task2-core-0066",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Pressure / Stress",
+      "conceptGroupZh": "压力",
+      "lemma": "face increasing pressure",
+      "sentence": "Public hospitals face increasing pressure as the population ages.",
+      "translation": "随着人口老龄化，公立医院面临越来越大的压力。",
+      "answer": "face increasing pressure",
+      "targetType": "phrase",
+      "id": "task2-core-0067",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Pressure / Stress",
+      "conceptGroupZh": "压力",
+      "lemma": "reduce pressure on hospitals",
+      "sentence": "Preventive measures can reduce pressure on hospitals.",
+      "translation": "减轻……压力",
+      "answer": "reduce pressure on hospitals",
+      "targetType": "phrase",
+      "id": "task2-core-0068",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Pressure / Stress",
+      "conceptGroupZh": "压力",
+      "lemma": "cause stress",
+      "sentence": "Excessive academic competition can cause stress among students.",
+      "translation": "过度的学业竞争可能给学生造成压力。",
+      "answer": "cause stress",
+      "targetType": "phrase",
+      "id": "task2-core-0069",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Pressure / Stress",
+      "conceptGroupZh": "压力",
+      "lemma": "reduce stress",
+      "sentence": "Preventive measures can reduce stress.",
+      "translation": "减轻压力",
+      "answer": "reduce stress",
+      "targetType": "phrase",
+      "id": "task2-core-0070",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Pressure / Stress",
+      "conceptGroupZh": "压力",
+      "lemma": "place a heavy burden on low-income families",
+      "sentence": "Rising living costs can place a heavy burden on low-income families.",
+      "translation": "生活成本上涨可能给低收入家庭带来沉重负担。",
+      "answer": "place a heavy burden on low-income families",
+      "targetType": "phrase",
+      "id": "task2-core-0071",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Environment / Pollution",
+      "conceptGroupZh": "环境与污染",
+      "lemma": "protect the environment",
+      "sentence": "Stricter regulations can help protect the environment.",
+      "translation": "更严格的法规有助于保护环境。",
+      "answer": "protect the environment",
+      "targetType": "phrase",
+      "id": "task2-core-0072",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Environment / Pollution",
+      "conceptGroupZh": "环境与污染",
+      "lemma": "damage the environment",
+      "sentence": "Uncontrolled industrial growth can damage the environment.",
+      "translation": "不受控制的工业增长可能破坏环境。",
+      "answer": "damage the environment",
+      "targetType": "phrase",
+      "id": "task2-core-0073",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Environment / Pollution",
+      "conceptGroupZh": "环境与污染",
+      "lemma": "reduce pollution",
+      "sentence": "Greater use of public transport can reduce pollution.",
+      "translation": "更多使用公共交通可以减少污染。",
+      "answer": "reduce pollution",
+      "targetType": "phrase",
+      "id": "task2-core-0074",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Environment / Pollution",
+      "conceptGroupZh": "环境与污染",
+      "lemma": "cause environmental damage",
+      "sentence": "Mass tourism can cause environmental damage.",
+      "translation": "大众旅游可能造成环境损害。",
+      "answer": "cause environmental damage",
+      "targetType": "phrase",
+      "id": "task2-core-0075",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Environment / Pollution",
+      "conceptGroupZh": "环境与污染",
+      "lemma": "reduce carbon emissions",
+      "sentence": "Renewable energy can reduce carbon emissions.",
+      "translation": "可再生能源可以减少碳排放。",
+      "answer": "reduce carbon emissions",
+      "targetType": "phrase",
+      "id": "task2-core-0076",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Environment / Pollution",
+      "conceptGroupZh": "环境与污染",
+      "lemma": "improve environmental quality",
+      "sentence": "More urban green spaces can improve environmental quality.",
+      "translation": "增加城市绿地可以改善环境质量。",
+      "answer": "improve environmental quality",
+      "targetType": "phrase",
+      "id": "task2-core-0077",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Environment / Pollution",
+      "conceptGroupZh": "环境与污染",
+      "lemma": "have a negative environmental impact",
+      "sentence": "Industrial activity can have a negative environmental impact.",
+      "translation": "对环境产生影响",
+      "answer": "have a negative environmental impact",
+      "targetType": "phrase",
+      "id": "task2-core-0078",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Resources",
+      "conceptGroupZh": "资源",
+      "lemma": "use natural resources",
+      "sentence": "All industries use natural resources to some extent.",
+      "translation": "所有产业都会在一定程度上使用自然资源。",
+      "answer": "use natural resources",
+      "targetType": "phrase",
+      "id": "task2-core-0079",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Resources",
+      "conceptGroupZh": "资源",
+      "lemma": "consume resources",
+      "sentence": "Modern lifestyles tend to consume resources at an unsustainable rate.",
+      "translation": "现代生活方式往往以不可持续的速度消耗资源。",
+      "answer": "consume resources",
+      "targetType": "phrase",
+      "id": "task2-core-0080",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Resources",
+      "conceptGroupZh": "资源",
+      "lemma": "conserve natural resources",
+      "sentence": "Responsible policies can conserve natural resources.",
+      "translation": "保护自然资源",
+      "answer": "conserve natural resources",
+      "targetType": "phrase",
+      "id": "task2-core-0081",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Resources",
+      "conceptGroupZh": "资源",
+      "lemma": "waste resources",
+      "sentence": "Poor planning can waste resources.",
+      "translation": "规划不当可能浪费资源。",
+      "answer": "waste resources",
+      "targetType": "phrase",
+      "id": "task2-core-0082",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Resources",
+      "conceptGroupZh": "资源",
+      "lemma": "allocate resources to disadvantaged schools",
+      "sentence": "Responsible policies can allocate resources to disadvantaged schools.",
+      "translation": "向……配置资源",
+      "answer": "allocate resources to disadvantaged schools",
+      "targetType": "phrase",
+      "id": "task2-core-0083",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Resources",
+      "conceptGroupZh": "资源",
+      "lemma": "make efficient use of resources",
+      "sentence": "Responsible policies can make efficient use of resources.",
+      "translation": "高效利用资源",
+      "answer": "make efficient use of resources",
+      "targetType": "phrase",
+      "id": "task2-core-0084",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Resources",
+      "conceptGroupZh": "资源",
+      "lemma": "have limited resources",
+      "sentence": "Developing countries may have limited resources for public services.",
+      "translation": "发展中国家用于公共服务的资源可能有限。",
+      "answer": "have limited resources",
+      "targetType": "phrase",
+      "id": "task2-core-0085",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Biodiversity / Ecosystem",
+      "conceptGroupZh": "生物多样性与生态",
+      "lemma": "protect endangered species",
+      "sentence": "Conservation programmes can protect endangered species.",
+      "translation": "保护濒危物种",
+      "answer": "protect endangered species",
+      "targetType": "phrase",
+      "id": "task2-core-0086",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Biodiversity / Ecosystem",
+      "conceptGroupZh": "生物多样性与生态",
+      "lemma": "preserve biodiversity",
+      "sentence": "Conservation programmes can preserve biodiversity.",
+      "translation": "保护生物多样性",
+      "answer": "preserve biodiversity",
+      "targetType": "phrase",
+      "id": "task2-core-0087",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Biodiversity / Ecosystem",
+      "conceptGroupZh": "生物多样性与生态",
+      "lemma": "maintain ecological balance",
+      "sentence": "Conservation programmes can maintain ecological balance.",
+      "translation": "维持生态平衡",
+      "answer": "maintain ecological balance",
+      "targetType": "phrase",
+      "id": "task2-core-0088",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Biodiversity / Ecosystem",
+      "conceptGroupZh": "生物多样性与生态",
+      "lemma": "maintain healthy ecosystems",
+      "sentence": "Conservation programmes can maintain healthy ecosystems.",
+      "translation": "维持健康生态系统",
+      "answer": "maintain healthy ecosystems",
+      "targetType": "phrase",
+      "id": "task2-core-0089",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Biodiversity / Ecosystem",
+      "conceptGroupZh": "生物多样性与生态",
+      "lemma": "disrupt the food chain",
+      "sentence": "The loss of one species can disrupt the food chain.",
+      "translation": "一个物种的消失可能破坏食物链。",
+      "answer": "disrupt the food chain",
+      "targetType": "phrase",
+      "id": "task2-core-0090",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Biodiversity / Ecosystem",
+      "conceptGroupZh": "生物多样性与生态",
+      "lemma": "disrupt the ecosystem",
+      "sentence": "Large construction projects can disrupt the ecosystem.",
+      "translation": "大型建设项目可能扰乱生态系统。",
+      "answer": "disrupt the ecosystem",
+      "targetType": "phrase",
+      "id": "task2-core-0091",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Biodiversity / Ecosystem",
+      "conceptGroupZh": "生物多样性与生态",
+      "lemma": "cause species extinction",
+      "sentence": "Habitat destruction can cause species extinction.",
+      "translation": "栖息地破坏可能导致物种灭绝。",
+      "answer": "cause species extinction",
+      "targetType": "phrase",
+      "id": "task2-core-0092",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Biodiversity / Ecosystem",
+      "conceptGroupZh": "生物多样性与生态",
+      "lemma": "prevent species extinction",
+      "sentence": "Conservation programmes can prevent species extinction.",
+      "translation": "防止物种灭绝",
+      "answer": "prevent species extinction",
+      "targetType": "phrase",
+      "id": "task2-core-0093",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Physical Location / Geographical Barriers",
+      "conceptGroupZh": "地理限制",
+      "lemma": "physical location",
+      "sentence": "Many forms of work are no longer tied to a physical location.",
+      "translation": "许多工作形式不再受物理位置限制。",
+      "answer": "physical location",
+      "targetType": "phrase",
+      "id": "task2-core-0094",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Physical Location / Geographical Barriers",
+      "conceptGroupZh": "地理限制",
+      "lemma": "geographical distance",
+      "sentence": "Digital communication makes geographical distance less important.",
+      "translation": "数字通信降低了地理距离的重要性。",
+      "answer": "geographical distance",
+      "targetType": "phrase",
+      "id": "task2-core-0095",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Physical Location / Geographical Barriers",
+      "conceptGroupZh": "地理限制",
+      "lemma": "geographical barriers",
+      "sentence": "Online services can overcome geographical barriers.",
+      "translation": "在线服务能够克服地理障碍。",
+      "answer": "geographical barriers",
+      "targetType": "phrase",
+      "id": "task2-core-0096",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Physical Location / Geographical Barriers",
+      "conceptGroupZh": "地理限制",
+      "lemma": "reduce geographical barriers",
+      "sentence": "Digital technology allows people to reduce geographical barriers.",
+      "translation": "减少地理障碍",
+      "answer": "reduce geographical barriers",
+      "targetType": "phrase",
+      "id": "task2-core-0097",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Physical Location / Geographical Barriers",
+      "conceptGroupZh": "地理限制",
+      "lemma": "regardless of distance",
+      "sentence": "People can now communicate instantly regardless of distance.",
+      "translation": "如今，人们不受距离限制也能即时沟通。",
+      "answer": "regardless of distance",
+      "targetType": "phrase",
+      "id": "task2-core-0098",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Physical Location / Geographical Barriers",
+      "conceptGroupZh": "地理限制",
+      "lemma": "complete tasks remotely",
+      "sentence": "Digital technology allows people to complete tasks remotely.",
+      "translation": "远程完成任务",
+      "answer": "complete tasks remotely",
+      "targetType": "phrase",
+      "id": "task2-core-0099",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Physical Location / Geographical Barriers",
+      "conceptGroupZh": "地理限制",
+      "lemma": "travel long distances",
+      "sentence": "Many commuters have to travel long distances to work.",
+      "translation": "许多通勤者不得不长途跋涉去工作。",
+      "answer": "travel long distances",
+      "targetType": "phrase",
+      "id": "task2-core-0100",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Privacy / Information",
+      "conceptGroupZh": "信息与隐私",
+      "lemma": "protect personal data",
+      "sentence": "Online platforms can protect personal data.",
+      "translation": "保护个人数据",
+      "answer": "protect personal data",
+      "targetType": "phrase",
+      "id": "task2-core-0101",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Privacy / Information",
+      "conceptGroupZh": "信息与隐私",
+      "lemma": "raise privacy concerns",
+      "sentence": "The collection of personal data can raise privacy concerns.",
+      "translation": "收集个人数据可能引发隐私担忧。",
+      "answer": "raise privacy concerns",
+      "targetType": "phrase",
+      "id": "task2-core-0102",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Privacy / Information",
+      "conceptGroupZh": "信息与隐私",
+      "lemma": "have access to information",
+      "sentence": "Internet users have access to information from around the world.",
+      "translation": "互联网用户可以获取世界各地的信息。",
+      "answer": "have access to information",
+      "targetType": "phrase",
+      "id": "task2-core-0103",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Privacy / Information",
+      "conceptGroupZh": "信息与隐私",
+      "lemma": "exchange information",
+      "sentence": "Online platforms can exchange information.",
+      "translation": "交换信息",
+      "answer": "exchange information",
+      "targetType": "phrase",
+      "id": "task2-core-0104",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Privacy / Information",
+      "conceptGroupZh": "信息与隐私",
+      "lemma": "share information",
+      "sentence": "Online platforms can share information.",
+      "translation": "分享信息",
+      "answer": "share information",
+      "targetType": "phrase",
+      "id": "task2-core-0105",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Privacy / Information",
+      "conceptGroupZh": "信息与隐私",
+      "lemma": "a constant flow of information",
+      "sentence": "Social media exposes users to a constant flow of information.",
+      "translation": "社交媒体让用户持续接触不断的信息流。",
+      "answer": "a constant flow of information",
+      "targetType": "phrase",
+      "id": "task2-core-0106",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Privacy / Information",
+      "conceptGroupZh": "信息与隐私",
+      "lemma": "information overload",
+      "sentence": "A constant stream of online content can cause information overload.",
+      "translation": "持续不断的网络内容可能导致信息过载。",
+      "answer": "information overload",
+      "targetType": "phrase",
+      "id": "task2-core-0107",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Privacy / Information",
+      "conceptGroupZh": "信息与隐私",
+      "lemma": "reliable information",
+      "sentence": "Citizens need reliable information to make informed decisions.",
+      "translation": "公民需要可靠信息来作出明智决定。",
+      "answer": "reliable information",
+      "targetType": "phrase",
+      "id": "task2-core-0108",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Crime / Safety",
+      "conceptGroupZh": "犯罪与安全",
+      "lemma": "commit a crime",
+      "sentence": "Poverty alone does not necessarily cause a person to commit a crime.",
+      "translation": "贫困本身并不一定会导致一个人犯罪。",
+      "answer": "commit a crime",
+      "targetType": "phrase",
+      "id": "task2-core-0109",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Crime / Safety",
+      "conceptGroupZh": "犯罪与安全",
+      "lemma": "reduce crime",
+      "sentence": "Effective criminal justice policies can reduce crime.",
+      "translation": "减少犯罪",
+      "answer": "reduce crime",
+      "targetType": "phrase",
+      "id": "task2-core-0110",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Crime / Safety",
+      "conceptGroupZh": "犯罪与安全",
+      "lemma": "prevent crime",
+      "sentence": "Effective criminal justice policies can prevent crime.",
+      "translation": "预防犯罪",
+      "answer": "prevent crime",
+      "targetType": "phrase",
+      "id": "task2-core-0111",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Crime / Safety",
+      "conceptGroupZh": "犯罪与安全",
+      "lemma": "deter people from committing crimes",
+      "sentence": "Effective criminal justice policies can deter people from committing crimes.",
+      "translation": "威慑人们犯罪",
+      "answer": "deter people from committing crimes",
+      "targetType": "phrase",
+      "id": "task2-core-0112",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Crime / Safety",
+      "conceptGroupZh": "犯罪与安全",
+      "lemma": "address the causes of crime",
+      "sentence": "Effective criminal justice policies can address the causes of crime.",
+      "translation": "解决犯罪根源",
+      "answer": "address the causes of crime",
+      "targetType": "phrase",
+      "id": "task2-core-0113",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Crime / Safety",
+      "conceptGroupZh": "犯罪与安全",
+      "lemma": "reduce reoffending",
+      "sentence": "Effective criminal justice policies can reduce reoffending.",
+      "translation": "减少再犯",
+      "answer": "reduce reoffending",
+      "targetType": "phrase",
+      "id": "task2-core-0114",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Crime / Safety",
+      "conceptGroupZh": "犯罪与安全",
+      "lemma": "rehabilitate offenders",
+      "sentence": "Effective criminal justice policies can rehabilitate offenders.",
+      "translation": "改造罪犯",
+      "answer": "rehabilitate offenders",
+      "targetType": "phrase",
+      "id": "task2-core-0115",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Crime / Safety",
+      "conceptGroupZh": "犯罪与安全",
+      "lemma": "protect public safety",
+      "sentence": "Effective criminal justice policies can protect public safety.",
+      "translation": "保护公共安全",
+      "answer": "protect public safety",
+      "targetType": "phrase",
+      "id": "task2-core-0116",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Crime / Safety",
+      "conceptGroupZh": "犯罪与安全",
+      "lemma": "pose a threat to public safety",
+      "sentence": "Repeat offenders may pose a threat to public safety.",
+      "translation": "重复犯罪者可能对公共安全构成威胁。",
+      "answer": "pose a threat to public safety",
+      "targetType": "phrase",
+      "id": "task2-core-0117",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Short-term / Long-term",
+      "conceptGroupZh": "短期与长期",
+      "lemma": "in the short term",
+      "sentence": "In the short term, the policy may require additional funding.",
+      "translation": "短期内，这项政策可能需要额外资金。",
+      "answer": "in the short term",
+      "targetType": "phrase",
+      "id": "task2-core-0118",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Short-term / Long-term",
+      "conceptGroupZh": "短期与长期",
+      "lemma": "in the long term",
+      "sentence": "In the long term, preventive action can reduce public spending.",
+      "translation": "长期来看，预防措施可以减少公共支出。",
+      "answer": "in the long term",
+      "targetType": "phrase",
+      "id": "task2-core-0119",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Short-term / Long-term",
+      "conceptGroupZh": "短期与长期",
+      "lemma": "bring short-term benefits",
+      "sentence": "A policy may bring short-term benefits.",
+      "translation": "带来短期收益",
+      "answer": "bring short-term benefits",
+      "targetType": "phrase",
+      "id": "task2-core-0120",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Short-term / Long-term",
+      "conceptGroupZh": "短期与长期",
+      "lemma": "provide long-term benefits",
+      "sentence": "A policy may provide long-term benefits.",
+      "translation": "提供长期收益",
+      "answer": "provide long-term benefits",
+      "targetType": "phrase",
+      "id": "task2-core-0121",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Short-term / Long-term",
+      "conceptGroupZh": "短期与长期",
+      "lemma": "create long-term problems",
+      "sentence": "A policy may create long-term problems.",
+      "translation": "造成长期问题",
+      "answer": "create long-term problems",
+      "targetType": "phrase",
+      "id": "task2-core-0122",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Short-term / Long-term",
+      "conceptGroupZh": "短期与长期",
+      "lemma": "have long-term consequences",
+      "sentence": "A policy may have long-term consequences.",
+      "translation": "产生长期后果",
+      "answer": "have long-term consequences",
+      "targetType": "phrase",
+      "id": "task2-core-0123",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Short-term / Long-term",
+      "conceptGroupZh": "短期与长期",
+      "lemma": "a temporary problem",
+      "sentence": "The initial cost may be a temporary problem.",
+      "translation": "初期成本可能只是一个暂时的问题。",
+      "answer": "a temporary problem",
+      "targetType": "phrase",
+      "id": "task2-core-0124",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Short-term / Long-term",
+      "conceptGroupZh": "短期与长期",
+      "lemma": "a lasting benefit",
+      "sentence": "Better education can be a lasting benefit for society.",
+      "translation": "更好的教育可以为社会带来持久收益。",
+      "answer": "a lasting benefit",
+      "targetType": "phrase",
+      "id": "task2-core-0125",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Irreversible / Sustainable",
+      "conceptGroupZh": "不可逆与可持续",
+      "lemma": "cause irreversible damage",
+      "sentence": "Poorly planned development can cause irreversible damage.",
+      "translation": "造成不可逆损害",
+      "answer": "cause irreversible damage",
+      "targetType": "phrase",
+      "id": "task2-core-0126",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Irreversible / Sustainable",
+      "conceptGroupZh": "不可逆与可持续",
+      "lemma": "lead to permanent loss",
+      "sentence": "Poorly planned development can lead to permanent loss.",
+      "translation": "导致永久损失",
+      "answer": "lead to permanent loss",
+      "targetType": "phrase",
+      "id": "task2-core-0127",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Irreversible / Sustainable",
+      "conceptGroupZh": "不可逆与可持续",
+      "lemma": "have irreversible consequences",
+      "sentence": "Poorly planned development can have irreversible consequences.",
+      "translation": "产生不可逆后果",
+      "answer": "have irreversible consequences",
+      "targetType": "phrase",
+      "id": "task2-core-0128",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Irreversible / Sustainable",
+      "conceptGroupZh": "不可逆与可持续",
+      "lemma": "promote sustainable development",
+      "sentence": "Governments should adopt policies that promote sustainable development.",
+      "translation": "政府应采取促进可持续发展的政策。",
+      "answer": "promote sustainable development",
+      "targetType": "phrase",
+      "id": "task2-core-0129",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Irreversible / Sustainable",
+      "conceptGroupZh": "不可逆与可持续",
+      "lemma": "be environmentally sustainable",
+      "sentence": "Public transport needs to be environmentally sustainable.",
+      "translation": "公共交通需要在环境方面具有可持续性。",
+      "answer": "be environmentally sustainable",
+      "targetType": "phrase",
+      "id": "task2-core-0130",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文底层概念",
+      "conceptGroup": "Irreversible / Sustainable",
+      "conceptGroupZh": "不可逆与可持续",
+      "lemma": "ensure long-term sustainability",
+      "sentence": "Careful resource management can ensure long-term sustainability.",
+      "translation": "审慎的资源管理可以确保长期可持续性。",
+      "answer": "ensure long-term sustainability",
+      "targetType": "phrase",
+      "id": "task2-core-0131",
+      "tags": [
+        "ielts-writing",
+        "task2-core-concept"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "version": 1,
+  "schema": "vocabulary-source-v1",
+  "dataset": "writing-singular-plural",
+  "datasetZh": "写作-单复数",
+  "items": [
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "individual",
+      "sentence": "An individual can make a difference to society.",
+      "translation": "个人可以为社会带来改变",
+      "answer": "individual",
+      "targetType": "word",
+      "confusionGroup": "writing-individual",
+      "id": "wsp-0001",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "individual",
+      "sentence": "Technology can benefit many individuals.",
+      "translation": "科技可以使许多人受益",
+      "answer": "individuals",
+      "targetType": "word",
+      "confusionGroup": "writing-individual",
+      "id": "wsp-0002",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "student",
+      "sentence": "A student can access online courses from home.",
+      "translation": "学生可以在家学习在线课程",
+      "answer": "student",
+      "targetType": "word",
+      "confusionGroup": "writing-student",
+      "id": "wsp-0003",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "student",
+      "sentence": "Many students use technology for learning.",
+      "translation": "许多学生使用科技进行学习",
+      "answer": "students",
+      "targetType": "word",
+      "confusionGroup": "writing-student",
+      "id": "wsp-0004",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "consumer",
+      "sentence": "A consumer can compare prices online before buying a product.",
+      "translation": "消费者购买产品前可以在线比较价格",
+      "answer": "consumer",
+      "targetType": "word",
+      "confusionGroup": "writing-consumer",
+      "id": "wsp-0005",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "consumer",
+      "sentence": "Online shopping gives consumers more choices.",
+      "translation": "网上购物为消费者提供更多选择",
+      "answer": "consumers",
+      "targetType": "word",
+      "confusionGroup": "writing-consumer",
+      "id": "wsp-0006",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "store",
+      "sentence": "A physical store usually has limited opening hours.",
+      "translation": "实体店通常营业时间有限",
+      "answer": "store",
+      "targetType": "word",
+      "confusionGroup": "writing-store",
+      "id": "wsp-0007",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "store",
+      "sentence": "Many physical stores now offer online services.",
+      "translation": "许多实体店现在提供在线服务",
+      "answer": "stores",
+      "targetType": "word",
+      "confusionGroup": "writing-store",
+      "id": "wsp-0008",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "company",
+      "sentence": "A company may invest in new technology to improve efficiency.",
+      "translation": "公司可能投资新科技以提高效率",
+      "answer": "company",
+      "targetType": "word",
+      "confusionGroup": "writing-company",
+      "id": "wsp-0009",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "company",
+      "sentence": "Many companies use digital tools to reduce costs.",
+      "translation": "许多公司使用数字工具降低成本",
+      "answer": "companies",
+      "targetType": "word",
+      "confusionGroup": "writing-company",
+      "id": "wsp-0010",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "government",
+      "sentence": "The government should invest more in public transport.",
+      "translation": "政府应该加大公共交通投资",
+      "answer": "government",
+      "targetType": "word",
+      "confusionGroup": "writing-government",
+      "id": "wsp-0011",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "government",
+      "sentence": "Many governments are trying to reduce air pollution.",
+      "translation": "许多国家的政府正在努力减少空气污染",
+      "answer": "governments",
+      "targetType": "word",
+      "confusionGroup": "writing-government",
+      "id": "wsp-0012",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "problem",
+      "sentence": "Air pollution is a serious problem in many cities.",
+      "translation": "空气污染是许多城市面临的严重问题",
+      "answer": "problem",
+      "targetType": "word",
+      "confusionGroup": "writing-problem",
+      "id": "wsp-0013",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "problem",
+      "sentence": "Rapid urbanisation can create serious problems.",
+      "translation": "快速城市化会造成严重问题",
+      "answer": "problems",
+      "targetType": "word",
+      "confusionGroup": "writing-problem",
+      "id": "wsp-0014",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "opportunity",
+      "sentence": "Higher education can provide an opportunity to develop new skills.",
+      "translation": "高等教育可以提供培养新技能的机会",
+      "answer": "opportunity",
+      "targetType": "word",
+      "confusionGroup": "writing-opportunity",
+      "id": "wsp-0015",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Countable nouns / 可数名词",
+      "lemma": "opportunity",
+      "sentence": "Economic growth can create employment opportunities.",
+      "translation": "经济增长可以创造就业机会",
+      "answer": "opportunities",
+      "targetType": "word",
+      "confusionGroup": "writing-opportunity",
+      "id": "wsp-0016",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Effort in context / effort 的不同用法",
+      "lemma": "effort",
+      "sentence": "The government should make an effort to reduce pollution.",
+      "translation": "政府应该努力减少污染",
+      "answer": "effort",
+      "targetType": "word",
+      "confusionGroup": "writing-effort",
+      "id": "wsp-0017",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Effort in context / effort 的不同用法",
+      "lemma": "effort",
+      "sentence": "International efforts are needed to protect endangered species.",
+      "translation": "保护濒危物种需要国际社会的多方努力",
+      "answer": "efforts",
+      "targetType": "word",
+      "confusionGroup": "writing-effort",
+      "id": "wsp-0018",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Effort in context / effort 的不同用法",
+      "lemma": "effort",
+      "sentence": "Online services can save people time and effort.",
+      "translation": "在线服务可以节省人们的时间和精力",
+      "answer": "time and effort",
+      "targetType": "phrase",
+      "confusionGroup": "writing-effort",
+      "id": "wsp-0019",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "information",
+      "sentence": "The Internet gives people access to useful information.",
+      "translation": "互联网让人们能够获取有用的信息",
+      "answer": "information",
+      "targetType": "word",
+      "confusionGroup": "writing-information",
+      "id": "wsp-0020",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "information",
+      "sentence": "The report contains several pieces of information.",
+      "translation": "报告包含几条信息",
+      "answer": "pieces of information",
+      "targetType": "phrase",
+      "confusionGroup": "writing-information",
+      "id": "wsp-0021",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "funding",
+      "sentence": "Wildlife conservation requires significant funding.",
+      "translation": "野生动物保护需要大量资金",
+      "answer": "funding",
+      "targetType": "word",
+      "confusionGroup": "writing-funding",
+      "id": "wsp-0022",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "funding",
+      "sentence": "The project received several sources of funding.",
+      "translation": "该项目获得了多个资金来源",
+      "answer": "sources of funding",
+      "targetType": "phrase",
+      "confusionGroup": "writing-funding",
+      "id": "wsp-0023",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "pollution",
+      "sentence": "Public transport can help reduce air pollution.",
+      "translation": "公共交通有助于减少空气污染",
+      "answer": "pollution",
+      "targetType": "word",
+      "confusionGroup": "writing-pollution",
+      "id": "wsp-0024",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "pollution",
+      "sentence": "Cities need to reduce different forms of pollution.",
+      "translation": "城市需要减少不同形式的污染",
+      "answer": "forms of pollution",
+      "targetType": "phrase",
+      "confusionGroup": "writing-pollution",
+      "id": "wsp-0025",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "traffic",
+      "sentence": "Better public transport can reduce traffic.",
+      "translation": "更好的公共交通可以缓解交通流量",
+      "answer": "traffic",
+      "targetType": "word",
+      "confusionGroup": "writing-traffic",
+      "id": "wsp-0026",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "traffic",
+      "sentence": "The city experiences a large amount of traffic every day.",
+      "translation": "这座城市每天都有很大的交通流量",
+      "answer": "a large amount of traffic",
+      "targetType": "phrase",
+      "confusionGroup": "writing-traffic",
+      "id": "wsp-0027",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "research",
+      "sentence": "Governments should support scientific research.",
+      "translation": "政府应该支持科学研究",
+      "answer": "research",
+      "targetType": "word",
+      "confusionGroup": "writing-research",
+      "id": "wsp-0028",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "research",
+      "sentence": "Several research studies have examined this problem.",
+      "translation": "多项研究考察了这个问题",
+      "answer": "research studies",
+      "targetType": "phrase",
+      "confusionGroup": "writing-research",
+      "id": "wsp-0029",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "work",
+      "sentence": "Automation can reduce unnecessary work.",
+      "translation": "自动化可以减少不必要的工作",
+      "answer": "work",
+      "targetType": "word",
+      "confusionGroup": "writing-work",
+      "id": "wsp-0030",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Uncountable nouns / 不可数名词",
+      "lemma": "work",
+      "sentence": "The museum displays several important works of art.",
+      "translation": "博物馆展出了几件重要艺术作品",
+      "answer": "works of art",
+      "targetType": "phrase",
+      "confusionGroup": "writing-work",
+      "id": "wsp-0031",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Meaning-dependent nouns / 根据含义判断",
+      "lemma": "convenience",
+      "sentence": "Online shopping provides greater convenience for consumers.",
+      "translation": "网上购物为消费者提供了更大的便利",
+      "answer": "convenience",
+      "targetType": "word",
+      "confusionGroup": "writing-convenience",
+      "id": "wsp-0032",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Meaning-dependent nouns / 根据含义判断",
+      "lemma": "convenience",
+      "sentence": "Modern technology offers many everyday conveniences.",
+      "translation": "现代科技提供了许多日常便利设施",
+      "answer": "conveniences",
+      "targetType": "word",
+      "confusionGroup": "writing-convenience",
+      "id": "wsp-0033",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Meaning-dependent nouns / 根据含义判断",
+      "lemma": "society",
+      "sentence": "Education can bring long-term benefits to society.",
+      "translation": "教育可以为社会带来长期益处",
+      "answer": "society",
+      "targetType": "word",
+      "confusionGroup": "writing-society",
+      "id": "wsp-0034",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Meaning-dependent nouns / 根据含义判断",
+      "lemma": "society",
+      "sentence": "Different societies have different attitudes towards education.",
+      "translation": "不同社会对教育持有不同态度",
+      "answer": "societies",
+      "targetType": "word",
+      "confusionGroup": "writing-society",
+      "id": "wsp-0035",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Meaning-dependent nouns / 根据含义判断",
+      "lemma": "technology",
+      "sentence": "Modern technology has changed the way people communicate.",
+      "translation": "现代科技改变了人们的交流方式",
+      "answer": "technology",
+      "targetType": "word",
+      "confusionGroup": "writing-technology",
+      "id": "wsp-0036",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Singular & Plural",
+      "categoryZh": "写作-单复数",
+      "conceptGroup": "Meaning-dependent nouns / 根据含义判断",
+      "lemma": "technology",
+      "sentence": "New technologies can create both opportunities and challenges.",
+      "translation": "新技术既能创造机会，也会带来挑战",
+      "answer": "technologies",
+      "targetType": "word",
+      "confusionGroup": "writing-technology",
+      "id": "wsp-0037",
+      "tags": [
+        "ielts-writing",
+        "writing-singular-plural"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    }
+  ]
+}

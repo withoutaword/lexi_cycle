@@ -272,9 +272,16 @@ as $$
       when 'all' then null::date
       else date_trunc('week', timezone('Asia/Shanghai', now()))::date
     end as start_date
+  ), activity as (
+    select e.user_id, max(e.reviewed_at) as last_scored_at
+    from public.practice_events e
+    cross join bounds b
+    where b.start_date is null
+      or (timezone('Asia/Shanghai', e.reviewed_at))::date >= b.start_date
+    group by e.user_id
   ), totals as (
     select p.user_id, p.nickname,
-      coalesce(sum(d.points), 0)::bigint as points,
+      coalesce(sum(d.points), 0)::bigint as historical_points,
       coalesce(sum(d.completed_count), 0)::bigint as completed_count,
       coalesce(sum(d.first_try_correct_count), 0)::bigint as first_correct,
       coalesce(sum(d.new_mastered_count), 0)::bigint as new_mastered_count
@@ -284,12 +291,28 @@ as $$
       and (b.start_date is null or d.stat_date >= b.start_date)
     where p.leaderboard_enabled
     group by p.user_id, p.nickname
+  ), scored as (
+    select t.*, a.last_scored_at,
+      case when p_period = 'all' then historical_points
+      else round(
+        least(completed_count, 100) * 2
+        + case when completed_count = 0 then 0 else
+            (first_correct::numeric / completed_count)
+            * least(completed_count::numeric / 40, 1)
+            * 300
+          end
+        + least(new_mastered_count, 20) * 15
+      )::bigint end as points,
+      case when completed_count = 0 then 0
+        else first_correct::numeric / completed_count end as accuracy_ratio
+    from totals t
+    left join activity a on a.user_id = t.user_id
   ), ranked as (
     select dense_rank() over (
       order by points desc, new_mastered_count desc,
-        case when completed_count = 0 then 0 else first_correct::numeric / completed_count end desc
+        accuracy_ratio desc, completed_count desc, last_scored_at asc nulls last
     ) as rank, *
-    from totals
+    from scored
   )
   select r.rank, r.nickname, r.points, r.completed_count, r.new_mastered_count,
     case when r.completed_count = 0 then 0

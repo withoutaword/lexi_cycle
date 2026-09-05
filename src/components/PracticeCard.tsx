@@ -3,7 +3,7 @@ import type { LoadedVocabulary } from '../domain/vocabulary'
 import { buildClozeSentence } from '../services/clozeBuilder'
 import { hideReveal, initialAttemptState, submitAttempt, toReviewResult } from '../services/practiceSession'
 import type { ReviewResult } from '../domain/reviewResult'
-export const answerRevealDuration=(card:LoadedVocabulary)=>card.dataset==='writing'?3000:1000
+export const answerRevealDuration=(card:LoadedVocabulary)=>card.dataset==='writing'||card.dataset==='task2-core-concepts'?3000:1000
 export function PracticeCard({card,onComplete}:{card:LoadedVocabulary;onComplete:(r:ReviewResult)=>void}){const [input,setInput]=useState(''),[attempt,setAttempt]=useState(initialAttemptState),[shake,setShake]=useState(false),ref=useRef<HTMLInputElement>(null),cloze=buildClozeSentence(card.sentence,card.answer),revealDuration=answerRevealDuration(card)
  useEffect(()=>{if(!attempt.reveal)return;const timer=setTimeout(()=>setAttempt(hideReveal),revealDuration);return()=>clearTimeout(timer)},[attempt.reveal,revealDuration])
  useEffect(()=>{if(attempt.reveal||attempt.complete)return;const frame=requestAnimationFrame(()=>ref.current?.focus());return()=>cancelAnimationFrame(frame)},[attempt.reveal,attempt.complete])
