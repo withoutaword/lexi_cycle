@@ -1,0 +1,836 @@
+{
+  "version": 1,
+  "schema": "vocabulary-source-v1",
+  "dataset": "dictation",
+  "datasetZh": "句子默写",
+  "items": [
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第一段：Introduction",
+      "lemma": "Although buying goods online has created some problems, particularly online fraud and concerns about personal data, it has provided far greater benefits to both individuals and society.",
+      "sentence": "Although buying goods online has created some problems, particularly online fraud and concerns about personal data, it has provided far greater benefits to both individuals and society.",
+      "translation": "虽然网上购物带来了一些问题，尤其是网络诈骗和个人数据方面的担忧，但它为个人和社会带来的益处要大得多。",
+      "answer": "Although buying goods online has created some problems, particularly online fraud and concerns about personal data, it has provided far greater benefits to both individuals and society.",
+      "targetType": "phrase",
+      "id": "dictation-0001",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第一段：Introduction",
+      "lemma": "In my view, the advantages of online shopping clearly outweigh those of relying solely on physical stores, mainly because it offers greater convenience to consumers and creates economic opportunities.",
+      "sentence": "In my view, the advantages of online shopping clearly outweigh those of relying solely on physical stores, mainly because it offers greater convenience to consumers and creates economic opportunities.",
+      "translation": "在我看来，网上购物的优势明显超过了完全依赖实体店购物的优势，这主要是因为它为消费者提供了更大的便利，并创造了经济机会。",
+      "answer": "In my view, the advantages of online shopping clearly outweigh those of relying solely on physical stores, mainly because it offers greater convenience to consumers and creates economic opportunities.",
+      "targetType": "phrase",
+      "id": "dictation-0002",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第二段：Individual benefits",
+      "lemma": "At an individual level, buying goods online can improve people's daily lives by making shopping considerably more convenient.",
+      "sentence": "At an individual level, buying goods online can improve people's daily lives by making shopping considerably more convenient.",
+      "translation": "在个人层面，网上购物可以通过使购物方便得多来改善人们的日常生活。",
+      "answer": "At an individual level, buying goods online can improve people's daily lives by making shopping considerably more convenient.",
+      "targetType": "phrase",
+      "id": "dictation-0003",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第二段：Individual benefits",
+      "lemma": "Online shopping can significantly reduce the time and effort required to purchase desired products, as consumers no longer need to travel long distances to physical stores.",
+      "sentence": "Online shopping can significantly reduce the time and effort required to purchase desired products, as consumers no longer need to travel long distances to physical stores.",
+      "translation": "网上购物可以显著减少购买所需商品所花费的时间和精力，因为消费者不再需要长途前往实体店。",
+      "answer": "Online shopping can significantly reduce the time and effort required to purchase desired products, as consumers no longer need to travel long distances to physical stores.",
+      "targetType": "phrase",
+      "id": "dictation-0004",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第二段：Individual benefits",
+      "lemma": "Moreover, the Internet and digital devices give consumers access to information about millions of products, allowing them to compare different options and choose those that best meet their needs.",
+      "sentence": "Moreover, the Internet and digital devices give consumers access to information about millions of products, allowing them to compare different options and choose those that best meet their needs.",
+      "translation": "此外，互联网和数字设备使消费者能够获取数百万种商品的信息，从而让他们比较不同的选择，并挑选最符合自己需求的商品。",
+      "answer": "Moreover, the Internet and digital devices give consumers access to information about millions of products, allowing them to compare different options and choose those that best meet their needs.",
+      "targetType": "phrase",
+      "id": "dictation-0005",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第二段：Individual benefits",
+      "lemma": "As a result, people can purchase suitable products more efficiently and conveniently, making everyday shopping considerably easier.",
+      "sentence": "As a result, people can purchase suitable products more efficiently and conveniently, making everyday shopping considerably easier.",
+      "translation": "因此，人们可以更加高效、方便地购买合适的商品，从而使日常购物变得容易得多。",
+      "answer": "As a result, people can purchase suitable products more efficiently and conveniently, making everyday shopping considerably easier.",
+      "targetType": "phrase",
+      "id": "dictation-0006",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第三段：Social & economic benefits",
+      "lemma": "Society can also benefit from online shopping, since its growth has created significant employment opportunities.",
+      "sentence": "Society can also benefit from online shopping, since its growth has created significant employment opportunities.",
+      "translation": "社会也可以从网上购物中受益，因为它的发展创造了大量的就业机会。",
+      "answer": "Society can also benefit from online shopping, since its growth has created significant employment opportunities.",
+      "targetType": "phrase",
+      "id": "dictation-0007",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第三段：Social & economic benefits",
+      "lemma": "Online retail supports a wide range of related industries, including manufacturing, transportation, logistics and technology.",
+      "sentence": "Online retail supports a wide range of related industries, including manufacturing, transportation, logistics and technology.",
+      "translation": "网络零售支持着广泛的相关行业，包括制造业、运输业、物流业和科技行业。",
+      "answer": "Online retail supports a wide range of related industries, including manufacturing, transportation, logistics and technology.",
+      "targetType": "phrase",
+      "id": "dictation-0008",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第三段：Social & economic benefits",
+      "lemma": "As an increasing number of people tend to purchase goods online, demand for delivery, warehousing and digital services continues to grow, encouraging companies in these sectors to employ more workers.",
+      "sentence": "As an increasing number of people tend to purchase goods online, demand for delivery, warehousing and digital services continues to grow, encouraging companies in these sectors to employ more workers.",
+      "translation": "随着越来越多的人倾向于在网上购买商品，对配送、仓储和数字服务的需求持续增长，从而促使这些行业的公司雇用更多员工。",
+      "answer": "As an increasing number of people tend to purchase goods online, demand for delivery, warehousing and digital services continues to grow, encouraging companies in these sectors to employ more workers.",
+      "targetType": "phrase",
+      "id": "dictation-0009",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第三段：Social & economic benefits",
+      "lemma": "Therefore, the expansion of online shopping can contribute to employment and economic activity far beyond the retail sector itself.",
+      "sentence": "Therefore, the expansion of online shopping can contribute to employment and economic activity far beyond the retail sector itself.",
+      "translation": "因此，网上购物的扩张可以促进就业和经济活动，而这种影响远远超出了零售行业本身。",
+      "answer": "Therefore, the expansion of online shopping can contribute to employment and economic activity far beyond the retail sector itself.",
+      "targetType": "phrase",
+      "id": "dictation-0010",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第四段：Disadvantages + rebuttal",
+      "lemma": "Admittedly, buying goods online may expose consumers to risks involving personal data and online fraud.",
+      "sentence": "Admittedly, buying goods online may expose consumers to risks involving personal data and online fraud.",
+      "translation": "不可否认，网上购物可能使消费者面临涉及个人数据和网络诈骗的风险。",
+      "answer": "Admittedly, buying goods online may expose consumers to risks involving personal data and online fraud.",
+      "targetType": "phrase",
+      "id": "dictation-0011",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第四段：Disadvantages + rebuttal",
+      "lemma": "As more purchases and financial transactions take place on the Internet, criminals may have more opportunities to steal personal or financial information.",
+      "sentence": "As more purchases and financial transactions take place on the Internet, criminals may have more opportunities to steal personal or financial information.",
+      "translation": "随着越来越多的购物和金融交易在互联网上进行，犯罪分子可能有更多机会窃取个人或金融信息。",
+      "answer": "As more purchases and financial transactions take place on the Internet, criminals may have more opportunities to steal personal or financial information.",
+      "targetType": "phrase",
+      "id": "dictation-0012",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第四段：Disadvantages + rebuttal",
+      "lemma": "However, these risks do not necessarily outweigh the broader benefits of online shopping.",
+      "sentence": "However, these risks do not necessarily outweigh the broader benefits of online shopping.",
+      "translation": "然而，这些风险并不一定超过网上购物所带来的更广泛的益处。",
+      "answer": "However, these risks do not necessarily outweigh the broader benefits of online shopping.",
+      "targetType": "phrase",
+      "id": "dictation-0013",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第四段：Disadvantages + rebuttal",
+      "lemma": "Online companies are continually improving technologies designed to protect personal data and secure online payments, while governments can impose stricter regulations on digital businesses.",
+      "sentence": "Online companies are continually improving technologies designed to protect personal data and secure online payments, while governments can impose stricter regulations on digital businesses.",
+      "translation": "网络公司正在不断改进用于保护个人数据和保障网上支付安全的技术，同时政府也可以对数字企业实施更加严格的监管。",
+      "answer": "Online companies are continually improving technologies designed to protect personal data and secure online payments, while governments can impose stricter regulations on digital businesses.",
+      "targetType": "phrase",
+      "id": "dictation-0014",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第四段：Disadvantages + rebuttal",
+      "lemma": "Consequently, although security concerns cannot be completely eliminated, they can be reduced considerably, whereas the convenience and economic opportunities created by online shopping are widespread and long-lasting.",
+      "sentence": "Consequently, although security concerns cannot be completely eliminated, they can be reduced considerably, whereas the convenience and economic opportunities created by online shopping are widespread and long-lasting.",
+      "translation": "因此，尽管安全方面的担忧无法被彻底消除，但它们可以被大幅降低；相比之下，网上购物所带来的便利和经济机会则是广泛而持久的。",
+      "answer": "Consequently, although security concerns cannot be completely eliminated, they can be reduced considerably, whereas the convenience and economic opportunities created by online shopping are widespread and long-lasting.",
+      "targetType": "phrase",
+      "id": "dictation-0015",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第五段：Conclusion",
+      "lemma": "In conclusion, although buying goods online creates privacy and security concerns, it provides substantial benefits by reducing the time and effort required for shopping and creating employment opportunities in a range of related industries.",
+      "sentence": "In conclusion, although buying goods online creates privacy and security concerns, it provides substantial benefits by reducing the time and effort required for shopping and creating employment opportunities in a range of related industries.",
+      "translation": "总而言之，虽然网上购物会带来隐私和安全方面的担忧，但它通过减少购物所需的时间和精力，以及在一系列相关行业中创造就业机会，带来了巨大的益处。",
+      "answer": "In conclusion, although buying goods online creates privacy and security concerns, it provides substantial benefits by reducing the time and effort required for shopping and creating employment opportunities in a range of related industries.",
+      "targetType": "phrase",
+      "id": "dictation-0016",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 3 · 第五段：Conclusion",
+      "lemma": "Since many of its disadvantages can be mitigated through better technology and regulation, I believe that the advantages of this trend clearly outweigh the disadvantages.",
+      "sentence": "Since many of its disadvantages can be mitigated through better technology and regulation, I believe that the advantages of this trend clearly outweigh the disadvantages.",
+      "translation": "由于它的许多缺点都可以通过更好的技术和监管得到缓解，我认为这一趋势的优势明显大于其劣势。",
+      "answer": "Since many of its disadvantages can be mitigated through better technology and regulation, I believe that the advantages of this trend clearly outweigh the disadvantages.",
+      "targetType": "phrase",
+      "id": "dictation-0017",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-3"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第一段：Introduction",
+      "lemma": "Although protecting endangered species may require significant government funding, it can provide important long-term benefits for both society and the environment.",
+      "sentence": "Although protecting endangered species may require significant government funding, it can provide important long-term benefits for both society and the environment.",
+      "translation": "虽然保护濒危物种可能需要大量的政府资金，但它可以为社会和环境带来重要的长期益处。",
+      "answer": "Although protecting endangered species may require significant government funding, it can provide important long-term benefits for both society and the environment.",
+      "targetType": "phrase",
+      "id": "dictation-0018",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第一段：Introduction",
+      "lemma": "I therefore largely disagree that governments should spend this money on other problems instead of protecting endangered species.",
+      "sentence": "I therefore largely disagree that governments should spend this money on other problems instead of protecting endangered species.",
+      "translation": "因此，我基本不同意政府应该把这些资金用于解决其他问题，而不是保护濒危物种这一观点。",
+      "answer": "I therefore largely disagree that governments should spend this money on other problems instead of protecting endangered species.",
+      "targetType": "phrase",
+      "id": "dictation-0019",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第二段：Environmental benefits",
+      "lemma": "Protecting endangered species can benefit the environment by helping to maintain ecological balance.",
+      "sentence": "Protecting endangered species can benefit the environment by helping to maintain ecological balance.",
+      "translation": "保护濒危物种可以通过帮助维持生态平衡而使环境受益。",
+      "answer": "Protecting endangered species can benefit the environment by helping to maintain ecological balance.",
+      "targetType": "phrase",
+      "id": "dictation-0020",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第二段：Environmental benefits",
+      "lemma": "The loss of one species can affect other organisms within the same food chain and gradually disrupt the wider ecosystem.",
+      "sentence": "The loss of one species can affect other organisms within the same food chain and gradually disrupt the wider ecosystem.",
+      "translation": "一个物种的消失可能会影响同一食物链中的其他生物，并逐渐破坏更广泛的生态系统。",
+      "answer": "The loss of one species can affect other organisms within the same food chain and gradually disrupt the wider ecosystem.",
+      "targetType": "phrase",
+      "id": "dictation-0021",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第二段：Environmental benefits",
+      "lemma": "Therefore, governments are not simply spending money on individual species; they are also investing in the ecosystems of which these species are a part.",
+      "sentence": "Therefore, governments are not simply spending money on individual species; they are also investing in the ecosystems of which these species are a part.",
+      "translation": "因此，政府并不仅仅是在为个别物种花钱；它们同时也是在投资这些物种所处的生态系统。",
+      "answer": "Therefore, governments are not simply spending money on individual species; they are also investing in the ecosystems of which these species are a part.",
+      "targetType": "phrase",
+      "id": "dictation-0022",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第三段：Social benefits",
+      "lemma": "Protecting endangered species can also benefit society by creating employment opportunities in areas such as tourism, scientific research and environmental management.",
+      "sentence": "Protecting endangered species can also benefit society by creating employment opportunities in areas such as tourism, scientific research and environmental management.",
+      "translation": "保护濒危物种还可以通过在旅游业、科学研究和环境管理等领域创造就业机会而使社会受益。",
+      "answer": "Protecting endangered species can also benefit society by creating employment opportunities in areas such as tourism, scientific research and environmental management.",
+      "targetType": "phrase",
+      "id": "dictation-0023",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第三段：Social benefits",
+      "lemma": "These activities can generate income while supporting conservation.",
+      "sentence": "These activities can generate income while supporting conservation.",
+      "translation": "这些活动可以在支持自然保护的同时创造收入。",
+      "answer": "These activities can generate income while supporting conservation.",
+      "targetType": "phrase",
+      "id": "dictation-0024",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第三段：Social benefits",
+      "lemma": "In addition, healthy ecosystems provide resources and environmental services on which human societies depend.",
+      "sentence": "In addition, healthy ecosystems provide resources and environmental services on which human societies depend.",
+      "translation": "此外，健康的生态系统能够提供人类社会赖以生存的资源和环境服务。",
+      "answer": "In addition, healthy ecosystems provide resources and environmental services on which human societies depend.",
+      "targetType": "phrase",
+      "id": "dictation-0025",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第四段：Concession & rebuttal",
+      "lemma": "Admittedly, protecting endangered species may require additional funding and resources in the short term.",
+      "sentence": "Admittedly, protecting endangered species may require additional funding and resources in the short term.",
+      "translation": "不可否认，保护濒危物种在短期内可能需要额外的资金和资源。",
+      "answer": "Admittedly, protecting endangered species may require additional funding and resources in the short term.",
+      "targetType": "phrase",
+      "id": "dictation-0026",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第四段：Concession & rebuttal",
+      "lemma": "However, these costs should be weighed against the significant environmental and social benefits that conservation can provide in the long term.",
+      "sentence": "However, these costs should be weighed against the significant environmental and social benefits that conservation can provide in the long term.",
+      "translation": "然而，这些成本应该与自然保护能够在长期带来的重大环境和社会效益进行权衡。",
+      "answer": "However, these costs should be weighed against the significant environmental and social benefits that conservation can provide in the long term.",
+      "targetType": "phrase",
+      "id": "dictation-0027",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第五段：Conclusion",
+      "lemma": "In conclusion, although protecting endangered species can place financial pressure on governments, conservation provides important long-term benefits by maintaining healthier ecosystems and supporting society.",
+      "sentence": "In conclusion, although protecting endangered species can place financial pressure on governments, conservation provides important long-term benefits by maintaining healthier ecosystems and supporting society.",
+      "translation": "总而言之，虽然保护濒危物种可能会给政府带来财政压力，但自然保护通过维持更健康的生态系统和支持社会发展，能够带来重要的长期益处。",
+      "answer": "In conclusion, although protecting endangered species can place financial pressure on governments, conservation provides important long-term benefits by maintaining healthier ecosystems and supporting society.",
+      "targetType": "phrase",
+      "id": "dictation-0028",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 2 · 第五段：Conclusion",
+      "lemma": "I therefore largely disagree that governments should use this money to solve other problems instead.",
+      "sentence": "I therefore largely disagree that governments should use this money to solve other problems instead.",
+      "translation": "因此，我基本不同意政府应该把这些资金用于解决其他问题这一观点。",
+      "answer": "I therefore largely disagree that governments should use this money to solve other problems instead.",
+      "targetType": "phrase",
+      "id": "dictation-0029",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-2"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第一段：Introduction",
+      "lemma": "Although technological development has introduced new challenges and requires people to learn new skills, I largely disagree that it has made life more complicated overall.",
+      "sentence": "Although technological development has introduced new challenges and requires people to learn new skills, I largely disagree that it has made life more complicated overall.",
+      "translation": "虽然科技发展带来了新的挑战，并要求人们学习新的技能，但总体而言，我并不认同它让生活变得更加复杂这一观点。",
+      "answer": "Although technological development has introduced new challenges and requires people to learn new skills, I largely disagree that it has made life more complicated overall.",
+      "targetType": "phrase",
+      "id": "dictation-0030",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第一段：Introduction",
+      "lemma": "Once people become familiar with new technologies, they can make many everyday tasks considerably easier and more convenient.",
+      "sentence": "Once people become familiar with new technologies, they can make many everyday tasks considerably easier and more convenient.",
+      "translation": "一旦人们熟悉了新技术，它们就可以使许多日常事务变得更加容易和便利。",
+      "answer": "Once people become familiar with new technologies, they can make many everyday tasks considerably easier and more convenient.",
+      "targetType": "phrase",
+      "id": "dictation-0031",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第二段：Individual level — Communication",
+      "lemma": "At an individual level, technology has significantly reduced the time and effort required for everyday communication.",
+      "sentence": "At an individual level, technology has significantly reduced the time and effort required for everyday communication.",
+      "translation": "在个人层面，科技已经显著减少了日常交流所需要的时间和精力。",
+      "answer": "At an individual level, technology has significantly reduced the time and effort required for everyday communication.",
+      "targetType": "phrase",
+      "id": "dictation-0032",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第二段：Individual level — Communication",
+      "lemma": "In the past, people often had to write letters to family members or friends and wait days or even weeks for a response.",
+      "sentence": "In the past, people often had to write letters to family members or friends and wait days or even weeks for a response.",
+      "translation": "在过去，人们经常不得不给家人或朋友写信，并等待数天甚至数周才能收到回复。",
+      "answer": "In the past, people often had to write letters to family members or friends and wait days or even weeks for a response.",
+      "targetType": "phrase",
+      "id": "dictation-0033",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第二段：Individual level — Communication",
+      "lemma": "With telephones and the Internet, people can now communicate almost instantly, regardless of distance.",
+      "sentence": "With telephones and the Internet, people can now communicate almost instantly, regardless of distance.",
+      "translation": "借助电话和互联网，人们现在几乎可以即时交流，而不受距离限制。",
+      "answer": "With telephones and the Internet, people can now communicate almost instantly, regardless of distance.",
+      "targetType": "phrase",
+      "id": "dictation-0034",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第二段：Individual level — Communication",
+      "lemma": "As a result, maintaining relationships and exchanging information have become much easier, making everyday communication far more convenient than it was in the past.",
+      "sentence": "As a result, maintaining relationships and exchanging information have become much easier, making everyday communication far more convenient than it was in the past.",
+      "translation": "因此，维持人际关系和交换信息已经变得容易得多，使日常交流远比过去更加便利。",
+      "answer": "As a result, maintaining relationships and exchanging information have become much easier, making everyday communication far more convenient than it was in the past.",
+      "targetType": "phrase",
+      "id": "dictation-0035",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第三段：Economic & social activities",
+      "lemma": "Technology has also made economic and social activities less dependent on physical location.",
+      "sentence": "Technology has also made economic and social activities less dependent on physical location.",
+      "translation": "科技也使经济和社会活动减少了对地理位置的依赖。",
+      "answer": "Technology has also made economic and social activities less dependent on physical location.",
+      "targetType": "phrase",
+      "id": "dictation-0036",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第三段：Economic & social activities",
+      "lemma": "Businesses can now communicate with customers, suppliers and colleagues in other countries without travelling long distances for every meeting.",
+      "sentence": "Businesses can now communicate with customers, suppliers and colleagues in other countries without travelling long distances for every meeting.",
+      "translation": "企业现在可以与其他国家的客户、供应商和同事进行交流，而不必为了每一次会议都进行长途旅行。",
+      "answer": "Businesses can now communicate with customers, suppliers and colleagues in other countries without travelling long distances for every meeting.",
+      "targetType": "phrase",
+      "id": "dictation-0037",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第三段：Economic & social activities",
+      "lemma": "Video conferencing, online payment systems and digital communication allow many international transactions to be completed remotely.",
+      "sentence": "Video conferencing, online payment systems and digital communication allow many international transactions to be completed remotely.",
+      "translation": "视频会议、在线支付系统和数字通信使许多国际交易能够远程完成。",
+      "answer": "Video conferencing, online payment systems and digital communication allow many international transactions to be completed remotely.",
+      "targetType": "phrase",
+      "id": "dictation-0038",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第三段：Economic & social activities",
+      "lemma": "As a result, geographical distance has become far less of an obstacle to economic activity.",
+      "sentence": "As a result, geographical distance has become far less of an obstacle to economic activity.",
+      "translation": "因此，地理距离已经不再是经济活动的主要障碍。",
+      "answer": "As a result, geographical distance has become far less of an obstacle to economic activity.",
+      "targetType": "phrase",
+      "id": "dictation-0039",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第四段：Concession & rebuttal",
+      "lemma": "Admittedly, technological development has introduced new forms of complexity.",
+      "sentence": "Admittedly, technological development has introduced new forms of complexity.",
+      "translation": "不可否认，科技发展也带来了新的复杂性。",
+      "answer": "Admittedly, technological development has introduced new forms of complexity.",
+      "targetType": "phrase",
+      "id": "dictation-0040",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第四段：Concession & rebuttal",
+      "lemma": "People now have to manage numerous online accounts, protect their personal data and deal with a constant flow of messages and information.",
+      "sentence": "People now have to manage numerous online accounts, protect their personal data and deal with a constant flow of messages and information.",
+      "translation": "如今，人们不得不管理大量的网络账户、保护个人数据，并应对源源不断的信息和消息。",
+      "answer": "People now have to manage numerous online accounts, protect their personal data and deal with a constant flow of messages and information.",
+      "targetType": "phrase",
+      "id": "dictation-0041",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第四段：Concession & rebuttal",
+      "lemma": "These problems are genuine and can sometimes make modern life more stressful.",
+      "sentence": "These problems are genuine and can sometimes make modern life more stressful.",
+      "translation": "这些问题确实存在，有时会使现代生活变得更加令人焦虑。",
+      "answer": "These problems are genuine and can sometimes make modern life more stressful.",
+      "targetType": "phrase",
+      "id": "dictation-0042",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第四段：Concession & rebuttal",
+      "lemma": "However, they do not outweigh the substantial reduction in time and effort that technology has brought to everyday life.",
+      "sentence": "However, they do not outweigh the substantial reduction in time and effort that technology has brought to everyday life.",
+      "translation": "然而，与科技为日常生活大幅减少的时间和精力相比，这些问题并不足以抵消其带来的巨大益处。",
+      "answer": "However, they do not outweigh the substantial reduction in time and effort that technology has brought to everyday life.",
+      "targetType": "phrase",
+      "id": "dictation-0043",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第四段：Concession & rebuttal",
+      "lemma": "In many cases, the problem lies not in the technology itself, but in how it is designed and used.",
+      "sentence": "In many cases, the problem lies not in the technology itself, but in how it is designed and used.",
+      "translation": "在许多情况下，问题并不在于科技本身，而在于它是如何被设计和使用的。",
+      "answer": "In many cases, the problem lies not in the technology itself, but in how it is designed and used.",
+      "targetType": "phrase",
+      "id": "dictation-0044",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第五段：Conclusion",
+      "lemma": "In conclusion, although technological development has created some new challenges, it has simplified a much wider range of everyday activities by reducing the time, effort and physical barriers involved in completing them.",
+      "sentence": "In conclusion, although technological development has created some new challenges, it has simplified a much wider range of everyday activities by reducing the time, effort and physical barriers involved in completing them.",
+      "translation": "总而言之，虽然科技发展带来了一些新的挑战，但它通过减少完成各种事务所需要的时间、精力和现实空间上的障碍，简化了范围广泛得多的日常活动。",
+      "answer": "In conclusion, although technological development has created some new challenges, it has simplified a much wider range of everyday activities by reducing the time, effort and physical barriers involved in completing them.",
+      "targetType": "phrase",
+      "id": "dictation-0045",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 2",
+      "categoryZh": "雅思大作文句子默写",
+      "conceptGroup": "Essay 1 · 第五段：Conclusion",
+      "lemma": "I therefore disagree that technology has made people's lives more complicated overall.",
+      "sentence": "I therefore disagree that technology has made people's lives more complicated overall.",
+      "translation": "因此，总体而言，我不同意科技使人们的生活变得更加复杂这一观点。",
+      "answer": "I therefore disagree that technology has made people's lives more complicated overall.",
+      "targetType": "phrase",
+      "id": "dictation-0046",
+      "tags": [
+        "ielts-writing",
+        "task2-dictation",
+        "essay-1"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    }
+  ]
+}
