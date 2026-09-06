@@ -1,0 +1,3081 @@
+{
+  "version": 1,
+  "schema": "irregular-verbs-v1",
+  "dataset": "irregular-verbs",
+  "datasetZh": "不规则动词",
+  "verbs": [
+    {
+      "id": "irregular-001",
+      "v1": "be",
+      "v2": [
+        "was",
+        "were"
+      ],
+      "v3": [
+        "been"
+      ],
+      "meaning": "是",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "be responsible for change",
+      "pastSentence": "The government was responsible for the reform last year.",
+      "pastTranslation": "政府去年负责这项改革。",
+      "perfectSentence": "The government has been responsible for several major reforms.",
+      "perfectTranslation": "政府已经负责了多项重大改革。"
+    },
+    {
+      "id": "irregular-002",
+      "v1": "become",
+      "v2": [
+        "became"
+      ],
+      "v3": [
+        "become"
+      ],
+      "meaning": "变成",
+      "pattern": "ABA",
+      "priority": true,
+      "collocation": "become increasingly important",
+      "pastSentence": "Online security became increasingly important last decade.",
+      "pastTranslation": "网络安全在过去十年变得越来越重要。",
+      "perfectSentence": "Online security has become increasingly important.",
+      "perfectTranslation": "网络安全已经变得越来越重要。"
+    },
+    {
+      "id": "irregular-003",
+      "v1": "come",
+      "v2": [
+        "came"
+      ],
+      "v3": [
+        "come"
+      ],
+      "meaning": "来；达到",
+      "pattern": "ABA",
+      "priority": false,
+      "collocation": "come to a conclusion",
+      "pastSentence": "The researchers came to a clear conclusion.",
+      "pastTranslation": "研究人员得出了明确结论。",
+      "perfectSentence": "The researchers have come to a clear conclusion.",
+      "perfectTranslation": "研究人员已经得出了明确结论。"
+    },
+    {
+      "id": "irregular-004",
+      "v1": "run",
+      "v2": [
+        "ran"
+      ],
+      "v3": [
+        "run"
+      ],
+      "meaning": "跑；运营",
+      "pattern": "ABA",
+      "priority": false,
+      "collocation": "run a public programme",
+      "pastSentence": "The council ran a public health programme last year.",
+      "pastTranslation": "市政委员会去年开展了一项公共健康计划。",
+      "perfectSentence": "The council has run several public health programmes.",
+      "perfectTranslation": "市政委员会已经开展了多项公共健康计划。"
+    },
+    {
+      "id": "irregular-005",
+      "v1": "overcome",
+      "v2": [
+        "overcame"
+      ],
+      "v3": [
+        "overcome"
+      ],
+      "meaning": "克服",
+      "pattern": "ABA",
+      "priority": false,
+      "collocation": "overcome major barriers",
+      "pastSentence": "The community overcame major barriers to education.",
+      "pastTranslation": "该社区克服了教育方面的主要障碍。",
+      "perfectSentence": "The community has overcome major barriers to education.",
+      "perfectTranslation": "该社区已经克服了教育方面的主要障碍。"
+    },
+    {
+      "id": "irregular-006",
+      "v1": "begin",
+      "v2": [
+        "began"
+      ],
+      "v3": [
+        "begun"
+      ],
+      "meaning": "开始",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "begin the process",
+      "pastSentence": "The government began the reform process in 2020.",
+      "pastTranslation": "政府于2020年开始了改革进程。",
+      "perfectSentence": "The government has begun the reform process.",
+      "perfectTranslation": "政府已经开始了改革进程。"
+    },
+    {
+      "id": "irregular-007",
+      "v1": "break",
+      "v2": [
+        "broke"
+      ],
+      "v3": [
+        "broken"
+      ],
+      "meaning": "打破；违反",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "break the law",
+      "pastSentence": "The company broke the law last year.",
+      "pastTranslation": "这家公司去年违反了法律。",
+      "perfectSentence": "The company has broken several environmental laws.",
+      "perfectTranslation": "这家公司已经违反了多项环境法律。"
+    },
+    {
+      "id": "irregular-008",
+      "v1": "choose",
+      "v2": [
+        "chose"
+      ],
+      "v3": [
+        "chosen"
+      ],
+      "meaning": "选择",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "choose a suitable career",
+      "pastSentence": "Many graduates chose a suitable career after university.",
+      "pastTranslation": "许多毕业生在大学毕业后选择了合适的职业。",
+      "perfectSentence": "Many graduates have chosen careers in technology.",
+      "perfectTranslation": "许多毕业生已经选择了科技行业的职业。"
+    },
+    {
+      "id": "irregular-009",
+      "v1": "do",
+      "v2": [
+        "did"
+      ],
+      "v3": [
+        "done"
+      ],
+      "meaning": "做",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "do scientific research",
+      "pastSentence": "The university did important scientific research last year.",
+      "pastTranslation": "这所大学去年开展了重要的科学研究。",
+      "perfectSentence": "The university has done extensive research on climate change.",
+      "perfectTranslation": "这所大学已经对气候变化进行了广泛研究。"
+    },
+    {
+      "id": "irregular-010",
+      "v1": "draw",
+      "v2": [
+        "drew"
+      ],
+      "v3": [
+        "drawn"
+      ],
+      "meaning": "得出；绘制",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "draw a conclusion",
+      "pastSentence": "The report drew a worrying conclusion.",
+      "pastTranslation": "该报告得出了一个令人担忧的结论。",
+      "perfectSentence": "The report has drawn attention to social inequality.",
+      "perfectTranslation": "该报告已经引起了人们对社会不平等的关注。"
+    },
+    {
+      "id": "irregular-011",
+      "v1": "drive",
+      "v2": [
+        "drove"
+      ],
+      "v3": [
+        "driven"
+      ],
+      "meaning": "驾驶；推动",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "drive economic growth",
+      "pastSentence": "Investment drove economic growth last year.",
+      "pastTranslation": "投资推动了去年的经济增长。",
+      "perfectSentence": "Technological progress has driven economic growth.",
+      "perfectTranslation": "科技进步已经推动了经济增长。"
+    },
+    {
+      "id": "irregular-012",
+      "v1": "eat",
+      "v2": [
+        "ate"
+      ],
+      "v3": [
+        "eaten"
+      ],
+      "meaning": "吃",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "eat a balanced diet",
+      "pastSentence": "More children ate a balanced diet at school.",
+      "pastTranslation": "更多儿童在学校吃到了均衡膳食。",
+      "perfectSentence": "Many students have eaten healthier food since the policy changed.",
+      "perfectTranslation": "自政策改变以来，许多学生吃得更健康了。"
+    },
+    {
+      "id": "irregular-013",
+      "v1": "fall",
+      "v2": [
+        "fell"
+      ],
+      "v3": [
+        "fallen"
+      ],
+      "meaning": "下降",
+      "pattern": "ABC",
+      "priority": true,
+      "collocation": "fall dramatically",
+      "pastSentence": "The crime rate fell dramatically in 2020.",
+      "pastTranslation": "犯罪率在2020年大幅下降。",
+      "perfectSentence": "The crime rate has fallen dramatically in recent years.",
+      "perfectTranslation": "近年来犯罪率已经大幅下降。"
+    },
+    {
+      "id": "irregular-014",
+      "v1": "give",
+      "v2": [
+        "gave"
+      ],
+      "v3": [
+        "given"
+      ],
+      "meaning": "给予",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "give people access to education",
+      "pastSentence": "The programme gave rural students access to education.",
+      "pastTranslation": "该项目让农村学生获得了教育机会。",
+      "perfectSentence": "The programme has given thousands of students access to education.",
+      "perfectTranslation": "该项目已经让数千名学生获得了教育机会。"
+    },
+    {
+      "id": "irregular-015",
+      "v1": "go",
+      "v2": [
+        "went"
+      ],
+      "v3": [
+        "gone"
+      ],
+      "meaning": "去；经历",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "go through major changes",
+      "pastSentence": "The industry went through major changes last decade.",
+      "pastTranslation": "该行业在过去十年经历了重大变化。",
+      "perfectSentence": "The industry has gone through major changes.",
+      "perfectTranslation": "该行业已经经历了重大变化。"
+    },
+    {
+      "id": "irregular-016",
+      "v1": "grow",
+      "v2": [
+        "grew"
+      ],
+      "v3": [
+        "grown"
+      ],
+      "meaning": "增长",
+      "pattern": "ABC",
+      "priority": true,
+      "collocation": "grow rapidly",
+      "pastSentence": "The urban population grew rapidly after 2000.",
+      "pastTranslation": "城市人口在2000年后迅速增长。",
+      "perfectSentence": "The urban population has grown rapidly in recent years.",
+      "perfectTranslation": "近年来城市人口迅速增长。"
+    },
+    {
+      "id": "irregular-017",
+      "v1": "know",
+      "v2": [
+        "knew"
+      ],
+      "v3": [
+        "known"
+      ],
+      "meaning": "知道；了解",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "know the consequences",
+      "pastSentence": "Policy makers knew the consequences at the time.",
+      "pastTranslation": "政策制定者当时了解这些后果。",
+      "perfectSentence": "Scientists have known the risks for many years.",
+      "perfectTranslation": "科学家多年来一直了解这些风险。"
+    },
+    {
+      "id": "irregular-018",
+      "v1": "rise",
+      "v2": [
+        "rose"
+      ],
+      "v3": [
+        "risen"
+      ],
+      "meaning": "上升",
+      "pattern": "ABC",
+      "priority": true,
+      "collocation": "rise significantly",
+      "pastSentence": "The number rose significantly in 2020.",
+      "pastTranslation": "这一数字在2020年显著上升。",
+      "perfectSentence": "The number has risen significantly in recent years.",
+      "perfectTranslation": "近年来这一数字显著上升。"
+    },
+    {
+      "id": "irregular-019",
+      "v1": "see",
+      "v2": [
+        "saw"
+      ],
+      "v3": [
+        "seen"
+      ],
+      "meaning": "看见；经历",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "see a significant increase",
+      "pastSentence": "The city saw a significant increase in traffic.",
+      "pastTranslation": "这座城市的交通流量显著增加。",
+      "perfectSentence": "The city has seen a significant increase in traffic.",
+      "perfectTranslation": "这座城市的交通流量已经显著增加。"
+    },
+    {
+      "id": "irregular-020",
+      "v1": "show",
+      "v2": [
+        "showed"
+      ],
+      "v3": [
+        "shown"
+      ],
+      "meaning": "展示；表明",
+      "pattern": "ABC",
+      "priority": true,
+      "collocation": "show a clear trend",
+      "pastSentence": "The survey showed a clear trend last year.",
+      "pastTranslation": "去年的调查显示出明显趋势。",
+      "perfectSentence": "Recent studies have shown a clear trend.",
+      "perfectTranslation": "近期研究已经显示出明显趋势。"
+    },
+    {
+      "id": "irregular-021",
+      "v1": "speak",
+      "v2": [
+        "spoke"
+      ],
+      "v3": [
+        "spoken"
+      ],
+      "meaning": "说",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "speak about social issues",
+      "pastSentence": "The expert spoke about social issues at the conference.",
+      "pastTranslation": "这位专家在会议上谈到了社会问题。",
+      "perfectSentence": "Several experts have spoken about this issue.",
+      "perfectTranslation": "多位专家已经谈论过这一问题。"
+    },
+    {
+      "id": "irregular-022",
+      "v1": "take",
+      "v2": [
+        "took"
+      ],
+      "v3": [
+        "taken"
+      ],
+      "meaning": "采取；花费",
+      "pattern": "ABC",
+      "priority": true,
+      "collocation": "take effective measures",
+      "pastSentence": "The government took effective measures in 2020.",
+      "pastTranslation": "政府在2020年采取了有效措施。",
+      "perfectSentence": "The government has taken effective measures to reduce pollution.",
+      "perfectTranslation": "政府已经采取有效措施减少污染。"
+    },
+    {
+      "id": "irregular-023",
+      "v1": "write",
+      "v2": [
+        "wrote"
+      ],
+      "v3": [
+        "written"
+      ],
+      "meaning": "写",
+      "pattern": "ABC",
+      "priority": false,
+      "collocation": "write a detailed report",
+      "pastSentence": "The committee wrote a detailed report last year.",
+      "pastTranslation": "委员会去年撰写了一份详细报告。",
+      "perfectSentence": "The committee has written a detailed report on the issue.",
+      "perfectTranslation": "委员会已经就该问题撰写了一份详细报告。"
+    },
+    {
+      "id": "irregular-024",
+      "v1": "bring",
+      "v2": [
+        "brought"
+      ],
+      "v3": [
+        "brought"
+      ],
+      "meaning": "带来",
+      "pattern": "ABB",
+      "priority": true,
+      "collocation": "bring significant benefits",
+      "pastSentence": "The policy brought significant benefits to local residents.",
+      "pastTranslation": "该政策给当地居民带来了显著益处。",
+      "perfectSentence": "The policy has brought significant benefits to society.",
+      "perfectTranslation": "该政策已经给社会带来了显著益处。"
+    },
+    {
+      "id": "irregular-025",
+      "v1": "build",
+      "v2": [
+        "built"
+      ],
+      "v3": [
+        "built"
+      ],
+      "meaning": "建设",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "build public infrastructure",
+      "pastSentence": "The city built new public infrastructure last year.",
+      "pastTranslation": "这座城市去年建设了新的公共基础设施。",
+      "perfectSentence": "The city has built extensive public infrastructure.",
+      "perfectTranslation": "这座城市已经建设了广泛的公共基础设施。"
+    },
+    {
+      "id": "irregular-026",
+      "v1": "buy",
+      "v2": [
+        "bought"
+      ],
+      "v3": [
+        "bought"
+      ],
+      "meaning": "购买",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "buy goods online",
+      "pastSentence": "More consumers bought goods online during the crisis.",
+      "pastTranslation": "危机期间，更多消费者在网上购买商品。",
+      "perfectSentence": "More consumers have bought goods online in recent years.",
+      "perfectTranslation": "近年来，更多消费者已经开始在网上购买商品。"
+    },
+    {
+      "id": "irregular-027",
+      "v1": "find",
+      "v2": [
+        "found"
+      ],
+      "v3": [
+        "found"
+      ],
+      "meaning": "发现；找到",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "find an effective solution",
+      "pastSentence": "Researchers found an effective solution last year.",
+      "pastTranslation": "研究人员去年找到了一种有效的解决方案。",
+      "perfectSentence": "Researchers have found an effective solution to the problem.",
+      "perfectTranslation": "研究人员已经找到了解决该问题的有效方案。"
+    },
+    {
+      "id": "irregular-028",
+      "v1": "have",
+      "v2": [
+        "had"
+      ],
+      "v3": [
+        "had"
+      ],
+      "meaning": "有",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "have a positive impact",
+      "pastSentence": "The programme had a positive impact on employment.",
+      "pastTranslation": "该项目对就业产生了积极影响。",
+      "perfectSentence": "The programme has had a positive impact on employment.",
+      "perfectTranslation": "该项目已经对就业产生了积极影响。"
+    },
+    {
+      "id": "irregular-029",
+      "v1": "hear",
+      "v2": [
+        "heard"
+      ],
+      "v3": [
+        "heard"
+      ],
+      "meaning": "听到",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "hear different opinions",
+      "pastSentence": "The committee heard different opinions during the debate.",
+      "pastTranslation": "委员会在辩论中听取了不同意见。",
+      "perfectSentence": "The committee has heard different opinions on the proposal.",
+      "perfectTranslation": "委员会已经听取了关于该提案的不同意见。"
+    },
+    {
+      "id": "irregular-030",
+      "v1": "keep",
+      "v2": [
+        "kept"
+      ],
+      "v3": [
+        "kept"
+      ],
+      "meaning": "保持",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "keep accurate records",
+      "pastSentence": "The hospital kept accurate records last year.",
+      "pastTranslation": "医院去年保存了准确的记录。",
+      "perfectSentence": "The hospital has kept accurate records for many years.",
+      "perfectTranslation": "医院多年来一直保存着准确的记录。"
+    },
+    {
+      "id": "irregular-031",
+      "v1": "lead",
+      "v2": [
+        "led"
+      ],
+      "v3": [
+        "led"
+      ],
+      "meaning": "导致；领导",
+      "pattern": "ABB",
+      "priority": true,
+      "collocation": "lead to serious problems",
+      "pastSentence": "Poor planning led to serious problems.",
+      "pastTranslation": "规划不当导致了严重问题。",
+      "perfectSentence": "Poor planning has led to serious social problems.",
+      "perfectTranslation": "规划不当已经导致了严重的社会问题。"
+    },
+    {
+      "id": "irregular-032",
+      "v1": "leave",
+      "v2": [
+        "left"
+      ],
+      "v3": [
+        "left"
+      ],
+      "meaning": "离开",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "leave school early",
+      "pastSentence": "Many students left school early during the crisis.",
+      "pastTranslation": "危机期间，许多学生过早离开了学校。",
+      "perfectSentence": "Many young people have left school without practical skills.",
+      "perfectTranslation": "许多年轻人离开学校时并未掌握实用技能。"
+    },
+    {
+      "id": "irregular-033",
+      "v1": "make",
+      "v2": [
+        "made"
+      ],
+      "v3": [
+        "made"
+      ],
+      "meaning": "制造；使得",
+      "pattern": "ABB",
+      "priority": true,
+      "collocation": "make an informed decision",
+      "pastSentence": "Consumers made more informed decisions after the reform.",
+      "pastTranslation": "改革后，消费者作出了更明智的决定。",
+      "perfectSentence": "Consumers have made more informed decisions with better information.",
+      "perfectTranslation": "消费者借助更充分的信息作出了更明智的决定。"
+    },
+    {
+      "id": "irregular-034",
+      "v1": "mean",
+      "v2": [
+        "meant"
+      ],
+      "v3": [
+        "meant"
+      ],
+      "meaning": "意味着",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "mean significant change",
+      "pastSentence": "The reform meant significant change for local schools.",
+      "pastTranslation": "这项改革意味着当地学校发生重大变化。",
+      "perfectSentence": "The reform has meant significant change for local communities.",
+      "perfectTranslation": "这项改革已经给当地社区带来了重大变化。"
+    },
+    {
+      "id": "irregular-035",
+      "v1": "pay",
+      "v2": [
+        "paid"
+      ],
+      "v3": [
+        "paid"
+      ],
+      "meaning": "支付",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "pay higher taxes",
+      "pastSentence": "Workers paid higher taxes last year.",
+      "pastTranslation": "劳动者去年缴纳了更高的税款。",
+      "perfectSentence": "Citizens have paid higher taxes to fund public services.",
+      "perfectTranslation": "公民已经缴纳更高税款来资助公共服务。"
+    },
+    {
+      "id": "irregular-036",
+      "v1": "say",
+      "v2": [
+        "said"
+      ],
+      "v3": [
+        "said"
+      ],
+      "meaning": "说",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "say that change is necessary",
+      "pastSentence": "The report said that change was necessary.",
+      "pastTranslation": "该报告称变革是必要的。",
+      "perfectSentence": "Experts have said that urgent action is necessary.",
+      "perfectTranslation": "专家们已经表示有必要立即采取行动。"
+    },
+    {
+      "id": "irregular-037",
+      "v1": "send",
+      "v2": [
+        "sent"
+      ],
+      "v3": [
+        "sent"
+      ],
+      "meaning": "发送",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "send information instantly",
+      "pastSentence": "The system sent information instantly to local hospitals.",
+      "pastTranslation": "该系统即时向当地医院发送了信息。",
+      "perfectSentence": "Digital technology has sent information instantly across borders.",
+      "perfectTranslation": "数字技术已经实现了信息的跨境即时传递。"
+    },
+    {
+      "id": "irregular-038",
+      "v1": "spend",
+      "v2": [
+        "spent"
+      ],
+      "v3": [
+        "spent"
+      ],
+      "meaning": "花费",
+      "pattern": "ABB",
+      "priority": true,
+      "collocation": "spend money on education",
+      "pastSentence": "The government spent more money on education last year.",
+      "pastTranslation": "政府去年在教育上投入了更多资金。",
+      "perfectSentence": "The government has spent large amounts of money on education.",
+      "perfectTranslation": "政府已经在教育上投入了大量资金。"
+    },
+    {
+      "id": "irregular-039",
+      "v1": "teach",
+      "v2": [
+        "taught"
+      ],
+      "v3": [
+        "taught"
+      ],
+      "meaning": "教",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "teach practical skills",
+      "pastSentence": "The course taught students practical skills.",
+      "pastTranslation": "该课程教授了学生实用技能。",
+      "perfectSentence": "The course has taught students valuable practical skills.",
+      "perfectTranslation": "该课程已经教授了学生宝贵的实用技能。"
+    },
+    {
+      "id": "irregular-040",
+      "v1": "think",
+      "v2": [
+        "thought"
+      ],
+      "v3": [
+        "thought"
+      ],
+      "meaning": "认为；思考",
+      "pattern": "ABB",
+      "priority": false,
+      "collocation": "think carefully about consequences",
+      "pastSentence": "Policy makers thought carefully about the consequences.",
+      "pastTranslation": "政策制定者认真考虑了这些后果。",
+      "perfectSentence": "Policy makers have thought carefully about the long-term consequences.",
+      "perfectTranslation": "政策制定者已经认真考虑了长期后果。"
+    }
+  ],
+  "items": [
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "be",
+      "sentence": "be → was/were → been",
+      "translation": "是：写出过去式和过去分词",
+      "answer": "was/were → been",
+      "targetType": "phrase",
+      "aliases": [
+        "was/were been",
+        "was, were → been"
+      ],
+      "confusionGroup": "irregular-001",
+      "id": "irregular-001-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "be",
+      "sentence": "The government was responsible for the reform last year.",
+      "translation": "政府去年负责这项改革。",
+      "answer": "was",
+      "targetType": "word",
+      "confusionGroup": "irregular-001",
+      "id": "irregular-001-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "be",
+      "sentence": "The government has been responsible for several major reforms.",
+      "translation": "政府已经负责了多项重大改革。",
+      "answer": "been",
+      "targetType": "word",
+      "confusionGroup": "irregular-001",
+      "id": "irregular-001-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 三态",
+      "lemma": "become",
+      "sentence": "become → became → become",
+      "translation": "变成：写出过去式和过去分词",
+      "answer": "became → become",
+      "targetType": "phrase",
+      "aliases": [
+        "became become",
+        "became → become"
+      ],
+      "confusionGroup": "irregular-002",
+      "id": "irregular-002-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 一般过去时",
+      "lemma": "become",
+      "sentence": "Online security became increasingly important last decade.",
+      "translation": "网络安全在过去十年变得越来越重要。",
+      "answer": "became",
+      "targetType": "word",
+      "confusionGroup": "irregular-002",
+      "id": "irregular-002-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 过去分词",
+      "lemma": "become",
+      "sentence": "Online security has become increasingly important.",
+      "translation": "网络安全已经变得越来越重要。",
+      "answer": "become",
+      "targetType": "word",
+      "confusionGroup": "irregular-002",
+      "id": "irregular-002-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 三态",
+      "lemma": "come",
+      "sentence": "come → came → come",
+      "translation": "来；达到：写出过去式和过去分词",
+      "answer": "came → come",
+      "targetType": "phrase",
+      "aliases": [
+        "came come",
+        "came → come"
+      ],
+      "confusionGroup": "irregular-003",
+      "id": "irregular-003-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 一般过去时",
+      "lemma": "come",
+      "sentence": "The researchers came to a clear conclusion.",
+      "translation": "研究人员得出了明确结论。",
+      "answer": "came",
+      "targetType": "word",
+      "confusionGroup": "irregular-003",
+      "id": "irregular-003-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 过去分词",
+      "lemma": "come",
+      "sentence": "The researchers have come to a clear conclusion.",
+      "translation": "研究人员已经得出了明确结论。",
+      "answer": "come",
+      "targetType": "word",
+      "confusionGroup": "irregular-003",
+      "id": "irregular-003-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 三态",
+      "lemma": "run",
+      "sentence": "run → ran → run",
+      "translation": "跑；运营：写出过去式和过去分词",
+      "answer": "ran → run",
+      "targetType": "phrase",
+      "aliases": [
+        "ran run",
+        "ran → run"
+      ],
+      "confusionGroup": "irregular-004",
+      "id": "irregular-004-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 一般过去时",
+      "lemma": "run",
+      "sentence": "The council ran a public health programme last year.",
+      "translation": "市政委员会去年开展了一项公共健康计划。",
+      "answer": "ran",
+      "targetType": "word",
+      "confusionGroup": "irregular-004",
+      "id": "irregular-004-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 过去分词",
+      "lemma": "run",
+      "sentence": "The council has run several public health programmes.",
+      "translation": "市政委员会已经开展了多项公共健康计划。",
+      "answer": "run",
+      "targetType": "word",
+      "confusionGroup": "irregular-004",
+      "id": "irregular-004-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 三态",
+      "lemma": "overcome",
+      "sentence": "overcome → overcame → overcome",
+      "translation": "克服：写出过去式和过去分词",
+      "answer": "overcame → overcome",
+      "targetType": "phrase",
+      "aliases": [
+        "overcame overcome",
+        "overcame → overcome"
+      ],
+      "confusionGroup": "irregular-005",
+      "id": "irregular-005-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 一般过去时",
+      "lemma": "overcome",
+      "sentence": "The community overcame major barriers to education.",
+      "translation": "该社区克服了教育方面的主要障碍。",
+      "answer": "overcame",
+      "targetType": "word",
+      "confusionGroup": "irregular-005",
+      "id": "irregular-005-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABA · 过去分词",
+      "lemma": "overcome",
+      "sentence": "The community has overcome major barriers to education.",
+      "translation": "该社区已经克服了教育方面的主要障碍。",
+      "answer": "overcome",
+      "targetType": "word",
+      "confusionGroup": "irregular-005",
+      "id": "irregular-005-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "begin",
+      "sentence": "begin → began → begun",
+      "translation": "开始：写出过去式和过去分词",
+      "answer": "began → begun",
+      "targetType": "phrase",
+      "aliases": [
+        "began begun",
+        "began → begun"
+      ],
+      "confusionGroup": "irregular-006",
+      "id": "irregular-006-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "begin",
+      "sentence": "The government began the reform process in 2020.",
+      "translation": "政府于2020年开始了改革进程。",
+      "answer": "began",
+      "targetType": "word",
+      "confusionGroup": "irregular-006",
+      "id": "irregular-006-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "begin",
+      "sentence": "The government has begun the reform process.",
+      "translation": "政府已经开始了改革进程。",
+      "answer": "begun",
+      "targetType": "word",
+      "confusionGroup": "irregular-006",
+      "id": "irregular-006-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "break",
+      "sentence": "break → broke → broken",
+      "translation": "打破；违反：写出过去式和过去分词",
+      "answer": "broke → broken",
+      "targetType": "phrase",
+      "aliases": [
+        "broke broken",
+        "broke → broken"
+      ],
+      "confusionGroup": "irregular-007",
+      "id": "irregular-007-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "break",
+      "sentence": "The company broke the law last year.",
+      "translation": "这家公司去年违反了法律。",
+      "answer": "broke",
+      "targetType": "word",
+      "confusionGroup": "irregular-007",
+      "id": "irregular-007-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "break",
+      "sentence": "The company has broken several environmental laws.",
+      "translation": "这家公司已经违反了多项环境法律。",
+      "answer": "broken",
+      "targetType": "word",
+      "confusionGroup": "irregular-007",
+      "id": "irregular-007-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "choose",
+      "sentence": "choose → chose → chosen",
+      "translation": "选择：写出过去式和过去分词",
+      "answer": "chose → chosen",
+      "targetType": "phrase",
+      "aliases": [
+        "chose chosen",
+        "chose → chosen"
+      ],
+      "confusionGroup": "irregular-008",
+      "id": "irregular-008-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "choose",
+      "sentence": "Many graduates chose a suitable career after university.",
+      "translation": "许多毕业生在大学毕业后选择了合适的职业。",
+      "answer": "chose",
+      "targetType": "word",
+      "confusionGroup": "irregular-008",
+      "id": "irregular-008-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "choose",
+      "sentence": "Many graduates have chosen careers in technology.",
+      "translation": "许多毕业生已经选择了科技行业的职业。",
+      "answer": "chosen",
+      "targetType": "word",
+      "confusionGroup": "irregular-008",
+      "id": "irregular-008-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "do",
+      "sentence": "do → did → done",
+      "translation": "做：写出过去式和过去分词",
+      "answer": "did → done",
+      "targetType": "phrase",
+      "aliases": [
+        "did done",
+        "did → done"
+      ],
+      "confusionGroup": "irregular-009",
+      "id": "irregular-009-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "do",
+      "sentence": "The university did important scientific research last year.",
+      "translation": "这所大学去年开展了重要的科学研究。",
+      "answer": "did",
+      "targetType": "word",
+      "confusionGroup": "irregular-009",
+      "id": "irregular-009-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "do",
+      "sentence": "The university has done extensive research on climate change.",
+      "translation": "这所大学已经对气候变化进行了广泛研究。",
+      "answer": "done",
+      "targetType": "word",
+      "confusionGroup": "irregular-009",
+      "id": "irregular-009-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "draw",
+      "sentence": "draw → drew → drawn",
+      "translation": "得出；绘制：写出过去式和过去分词",
+      "answer": "drew → drawn",
+      "targetType": "phrase",
+      "aliases": [
+        "drew drawn",
+        "drew → drawn"
+      ],
+      "confusionGroup": "irregular-010",
+      "id": "irregular-010-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "draw",
+      "sentence": "The report drew a worrying conclusion.",
+      "translation": "该报告得出了一个令人担忧的结论。",
+      "answer": "drew",
+      "targetType": "word",
+      "confusionGroup": "irregular-010",
+      "id": "irregular-010-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "draw",
+      "sentence": "The report has drawn attention to social inequality.",
+      "translation": "该报告已经引起了人们对社会不平等的关注。",
+      "answer": "drawn",
+      "targetType": "word",
+      "confusionGroup": "irregular-010",
+      "id": "irregular-010-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "drive",
+      "sentence": "drive → drove → driven",
+      "translation": "驾驶；推动：写出过去式和过去分词",
+      "answer": "drove → driven",
+      "targetType": "phrase",
+      "aliases": [
+        "drove driven",
+        "drove → driven"
+      ],
+      "confusionGroup": "irregular-011",
+      "id": "irregular-011-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "drive",
+      "sentence": "Investment drove economic growth last year.",
+      "translation": "投资推动了去年的经济增长。",
+      "answer": "drove",
+      "targetType": "word",
+      "confusionGroup": "irregular-011",
+      "id": "irregular-011-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "drive",
+      "sentence": "Technological progress has driven economic growth.",
+      "translation": "科技进步已经推动了经济增长。",
+      "answer": "driven",
+      "targetType": "word",
+      "confusionGroup": "irregular-011",
+      "id": "irregular-011-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "eat",
+      "sentence": "eat → ate → eaten",
+      "translation": "吃：写出过去式和过去分词",
+      "answer": "ate → eaten",
+      "targetType": "phrase",
+      "aliases": [
+        "ate eaten",
+        "ate → eaten"
+      ],
+      "confusionGroup": "irregular-012",
+      "id": "irregular-012-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "eat",
+      "sentence": "More children ate a balanced diet at school.",
+      "translation": "更多儿童在学校吃到了均衡膳食。",
+      "answer": "ate",
+      "targetType": "word",
+      "confusionGroup": "irregular-012",
+      "id": "irregular-012-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "eat",
+      "sentence": "Many students have eaten healthier food since the policy changed.",
+      "translation": "自政策改变以来，许多学生吃得更健康了。",
+      "answer": "eaten",
+      "targetType": "word",
+      "confusionGroup": "irregular-012",
+      "id": "irregular-012-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "fall",
+      "sentence": "fall → fell → fallen",
+      "translation": "下降：写出过去式和过去分词",
+      "answer": "fell → fallen",
+      "targetType": "phrase",
+      "aliases": [
+        "fell fallen",
+        "fell → fallen"
+      ],
+      "confusionGroup": "irregular-013",
+      "id": "irregular-013-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "fall",
+      "sentence": "The crime rate fell dramatically in 2020.",
+      "translation": "犯罪率在2020年大幅下降。",
+      "answer": "fell",
+      "targetType": "word",
+      "confusionGroup": "irregular-013",
+      "id": "irregular-013-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "fall",
+      "sentence": "The crime rate has fallen dramatically in recent years.",
+      "translation": "近年来犯罪率已经大幅下降。",
+      "answer": "fallen",
+      "targetType": "word",
+      "confusionGroup": "irregular-013",
+      "id": "irregular-013-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "give",
+      "sentence": "give → gave → given",
+      "translation": "给予：写出过去式和过去分词",
+      "answer": "gave → given",
+      "targetType": "phrase",
+      "aliases": [
+        "gave given",
+        "gave → given"
+      ],
+      "confusionGroup": "irregular-014",
+      "id": "irregular-014-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "give",
+      "sentence": "The programme gave rural students access to education.",
+      "translation": "该项目让农村学生获得了教育机会。",
+      "answer": "gave",
+      "targetType": "word",
+      "confusionGroup": "irregular-014",
+      "id": "irregular-014-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "give",
+      "sentence": "The programme has given thousands of students access to education.",
+      "translation": "该项目已经让数千名学生获得了教育机会。",
+      "answer": "given",
+      "targetType": "word",
+      "confusionGroup": "irregular-014",
+      "id": "irregular-014-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "go",
+      "sentence": "go → went → gone",
+      "translation": "去；经历：写出过去式和过去分词",
+      "answer": "went → gone",
+      "targetType": "phrase",
+      "aliases": [
+        "went gone",
+        "went → gone"
+      ],
+      "confusionGroup": "irregular-015",
+      "id": "irregular-015-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "go",
+      "sentence": "The industry went through major changes last decade.",
+      "translation": "该行业在过去十年经历了重大变化。",
+      "answer": "went",
+      "targetType": "word",
+      "confusionGroup": "irregular-015",
+      "id": "irregular-015-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "go",
+      "sentence": "The industry has gone through major changes.",
+      "translation": "该行业已经经历了重大变化。",
+      "answer": "gone",
+      "targetType": "word",
+      "confusionGroup": "irregular-015",
+      "id": "irregular-015-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "grow",
+      "sentence": "grow → grew → grown",
+      "translation": "增长：写出过去式和过去分词",
+      "answer": "grew → grown",
+      "targetType": "phrase",
+      "aliases": [
+        "grew grown",
+        "grew → grown"
+      ],
+      "confusionGroup": "irregular-016",
+      "id": "irregular-016-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "grow",
+      "sentence": "The urban population grew rapidly after 2000.",
+      "translation": "城市人口在2000年后迅速增长。",
+      "answer": "grew",
+      "targetType": "word",
+      "confusionGroup": "irregular-016",
+      "id": "irregular-016-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "grow",
+      "sentence": "The urban population has grown rapidly in recent years.",
+      "translation": "近年来城市人口迅速增长。",
+      "answer": "grown",
+      "targetType": "word",
+      "confusionGroup": "irregular-016",
+      "id": "irregular-016-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "know",
+      "sentence": "know → knew → known",
+      "translation": "知道；了解：写出过去式和过去分词",
+      "answer": "knew → known",
+      "targetType": "phrase",
+      "aliases": [
+        "knew known",
+        "knew → known"
+      ],
+      "confusionGroup": "irregular-017",
+      "id": "irregular-017-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "know",
+      "sentence": "Policy makers knew the consequences at the time.",
+      "translation": "政策制定者当时了解这些后果。",
+      "answer": "knew",
+      "targetType": "word",
+      "confusionGroup": "irregular-017",
+      "id": "irregular-017-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "know",
+      "sentence": "Scientists have known the risks for many years.",
+      "translation": "科学家多年来一直了解这些风险。",
+      "answer": "known",
+      "targetType": "word",
+      "confusionGroup": "irregular-017",
+      "id": "irregular-017-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "rise",
+      "sentence": "rise → rose → risen",
+      "translation": "上升：写出过去式和过去分词",
+      "answer": "rose → risen",
+      "targetType": "phrase",
+      "aliases": [
+        "rose risen",
+        "rose → risen"
+      ],
+      "confusionGroup": "irregular-018",
+      "id": "irregular-018-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "rise",
+      "sentence": "The number rose significantly in 2020.",
+      "translation": "这一数字在2020年显著上升。",
+      "answer": "rose",
+      "targetType": "word",
+      "confusionGroup": "irregular-018",
+      "id": "irregular-018-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "rise",
+      "sentence": "The number has risen significantly in recent years.",
+      "translation": "近年来这一数字显著上升。",
+      "answer": "risen",
+      "targetType": "word",
+      "confusionGroup": "irregular-018",
+      "id": "irregular-018-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "see",
+      "sentence": "see → saw → seen",
+      "translation": "看见；经历：写出过去式和过去分词",
+      "answer": "saw → seen",
+      "targetType": "phrase",
+      "aliases": [
+        "saw seen",
+        "saw → seen"
+      ],
+      "confusionGroup": "irregular-019",
+      "id": "irregular-019-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "see",
+      "sentence": "The city saw a significant increase in traffic.",
+      "translation": "这座城市的交通流量显著增加。",
+      "answer": "saw",
+      "targetType": "word",
+      "confusionGroup": "irregular-019",
+      "id": "irregular-019-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "see",
+      "sentence": "The city has seen a significant increase in traffic.",
+      "translation": "这座城市的交通流量已经显著增加。",
+      "answer": "seen",
+      "targetType": "word",
+      "confusionGroup": "irregular-019",
+      "id": "irregular-019-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "show",
+      "sentence": "show → showed → shown",
+      "translation": "展示；表明：写出过去式和过去分词",
+      "answer": "showed → shown",
+      "targetType": "phrase",
+      "aliases": [
+        "showed shown",
+        "showed → shown"
+      ],
+      "confusionGroup": "irregular-020",
+      "id": "irregular-020-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "show",
+      "sentence": "The survey showed a clear trend last year.",
+      "translation": "去年的调查显示出明显趋势。",
+      "answer": "showed",
+      "targetType": "word",
+      "confusionGroup": "irregular-020",
+      "id": "irregular-020-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "show",
+      "sentence": "Recent studies have shown a clear trend.",
+      "translation": "近期研究已经显示出明显趋势。",
+      "answer": "shown",
+      "targetType": "word",
+      "confusionGroup": "irregular-020",
+      "id": "irregular-020-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "speak",
+      "sentence": "speak → spoke → spoken",
+      "translation": "说：写出过去式和过去分词",
+      "answer": "spoke → spoken",
+      "targetType": "phrase",
+      "aliases": [
+        "spoke spoken",
+        "spoke → spoken"
+      ],
+      "confusionGroup": "irregular-021",
+      "id": "irregular-021-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "speak",
+      "sentence": "The expert spoke about social issues at the conference.",
+      "translation": "这位专家在会议上谈到了社会问题。",
+      "answer": "spoke",
+      "targetType": "word",
+      "confusionGroup": "irregular-021",
+      "id": "irregular-021-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "speak",
+      "sentence": "Several experts have spoken about this issue.",
+      "translation": "多位专家已经谈论过这一问题。",
+      "answer": "spoken",
+      "targetType": "word",
+      "confusionGroup": "irregular-021",
+      "id": "irregular-021-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "take",
+      "sentence": "take → took → taken",
+      "translation": "采取；花费：写出过去式和过去分词",
+      "answer": "took → taken",
+      "targetType": "phrase",
+      "aliases": [
+        "took taken",
+        "took → taken"
+      ],
+      "confusionGroup": "irregular-022",
+      "id": "irregular-022-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "take",
+      "sentence": "The government took effective measures in 2020.",
+      "translation": "政府在2020年采取了有效措施。",
+      "answer": "took",
+      "targetType": "word",
+      "confusionGroup": "irregular-022",
+      "id": "irregular-022-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "take",
+      "sentence": "The government has taken effective measures to reduce pollution.",
+      "translation": "政府已经采取有效措施减少污染。",
+      "answer": "taken",
+      "targetType": "word",
+      "confusionGroup": "irregular-022",
+      "id": "irregular-022-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 三态",
+      "lemma": "write",
+      "sentence": "write → wrote → written",
+      "translation": "写：写出过去式和过去分词",
+      "answer": "wrote → written",
+      "targetType": "phrase",
+      "aliases": [
+        "wrote written",
+        "wrote → written"
+      ],
+      "confusionGroup": "irregular-023",
+      "id": "irregular-023-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 一般过去时",
+      "lemma": "write",
+      "sentence": "The committee wrote a detailed report last year.",
+      "translation": "委员会去年撰写了一份详细报告。",
+      "answer": "wrote",
+      "targetType": "word",
+      "confusionGroup": "irregular-023",
+      "id": "irregular-023-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABC · 过去分词",
+      "lemma": "write",
+      "sentence": "The committee has written a detailed report on the issue.",
+      "translation": "委员会已经就该问题撰写了一份详细报告。",
+      "answer": "written",
+      "targetType": "word",
+      "confusionGroup": "irregular-023",
+      "id": "irregular-023-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "bring",
+      "sentence": "bring → brought → brought",
+      "translation": "带来：写出过去式和过去分词",
+      "answer": "brought → brought",
+      "targetType": "phrase",
+      "aliases": [
+        "brought brought",
+        "brought → brought"
+      ],
+      "confusionGroup": "irregular-024",
+      "id": "irregular-024-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "bring",
+      "sentence": "The policy brought significant benefits to local residents.",
+      "translation": "该政策给当地居民带来了显著益处。",
+      "answer": "brought",
+      "targetType": "word",
+      "confusionGroup": "irregular-024",
+      "id": "irregular-024-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "bring",
+      "sentence": "The policy has brought significant benefits to society.",
+      "translation": "该政策已经给社会带来了显著益处。",
+      "answer": "brought",
+      "targetType": "word",
+      "confusionGroup": "irregular-024",
+      "id": "irregular-024-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "build",
+      "sentence": "build → built → built",
+      "translation": "建设：写出过去式和过去分词",
+      "answer": "built → built",
+      "targetType": "phrase",
+      "aliases": [
+        "built built",
+        "built → built"
+      ],
+      "confusionGroup": "irregular-025",
+      "id": "irregular-025-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "build",
+      "sentence": "The city built new public infrastructure last year.",
+      "translation": "这座城市去年建设了新的公共基础设施。",
+      "answer": "built",
+      "targetType": "word",
+      "confusionGroup": "irregular-025",
+      "id": "irregular-025-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "build",
+      "sentence": "The city has built extensive public infrastructure.",
+      "translation": "这座城市已经建设了广泛的公共基础设施。",
+      "answer": "built",
+      "targetType": "word",
+      "confusionGroup": "irregular-025",
+      "id": "irregular-025-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "buy",
+      "sentence": "buy → bought → bought",
+      "translation": "购买：写出过去式和过去分词",
+      "answer": "bought → bought",
+      "targetType": "phrase",
+      "aliases": [
+        "bought bought",
+        "bought → bought"
+      ],
+      "confusionGroup": "irregular-026",
+      "id": "irregular-026-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "buy",
+      "sentence": "More consumers bought goods online during the crisis.",
+      "translation": "危机期间，更多消费者在网上购买商品。",
+      "answer": "bought",
+      "targetType": "word",
+      "confusionGroup": "irregular-026",
+      "id": "irregular-026-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "buy",
+      "sentence": "More consumers have bought goods online in recent years.",
+      "translation": "近年来，更多消费者已经开始在网上购买商品。",
+      "answer": "bought",
+      "targetType": "word",
+      "confusionGroup": "irregular-026",
+      "id": "irregular-026-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "find",
+      "sentence": "find → found → found",
+      "translation": "发现；找到：写出过去式和过去分词",
+      "answer": "found → found",
+      "targetType": "phrase",
+      "aliases": [
+        "found found",
+        "found → found"
+      ],
+      "confusionGroup": "irregular-027",
+      "id": "irregular-027-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "find",
+      "sentence": "Researchers found an effective solution last year.",
+      "translation": "研究人员去年找到了一种有效的解决方案。",
+      "answer": "found",
+      "targetType": "word",
+      "confusionGroup": "irregular-027",
+      "id": "irregular-027-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "find",
+      "sentence": "Researchers have found an effective solution to the problem.",
+      "translation": "研究人员已经找到了解决该问题的有效方案。",
+      "answer": "found",
+      "targetType": "word",
+      "confusionGroup": "irregular-027",
+      "id": "irregular-027-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "have",
+      "sentence": "have → had → had",
+      "translation": "有：写出过去式和过去分词",
+      "answer": "had → had",
+      "targetType": "phrase",
+      "aliases": [
+        "had had",
+        "had → had"
+      ],
+      "confusionGroup": "irregular-028",
+      "id": "irregular-028-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "have",
+      "sentence": "The programme had a positive impact on employment.",
+      "translation": "该项目对就业产生了积极影响。",
+      "answer": "had",
+      "targetType": "word",
+      "confusionGroup": "irregular-028",
+      "id": "irregular-028-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "have",
+      "sentence": "The programme has had a positive impact on employment.",
+      "translation": "该项目已经对就业产生了积极影响。",
+      "answer": "had",
+      "targetType": "word",
+      "confusionGroup": "irregular-028",
+      "id": "irregular-028-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "hear",
+      "sentence": "hear → heard → heard",
+      "translation": "听到：写出过去式和过去分词",
+      "answer": "heard → heard",
+      "targetType": "phrase",
+      "aliases": [
+        "heard heard",
+        "heard → heard"
+      ],
+      "confusionGroup": "irregular-029",
+      "id": "irregular-029-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "hear",
+      "sentence": "The committee heard different opinions during the debate.",
+      "translation": "委员会在辩论中听取了不同意见。",
+      "answer": "heard",
+      "targetType": "word",
+      "confusionGroup": "irregular-029",
+      "id": "irregular-029-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "hear",
+      "sentence": "The committee has heard different opinions on the proposal.",
+      "translation": "委员会已经听取了关于该提案的不同意见。",
+      "answer": "heard",
+      "targetType": "word",
+      "confusionGroup": "irregular-029",
+      "id": "irregular-029-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "keep",
+      "sentence": "keep → kept → kept",
+      "translation": "保持：写出过去式和过去分词",
+      "answer": "kept → kept",
+      "targetType": "phrase",
+      "aliases": [
+        "kept kept",
+        "kept → kept"
+      ],
+      "confusionGroup": "irregular-030",
+      "id": "irregular-030-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "keep",
+      "sentence": "The hospital kept accurate records last year.",
+      "translation": "医院去年保存了准确的记录。",
+      "answer": "kept",
+      "targetType": "word",
+      "confusionGroup": "irregular-030",
+      "id": "irregular-030-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "keep",
+      "sentence": "The hospital has kept accurate records for many years.",
+      "translation": "医院多年来一直保存着准确的记录。",
+      "answer": "kept",
+      "targetType": "word",
+      "confusionGroup": "irregular-030",
+      "id": "irregular-030-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "lead",
+      "sentence": "lead → led → led",
+      "translation": "导致；领导：写出过去式和过去分词",
+      "answer": "led → led",
+      "targetType": "phrase",
+      "aliases": [
+        "led led",
+        "led → led"
+      ],
+      "confusionGroup": "irregular-031",
+      "id": "irregular-031-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "lead",
+      "sentence": "Poor planning led to serious problems.",
+      "translation": "规划不当导致了严重问题。",
+      "answer": "led",
+      "targetType": "word",
+      "confusionGroup": "irregular-031",
+      "id": "irregular-031-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "lead",
+      "sentence": "Poor planning has led to serious social problems.",
+      "translation": "规划不当已经导致了严重的社会问题。",
+      "answer": "led",
+      "targetType": "word",
+      "confusionGroup": "irregular-031",
+      "id": "irregular-031-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "leave",
+      "sentence": "leave → left → left",
+      "translation": "离开：写出过去式和过去分词",
+      "answer": "left → left",
+      "targetType": "phrase",
+      "aliases": [
+        "left left",
+        "left → left"
+      ],
+      "confusionGroup": "irregular-032",
+      "id": "irregular-032-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "leave",
+      "sentence": "Many students left school early during the crisis.",
+      "translation": "危机期间，许多学生过早离开了学校。",
+      "answer": "left",
+      "targetType": "word",
+      "confusionGroup": "irregular-032",
+      "id": "irregular-032-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "leave",
+      "sentence": "Many young people have left school without practical skills.",
+      "translation": "许多年轻人离开学校时并未掌握实用技能。",
+      "answer": "left",
+      "targetType": "word",
+      "confusionGroup": "irregular-032",
+      "id": "irregular-032-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "make",
+      "sentence": "make → made → made",
+      "translation": "制造；使得：写出过去式和过去分词",
+      "answer": "made → made",
+      "targetType": "phrase",
+      "aliases": [
+        "made made",
+        "made → made"
+      ],
+      "confusionGroup": "irregular-033",
+      "id": "irregular-033-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "make",
+      "sentence": "Consumers made more informed decisions after the reform.",
+      "translation": "改革后，消费者作出了更明智的决定。",
+      "answer": "made",
+      "targetType": "word",
+      "confusionGroup": "irregular-033",
+      "id": "irregular-033-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "make",
+      "sentence": "Consumers have made more informed decisions with better information.",
+      "translation": "消费者借助更充分的信息作出了更明智的决定。",
+      "answer": "made",
+      "targetType": "word",
+      "confusionGroup": "irregular-033",
+      "id": "irregular-033-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "mean",
+      "sentence": "mean → meant → meant",
+      "translation": "意味着：写出过去式和过去分词",
+      "answer": "meant → meant",
+      "targetType": "phrase",
+      "aliases": [
+        "meant meant",
+        "meant → meant"
+      ],
+      "confusionGroup": "irregular-034",
+      "id": "irregular-034-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "mean",
+      "sentence": "The reform meant significant change for local schools.",
+      "translation": "这项改革意味着当地学校发生重大变化。",
+      "answer": "meant",
+      "targetType": "word",
+      "confusionGroup": "irregular-034",
+      "id": "irregular-034-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "mean",
+      "sentence": "The reform has meant significant change for local communities.",
+      "translation": "这项改革已经给当地社区带来了重大变化。",
+      "answer": "meant",
+      "targetType": "word",
+      "confusionGroup": "irregular-034",
+      "id": "irregular-034-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "pay",
+      "sentence": "pay → paid → paid",
+      "translation": "支付：写出过去式和过去分词",
+      "answer": "paid → paid",
+      "targetType": "phrase",
+      "aliases": [
+        "paid paid",
+        "paid → paid"
+      ],
+      "confusionGroup": "irregular-035",
+      "id": "irregular-035-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "pay",
+      "sentence": "Workers paid higher taxes last year.",
+      "translation": "劳动者去年缴纳了更高的税款。",
+      "answer": "paid",
+      "targetType": "word",
+      "confusionGroup": "irregular-035",
+      "id": "irregular-035-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "pay",
+      "sentence": "Citizens have paid higher taxes to fund public services.",
+      "translation": "公民已经缴纳更高税款来资助公共服务。",
+      "answer": "paid",
+      "targetType": "word",
+      "confusionGroup": "irregular-035",
+      "id": "irregular-035-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "say",
+      "sentence": "say → said → said",
+      "translation": "说：写出过去式和过去分词",
+      "answer": "said → said",
+      "targetType": "phrase",
+      "aliases": [
+        "said said",
+        "said → said"
+      ],
+      "confusionGroup": "irregular-036",
+      "id": "irregular-036-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "say",
+      "sentence": "The report said that change was necessary.",
+      "translation": "该报告称变革是必要的。",
+      "answer": "said",
+      "targetType": "word",
+      "confusionGroup": "irregular-036",
+      "id": "irregular-036-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "say",
+      "sentence": "Experts have said that urgent action is necessary.",
+      "translation": "专家们已经表示有必要立即采取行动。",
+      "answer": "said",
+      "targetType": "word",
+      "confusionGroup": "irregular-036",
+      "id": "irregular-036-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "send",
+      "sentence": "send → sent → sent",
+      "translation": "发送：写出过去式和过去分词",
+      "answer": "sent → sent",
+      "targetType": "phrase",
+      "aliases": [
+        "sent sent",
+        "sent → sent"
+      ],
+      "confusionGroup": "irregular-037",
+      "id": "irregular-037-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "send",
+      "sentence": "The system sent information instantly to local hospitals.",
+      "translation": "该系统即时向当地医院发送了信息。",
+      "answer": "sent",
+      "targetType": "word",
+      "confusionGroup": "irregular-037",
+      "id": "irregular-037-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "send",
+      "sentence": "Digital technology has sent information instantly across borders.",
+      "translation": "数字技术已经实现了信息的跨境即时传递。",
+      "answer": "sent",
+      "targetType": "word",
+      "confusionGroup": "irregular-037",
+      "id": "irregular-037-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "spend",
+      "sentence": "spend → spent → spent",
+      "translation": "花费：写出过去式和过去分词",
+      "answer": "spent → spent",
+      "targetType": "phrase",
+      "aliases": [
+        "spent spent",
+        "spent → spent"
+      ],
+      "confusionGroup": "irregular-038",
+      "id": "irregular-038-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "spend",
+      "sentence": "The government spent more money on education last year.",
+      "translation": "政府去年在教育上投入了更多资金。",
+      "answer": "spent",
+      "targetType": "word",
+      "confusionGroup": "irregular-038",
+      "id": "irregular-038-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "spend",
+      "sentence": "The government has spent large amounts of money on education.",
+      "translation": "政府已经在教育上投入了大量资金。",
+      "answer": "spent",
+      "targetType": "word",
+      "confusionGroup": "irregular-038",
+      "id": "irregular-038-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "teach",
+      "sentence": "teach → taught → taught",
+      "translation": "教：写出过去式和过去分词",
+      "answer": "taught → taught",
+      "targetType": "phrase",
+      "aliases": [
+        "taught taught",
+        "taught → taught"
+      ],
+      "confusionGroup": "irregular-039",
+      "id": "irregular-039-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "teach",
+      "sentence": "The course taught students practical skills.",
+      "translation": "该课程教授了学生实用技能。",
+      "answer": "taught",
+      "targetType": "word",
+      "confusionGroup": "irregular-039",
+      "id": "irregular-039-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "teach",
+      "sentence": "The course has taught students valuable practical skills.",
+      "translation": "该课程已经教授了学生宝贵的实用技能。",
+      "answer": "taught",
+      "targetType": "word",
+      "confusionGroup": "irregular-039",
+      "id": "irregular-039-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 三态",
+      "lemma": "think",
+      "sentence": "think → thought → thought",
+      "translation": "认为；思考：写出过去式和过去分词",
+      "answer": "thought → thought",
+      "targetType": "phrase",
+      "aliases": [
+        "thought thought",
+        "thought → thought"
+      ],
+      "confusionGroup": "irregular-040",
+      "id": "irregular-040-forms",
+      "tags": [
+        "irregular-verb",
+        "verb-forms"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 一般过去时",
+      "lemma": "think",
+      "sentence": "Policy makers thought carefully about the consequences.",
+      "translation": "政策制定者认真考虑了这些后果。",
+      "answer": "thought",
+      "targetType": "word",
+      "confusionGroup": "irregular-040",
+      "id": "irregular-040-past",
+      "tags": [
+        "irregular-verb",
+        "past-tense"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Irregular Verbs",
+      "categoryZh": "不规则动词",
+      "conceptGroup": "ABB · 过去分词",
+      "lemma": "think",
+      "sentence": "Policy makers have thought carefully about the long-term consequences.",
+      "translation": "政策制定者已经认真考虑了长期后果。",
+      "answer": "thought",
+      "targetType": "word",
+      "confusionGroup": "irregular-040",
+      "id": "irregular-040-participle",
+      "tags": [
+        "irregular-verb",
+        "past-participle"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    }
+  ]
+}
