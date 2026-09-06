@@ -4,6 +4,7 @@ import participles from '../data/分词形式.json'
 import writing from '../data/写作常用.json'
 import writingSingularPlural from '../data/写作-单复数.json'
 import task2CoreConcepts from '../data/task2-底层概念.json'
+import dictation from '../data/句子默写.json'
 import type { Dataset, LoadedVocabulary, VocabularySource } from '../domain/vocabulary'
 
 type FileData={items:unknown[]}
@@ -11,7 +12,7 @@ export interface ValidationIssue { id?:string; message:string }
 export interface LoadResult { items:LoadedVocabulary[]; issues:ValidationIssue[] }
 const isString=(v:unknown):v is string => typeof v==='string' && v.trim().length>0
 export function loadVocabulary():LoadResult {
-  const files:[Dataset,FileData][]=[['vocabulary',vocabulary],['singular-plural',singularPlural],['participles',participles],['writing',writing],['writing-singular-plural',writingSingularPlural],['task2-core-concepts',task2CoreConcepts]]
+  const files:[Dataset,FileData][]=[['vocabulary',vocabulary],['singular-plural',singularPlural],['participles',participles],['writing',writing],['writing-singular-plural',writingSingularPlural],['task2-core-concepts',task2CoreConcepts],['dictation',dictation]]
   const ids=new Set<string>(), issues:ValidationIssue[]=[], items:LoadedVocabulary[]=[]
   for(const [dataset,file] of files) for(const raw of file.items) {
     const c=raw as Partial<VocabularySource>

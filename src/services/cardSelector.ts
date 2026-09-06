@@ -6,7 +6,7 @@ export const NEW_CARD_RATIO=.8
 const errorRate=(p?:LearningProgress)=>p&&p.totalReviews?p.incorrectCount/(p.totalReviews+p.incorrectCount):0
 export function selectCards(cards:LoadedVocabulary[],progress:Record<string,LearningProgress>,options:SelectOptions):LoadedVocabulary[]{
  const now=options.now??Date.now(), excluded=new Set(options.excludeIds??[]), random=options.random??Math.random
- let pool=cards.filter(c=>!excluded.has(c.id) && (options.mode==='mixed'||options.mode==='mistakes'||c.dataset===options.mode))
+ let pool=cards.filter(c=>!excluded.has(c.id) && ((options.mode==='mixed'&&c.dataset!=='dictation')||options.mode==='mistakes'||c.dataset===options.mode))
  if(options.mode==='mistakes') pool=pool.filter(c=>(progress[c.id]?.incorrectCount??0)>0)
  const recentlyWrongGroups=new Set(pool.filter(c=>(progress[c.id]?.lastWrongAttempts??0)>0).map(c=>c.confusionGroup).filter(Boolean))
  const limit=options.limit??20
