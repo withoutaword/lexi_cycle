@@ -1,0 +1,17 @@
+[
+  {
+    "id": "opinion",
+    "title": "同意／不同意",
+    "body": "适合 Essay 1、2、4、5、6、7。这里采用“承认限制，但总体支持某个立场”的写法。\n\n第一段：承认＋立场＋理由\n\n> Although [另一方的合理之处／所支持做法的局限], I [agree / largely agree / disagree / largely disagree] that [题目中的完整主张]. This is mainly because [支持自己立场的理由一] and [支持自己立场的理由二].\n\n第二段：理由一\n\n> One important reason for this view is that [支持立场的第一个理由]. [解释产生这一作用的原因]. For example, [与题目相关的具体情景]. As a result, [具体结果及其意义].\n\n第三段：理由二\n\n> Another reason is that [支持立场的第二个理由]. [解释其作用机制]. [补充具体情景／对比]. Therefore, [结果及其与立场的关系].\n\n第四段：让步＋回应\n\n> Admittedly, [另一方的合理理由／自己立场的局限]. [说明这一顾虑为什么成立]. However, [解释为什么这一点不足以改变你的总体判断]. [具体比较／可行应对措施及其作用].\n\n第五段：总结＋立场\n\n> In conclusion, although [主要顾虑], [理由一] and [理由二] support the view that [自己的判断]. I therefore [agree / largely agree / disagree / largely disagree] that [题目中的完整主张].\n\n填写注意：`agree/disagree` 始终针对题目的主张。例如题目说“教师变得不重要”，你用 `disagree` 时，主体应解释“教师为什么仍重要”。"
+  },
+  {
+    "id": "outweigh",
+    "title": "优势是否大于劣势",
+    "body": "适合 Essay 3、15。下面是“优势更大”的版本。\n\n第一段：趋势＋利弊＋判断\n\n> Although [题目中的趋势] may create [主要弊端], it can also provide [主要好处]. In my view, the advantages of this trend outweigh the disadvantages, mainly because [核心理由／比较依据].\n\n第二段：主要好处\n\n> One major benefit of [名词／动词-ing] is that it can [具体好处]. [解释作用机制]. For example, [具体情景]. As a result, [结果及其重要性].\n\n第三段：第二个好处，或充分展开弊端\n\n有两个独立好处时，使用：\n\n> [做法／趋势] can also [第二个好处]. [解释原因]. [具体情景／例子]. Therefore, [结果及其意义].\n\n像减少飞行那样，题目明确要求比较不同主体的得失时，使用：\n\n> Admittedly, this trend may create difficulties for [受影响的人群／机构]. [解释第一类人的具体损失]. [解释另一类人的具体损失及原因].\n\n第四段：回应弊端＋真正比较轻重\n\n> [若第三段尚未讨论弊端，先用一至两句交代具体弊端。] However, [说明弊端可以缓解的原因／好处更重要的依据]. [具体措施及其作用，或比较影响范围、持续时间、严重程度]. For this reason, [明确说明为什么优势更大].\n\n可选比较句（仅在事实支持时使用）：\n\n> While [不利影响] can be reduced through [措施], [正面影响] can benefit [人群] over a longer period.\n\n第五段：结论\n\n> In conclusion, although [趋势] may cause [弊端], it can [主要好处]. Given [前文已解释的比较依据], I believe that its advantages outweigh its disadvantages.\n\n如果判断弊端更大，可将立场改为 `the disadvantages outweigh the advantages`，并让主体理由和权衡方向随之调整。\n\n特别注意 Essay 15：题目比较的是“环境收益”和“个人及企业的损失”。应保留这些对象，不要写成泛泛的“对个人和社会都有好处”。"
+  },
+  {
+    "id": "discussion",
+    "title": "讨论双方观点＋给出个人意见",
+    "body": "适合 Essay 11—14。不能只论证自己支持的一方。\n\n第一段：双方＋个人立场\n\n> Some people believe that [观点 A], while others argue that [观点 B]. In my opinion, [自己的明确判断及适用条件].\n\n第二段：解释观点 A\n\n> On the one hand, there are good reasons why some people support [名词／动词-ing]. [这方的主要理由]. [解释原因／提供具体情景]. As a result, [说明这一观点在什么情况下有价值].\n\n第三段：解释观点 B\n\n> On the other hand, [另一种选择] can [这方的主要好处]. [解释原因]. For example, [具体情景]. Therefore, [说明这一观点在什么情况下有价值].\n\n第四段：解释自己的判断\n\n明确倾向一方时：\n\n> In my view, [选择 A／B] is more important when [具体条件]. Although [另一方的合理之处], [解释为什么自己选择的这一方更重要].\n\n根据情况选择时：\n\n> In my view, the appropriate approach should depend on [具体判断标准]. When [条件一], [选择／措施 A] is more suitable because [理由]. However, when [条件二], [选择／措施 B] should take priority because [理由].\n\n第五段：总结双方＋重申判断\n\n> In conclusion, [选择 A] can [好处 A], while [选择 B] can [好处 B]. I therefore believe that [自己的判断，与开头一致].\n\n“取决于情况”需要明确选择规则，例如“跨国污染需要国际合作，本地污染由本国主导”。只写“两方都重要”不足以表达清楚的个人观点。"
+  }
+]

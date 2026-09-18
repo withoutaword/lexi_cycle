@@ -1,0 +1,312 @@
+[
+  {
+    "id": "P1",
+    "title": "降低门槛，扩大获取机会",
+    "kind": "core",
+    "chain": "价格／距离／信息限制 → 部分人无法获取 → 降低障碍 → 更多人能够参与或使用。",
+    "detail": "观点：让人们更容易获得所需的信息、产品、教育或公共服务。\n\n因果链：价格／距离／信息限制 → 部分人无法获取 → 降低障碍 → 更多人能够参与或使用。\n\n英文通用句：\n\n> [Policy / service / technology] can improve access to [information / education / essential services] by reducing [financial / geographical / information] barriers.\n\n范文落地：取消大学学费，降低低收入学生的入学障碍（7）；改善农村设施，扩大公共服务可及性（12）；公交让无车人群以较低成本出行（5）。\n\n展开时填写：哪类人原来无法获得什么？具体移除了哪种障碍？",
+    "expansion": "思路：谁受限制 → 什么限制 → 如何降低限制 → 获得什么机会。\n\n> [政策／服务] can make [教育／服务／信息] more accessible to [具体人群].\n> Some of these people may be unable to [行为] because of [费用／距离／信息障碍].\n> By [具体措施], [行动者] can reduce this barrier and give them greater access to [具体对象].\n\n短语：`students from low-income families` 低收入家庭学生；`reduce financial barriers` 降低经济门槛；`give people access to information` 让人们获取信息；`at a relatively low cost` 以相对较低的成本。\n\n落地：免费大学教育 → 部分学生承担不起学费 → 取消学费 → 更多低收入学生有机会入学。取消学费不等于生活费用也消失。",
+    "sourceEssayIds": [
+      "essay-3",
+      "essay-5",
+      "essay-6",
+      "essay-7",
+      "essay-12"
+    ]
+  },
+  {
+    "id": "P2",
+    "title": "积累能力，改善未来发展",
+    "kind": "core",
+    "chain": "学习／练习／持续工作 → 积累知识、技能或资格 → 更好地应对后续任务 → 改善学习或职业前景。",
+    "detail": "观点：学习、训练与经验积累有助于未来学习和就业。\n\n因果链：学习／练习／持续工作 → 积累知识、技能或资格 → 更好地应对后续任务 → 改善学习或职业前景。\n\n英文通用句：\n\n> Opportunities to develop knowledge, skills and experience can better prepare people for future study or employment.\n\n范文落地：学校活动培养团队合作能力（6）；大学资格有助于更高技能就业（7）；在喜欢的职业中持续积累经验有利于晋升（11）；基础读写和数学能力支持后续学习（14）。\n\n展开时填写：什么能力通过什么活动得到培养？它为何与未来任务有关？",
+    "expansion": "思路：什么活动 → 练习什么 → 获得什么能力 → 用于什么未来任务。\n\n> [活动／机构] can help [人群] develop [具体技能].\n> It gives them regular opportunities to [相关练习].\n> By practising these skills, they can become better prepared for [未来学习／工作情景].\n\n短语：`develop communication and teamwork skills` 培养沟通与团队合作能力；`apply knowledge effectively` 有效应用知识；`improve employment prospects` 改善就业前景；`create opportunities for career advancement` 创造职业晋升机会。\n\n落地：学校小组活动 → 讨论和协调任务 → 练习沟通合作 → 更好适应未来团队任务。",
+    "sourceEssayIds": [
+      "essay-6",
+      "essay-7",
+      "essay-11",
+      "essay-14"
+    ]
+  },
+  {
+    "id": "P3",
+    "title": "保护环境与资源，减少长期损害",
+    "kind": "core",
+    "chain": "资源消耗／污染／物种流失 → 环境受损 → 采取对应措施 → 减少损害、保护依赖环境的社会活动。",
+    "detail": "观点：环保措施可以降低资源消耗、污染或生态破坏，维护人类长期利益。\n\n因果链：资源消耗／污染／物种流失 → 环境受损 → 采取对应措施 → 减少损害、保护依赖环境的社会活动。\n\n英文通用句：\n\n> Measures that reduce pollution or protect natural resources can provide long-term benefits for both the environment and society.\n\n范文落地：保护物种维护生态系统（2）；公交替代部分私家车出行，减少车辆排放（5）；国际合作应对跨境环境问题（13）；减少飞行降低燃油消耗和碳排放（15）。\n\n展开时填写：具体降低了什么污染，或保护了什么资源？不要将不同环保机制混为一谈。",
+    "expansion": "思路：什么活动造成损害 → 措施改变什么 → 哪种损害减少 → 为什么有长期价值。\n\n> [措施] can reduce the environmental impact of [活动].\n> When [具体变化发生], less [资源] is consumed or fewer [污染物] are released.\n> This can help protect [资源／生态系统] and reduce [具体长期损害].\n\n短语：`reduce carbon emissions` 减少碳排放；`reduce dependence on fossil fuels` 降低对化石燃料的依赖；`maintain ecological balance` 维持生态平衡；`protect natural resources` 保护自然资源。\n\n落地：减少不必要飞行 → 燃油消耗减少 → 碳排放减少 → 降低航空活动的环境影响。\n\n区分机制：物种保护要解释食物链与生态依赖；不要用燃料和排放句型替代生态论证。",
+    "sourceEssayIds": [
+      "essay-2",
+      "essay-5",
+      "essay-13",
+      "essay-15"
+    ]
+  },
+  {
+    "id": "P4",
+    "title": "节省时间与精力，提高效率",
+    "kind": "core",
+    "chain": "原方式需要等待／移动／自行筛选 → 新方式省去某个环节 → 时间和精力减少 → 任务更容易完成。",
+    "detail": "观点：减少不必要的等待、出行或信息筛选，使任务完成更高效。\n\n因果链：原方式需要等待／移动／自行筛选 → 新方式省去某个环节 → 时间和精力减少 → 任务更容易完成。\n\n英文通用句：\n\n> [Technology / guidance / a new service] can reduce the time and effort required to [complete a specific task].\n\n范文落地：即时通信省去等待回信（1）；网购减少到店出行（3）；教师筛选材料减少无效学习（6）。\n\n展开时填写：明确省去了哪个步骤，不能只说“更加便利”。",
+    "expansion": "思路：原来完成任务需要哪些步骤 → 哪一步被省去 → 节省什么 → 任务如何更容易完成。\n\n> [工具／服务] can reduce the time and effort required to [具体任务].\n> Instead of [旧步骤], people can [更直接的新方式].\n> As a result, they can [具体任务] more efficiently and conveniently.\n\n短语：`travel to physical stores` 前往实体店；`communicate almost instantly` 几乎即时沟通；`provide structured guidance` 提供系统指导；`focus on relevant information` 关注相关信息。\n\n落地：网购 → 省去到店过程 → 在家比较和购买 → 购物更便捷。",
+    "sourceEssayIds": [
+      "essay-1",
+      "essay-3",
+      "essay-6"
+    ]
+  },
+  {
+    "id": "P5",
+    "title": "带动产业，创造就业",
+    "kind": "core",
+    "chain": "政策投入／需求增长 → 相关活动和企业扩张 → 需要更多劳动力 → 创造就业及收入。",
+    "detail": "观点：某项活动的发展可能增加相关行业的需求，促进招聘与经济活动。\n\n因果链：政策投入／需求增长 → 相关活动和企业扩张 → 需要更多劳动力 → 创造就业及收入。\n\n英文通用句：\n\n> The development of [an activity / a sector] can create employment opportunities in related industries and support economic activity.\n\n范文落地：物种保护关联旅游、科研和环境管理（2）；网购增长带动物流、仓储等需求（3）；城市基础设施支持企业经营和扩张（12）。\n\n展开时填写：具体是哪两个行业？它们为什么需要更多员工？",
+    "expansion": "思路：什么需求增长 → 哪些行业受影响 → 企业如何响应 → 什么岗位或收入增加。\n\n> The growth of [活动／行业] can create employment opportunities in [相关行业].\n> As more people [行为], demand for [具体服务] increases.\n> Companies may therefore hire more workers to [具体任务], supporting employment and economic activity.\n\n短语：`a wide range of related industries` 多种相关产业；`demand for delivery and warehousing services` 对配送和仓储服务的需求；`expand business operations` 扩大业务；`contribute to economic growth` 促进经济增长。\n\n落地：网购增长 → 配送和仓储需求增加 → 企业需要更多员工 → 相关行业就业增加。",
+    "sourceEssayIds": [
+      "essay-2",
+      "essay-3",
+      "essay-12"
+    ]
+  },
+  {
+    "id": "P6",
+    "title": "承认额外成本与收入影响",
+    "kind": "core",
+    "chain": "实施政策 → 需要资金、设备或人员／减少部分有偿工时 → 政府、企业或个人承受经济压力。",
+    "detail": "观点：政策即使有好处，也可能需要额外资金，或给某些人带来收入损失。\n\n因果链：实施政策 → 需要资金、设备或人员／减少部分有偿工时 → 政府、企业或个人承受经济压力。\n\n英文通用句：\n\n> Implementing [a policy] may require additional funding or place financial pressure on [governments / businesses / individuals].\n\n范文落地：物种保护需要公共资源（2）；短工时可能降低部分员工收入，增加企业招聘成本（4）；免费大学教育增加政府支出（7）。\n\n展开时填写：谁付出成本、钱花在哪里？再判断有无收益或措施能够抵消部分成本。",
+    "expansion": "思路：实施什么政策 → 需要什么投入／影响什么收入 → 谁承担压力 → 是否值得或如何缓解。\n\n> Admittedly, [政策] may place financial pressure on [具体主体].\n> To implement it, [行动者] may need to [额外投入／支出].\n> However, these costs should be weighed against [已解释的具体收益].\n\n收入损失可另用：\n\n> Some employees may earn less if [具体条件，例如工资按工时计算且工时减少].\n\n短语：`require additional funding` 需要额外资金；`face higher costs` 面临更高成本；`place financial pressure on governments` 给政府带来财政压力；`offset some of the costs` 抵消部分成本。\n\n落地：缩短工时 → 企业可能额外招聘 → 人员成本增加；员工充分休息可能提高生产率，抵消部分成本。",
+    "sourceEssayIds": [
+      "essay-2",
+      "essay-4",
+      "essay-7"
+    ]
+  },
+  {
+    "id": "P7",
+    "title": "改善动力与状态，提高表现",
+    "kind": "core",
+    "chain": "休息充足／更有动力／压力与能力匹配 → 更能专注和投入 → 工作或学习表现改善。",
+    "detail": "观点：适当休息、工作动力和合适的压力水平会影响表现。\n\n因果链：休息充足／更有动力／压力与能力匹配 → 更能专注和投入 → 工作或学习表现改善。\n\n英文通用句：\n\n> Adequate rest and stronger motivation can help people remain focused and perform more effectively.\n\n范文落地：休息充分的员工可能更专注、更高效（4）；满意的员工更愿意投入工作（11）；儿童尚未准备好时，学业压力可能损害兴趣和学习质量（14）。\n\n展开时填写：按题目选择“休息”“动力”或“准备程度”中的一个机制，不必在一句中堆叠所有因素。",
+    "expansion": "思路：休息／满意度／压力水平 → 动力或专注变化 → 行为变化 → 工作或学习质量变化。\n\n> [合理安排／积极体验] can help [人群] perform more effectively.\n> People who [具体条件] may be more motivated and better able to concentrate on [任务].\n> This can improve [productivity / the quality of their work / learning outcomes].\n\n短语：`be motivated and engaged at work` 工作中有动力且投入；`remain focused when facing difficulties` 面对困难保持专注；`improve productivity` 提高生产率；`lose interest in learning` 失去学习兴趣。\n\n落地：工作满意度高 → 更愿意投入并克服困难 → 生产率和工作质量可能改善。",
+    "sourceEssayIds": [
+      "essay-4",
+      "essay-11",
+      "essay-14"
+    ]
+  },
+  {
+    "id": "P8",
+    "title": "促进机会公平，缩小差距",
+    "kind": "core",
+    "chain": "财富／地区差异 → 获取机会不平等 → 减少障碍或补齐服务 → 缩小机会及发展差距。",
+    "detail": "观点：改善弱势群体或欠发达地区的条件，使机会不再过度依赖家庭财富或居住地区。\n\n因果链：财富／地区差异 → 获取机会不平等 → 减少障碍或补齐服务 → 缩小机会及发展差距。\n\n英文通用句：\n\n> Improving access to education and essential services can reduce inequality and promote greater equality of opportunity.\n\n范文落地：免费大学教育缓解家庭支付能力造成的不公平（7）；农村公共服务投资缩小城乡发展差距（12）。\n\n展开时填写：哪些群体之间存在何种差距？注意与 P1 区分：P1 强调“能够获取”，P8 强调“群体之间更公平”。",
+    "expansion": "思路：比较哪两类人 → 原来机会为何不平等 → 如何补齐条件 → 差距怎样缩小。\n\n> [政策] can promote greater equality of opportunity between [群体 A] and [群体 B].\n> At present, [具体背景差异] may give [群体 A] an advantage over [群体 B].\n> By [具体措施], [行动者] can reduce this gap and allow both groups to [更公平的参与方式].\n\n短语：`students from disadvantaged backgrounds` 弱势背景学生；`have an advantage over ...` 比……有优势；`compete on a more equal basis` 在更公平的基础上竞争；`reduce regional inequality` 缩小地区不平等。\n\n落地：城乡公共服务差异 → 农村居民获取服务更困难 → 改善农村设施 → 缩小服务差距。\n\n与 P1 区分：P1 写一个群体能获得什么；P8 写两个群体之间的差距如何改变。",
+    "sourceEssayIds": [
+      "essay-7",
+      "essay-12"
+    ]
+  },
+  {
+    "id": "P9",
+    "title": "保护身心健康",
+    "kind": "core",
+    "chain": "工作／学习压力过大，恢复不足 → 身心受影响 → 留出适当时间 → 减少压力并改善健康。",
+    "detail": "观点：合理休息、运动、玩耍和恢复时间有助于减少压力，保护健康。\n\n因果链：工作／学习压力过大，恢复不足 → 身心受影响 → 留出适当时间 → 减少压力并改善健康。\n\n英文通用句：\n\n> Having enough time for rest and appropriate activities can reduce stress and improve physical and mental well-being.\n\n范文落地：较长周末提供运动和恢复机会（4）；较晚入学可为尚未准备好的儿童保留玩耍时间，避免过早学业压力（14）。\n\n展开时填写：谁受到哪种压力？时间如何具体被用于恢复？",
+    "expansion": "思路：原来的压力／恢复不足 → 新安排给出什么时间 → 用于什么健康活动 → 状态怎样改善。\n\n> [合理安排] can improve [人群]’s physical and mental well-being.\n> Those who [压力来源] may have too little time for [休息／运动／恢复].\n> Having more time to [具体活动] can help them reduce stress and recover more fully.\n\n短语：`physical and mental well-being` 身心健康；`have time for exercise and rest` 有时间运动和休息；`cope with academic pressure` 应对学业压力；`improve overall quality of life` 改善整体生活质量。\n\n落地：长工时 → 运动和恢复时间不足 → 较长周末提供休息机会 → 健康及生活质量可能改善。",
+    "sourceEssayIds": [
+      "essay-4",
+      "essay-14"
+    ]
+  },
+  {
+    "id": "P10",
+    "title": "维持亲友关系",
+    "kind": "core",
+    "chain": "距离／忙碌限制交流 → 通信更便利／相处时间增加 → 定期沟通和共同活动 → 关系更稳固。",
+    "detail": "观点：更容易联系或更多共同活动，有助于维持亲友关系。\n\n因果链：距离／忙碌限制交流 → 通信更便利／相处时间增加 → 定期沟通和共同活动 → 关系更稳固。\n\n英文通用句：\n\n> More opportunities for regular communication and shared activities can help people maintain stronger relationships with family and friends.\n\n范文落地：通信技术便利远距离联系（1）；较长周末增加家庭与朋友相处时间（4）。\n\n展开时填写：是降低联系障碍，还是增加相处时间？学校合作技能（6）、儿童社交发展（14）另归 P2；不将所有“互动”都计作亲友关系。",
+    "expansion": "思路：原来的联系障碍 → 新增沟通／相处机会 → 实际交流或共同活动 → 关系加强。\n\n> [安排／工具] can help people maintain stronger relationships with family and friends.\n> Close relationships require time and regular communication, which can be difficult when [忙碌／距离等障碍].\n> By allowing people to [具体活动], [安排／工具] can make it easier for them to stay in touch and spend time together.\n\n短语：`maintain stronger relationships` 维持更稳固的关系；`stay in touch with ...` 与……保持联系；`spend time with family and friends` 与亲友相处；`participate in social activities` 参与社交活动。\n\n落地：较长周末 → 有时间探望亲友和参加共同活动 → 更多沟通 → 关系更稳固。",
+    "sourceEssayIds": [
+      "essay-1",
+      "essay-4"
+    ]
+  },
+  {
+    "id": "J1",
+    "title": "短期成本与长期收益",
+    "kind": "judgment",
+    "chain": "承认具体成本 → 说明收益 → 比较持续时间、范围或严重程度 → 下判断。",
+    "detail": "思路：承认具体成本 → 说明收益 → 比较持续时间、范围或严重程度 → 下判断。\n\n> Admittedly, [政策] may require [具体成本] in the short term.\n> However, it can provide long-term benefits by [具体机制].\n> These benefits may be more significant because [影响人群／持续时间／后果的比较].\n\n短语：`short-term costs` 短期成本；`long-term benefits` 长期收益；`benefit a wider range of people` 惠及更广泛人群；`have lasting effects` 产生持久影响。",
+    "expansion": "思路：承认具体成本 → 说明收益 → 比较持续时间、范围或严重程度 → 下判断。\n\n> Admittedly, [政策] may require [具体成本] in the short term.\n> However, it can provide long-term benefits by [具体机制].\n> These benefits may be more significant because [影响人群／持续时间／后果的比较].\n\n短语：`short-term costs` 短期成本；`long-term benefits` 长期收益；`benefit a wider range of people` 惠及更广泛人群；`have lasting effects` 产生持久影响。",
+    "sourceEssayIds": [
+      "essay-2",
+      "essay-5",
+      "essay-7",
+      "essay-11",
+      "essay-15"
+    ]
+  },
+  {
+    "id": "J2",
+    "title": "根据条件选择",
+    "kind": "judgment",
+    "chain": "明确标准 → 条件 A 对应方案 A → 条件 B 对应方案 B。",
+    "detail": "思路：明确标准 → 条件 A 对应方案 A → 条件 B 对应方案 B。\n\n> The most appropriate approach should depend on [明确标准].\n> When [条件 A], [方案 A] is more suitable because [理由].\n> However, when [条件 B], [方案 B] should take priority because [理由].\n\n短语：`according to local conditions` 根据当地条件；`meet basic financial needs` 满足基本经济需求；`allocate resources according to need` 根据需求分配资源；`take individual development into consideration` 考虑个体发展。",
+    "expansion": "思路：明确标准 → 条件 A 对应方案 A → 条件 B 对应方案 B。\n\n> The most appropriate approach should depend on [明确标准].\n> When [条件 A], [方案 A] is more suitable because [理由].\n> However, when [条件 B], [方案 B] should take priority because [理由].\n\n短语：`according to local conditions` 根据当地条件；`meet basic financial needs` 满足基本经济需求；`allocate resources according to need` 根据需求分配资源；`take individual development into consideration` 考虑个体发展。",
+    "sourceEssayIds": [
+      "essay-5",
+      "essay-11",
+      "essay-12",
+      "essay-13",
+      "essay-14"
+    ]
+  },
+  {
+    "id": "J3",
+    "title": "提出措施，缓解弊端",
+    "kind": "judgment",
+    "chain": "问题是什么 → 谁采取什么措施 → 怎样作用于问题 → 哪些风险仍存在。",
+    "detail": "思路：问题是什么 → 谁采取什么措施 → 怎样作用于问题 → 哪些风险仍存在。\n\n> Some of these problems can be reduced through [措施].\n> For example, [行动者] can [具体行动], making it harder for [不利事件发生／相关主体实施不当行为].\n> Although this may not eliminate the problem completely, it can reduce [具体风险或损害].\n\n短语：`impose stricter regulations on ...` 对……实施更严格监管；`protect personal data` 保护个人数据；`secure online payments` 保障在线支付安全；`control spending through appropriate funding policies` 通过适当资金政策控制支出。\n\n上述 `making it harder ...` 适合预防风险；控制预算等其他措施应按机制另写，不必套用。",
+    "expansion": "思路：问题是什么 → 谁采取什么措施 → 怎样作用于问题 → 哪些风险仍存在。\n\n> Some of these problems can be reduced through [措施].\n> For example, [行动者] can [具体行动], making it harder for [不利事件发生／相关主体实施不当行为].\n> Although this may not eliminate the problem completely, it can reduce [具体风险或损害].\n\n短语：`impose stricter regulations on ...` 对……实施更严格监管；`protect personal data` 保护个人数据；`secure online payments` 保障在线支付安全；`control spending through appropriate funding policies` 通过适当资金政策控制支出。\n\n上述 `making it harder ...` 适合预防风险；控制预算等其他措施应按机制另写，不必套用。",
+    "sourceEssayIds": [
+      "essay-1",
+      "essay-3",
+      "essay-7",
+      "essay-15"
+    ]
+  },
+  {
+    "id": "J4",
+    "title": "减少出行与距离限制",
+    "kind": "judgment",
+    "chain": "原来需要移动 → 工具允许远程完成 → 部分行程不再必要 → 不便或成本降低。",
+    "detail": "思路：原来需要移动 → 工具允许远程完成 → 部分行程不再必要 → 不便或成本降低。\n\n> [数字工具] allows people to [任务] without travelling long distances.\n> This can reduce the need for [部分出行] and make [任务] more convenient.\n\n短语：`video conferencing` 视频会议；`digital communication tools` 数字通信工具；`complete transactions remotely` 远程完成交易；`reduce unnecessary business trips` 减少不必要的商务出行。",
+    "expansion": "思路：原来需要移动 → 工具允许远程完成 → 部分行程不再必要 → 不便或成本降低。\n\n> [数字工具] allows people to [任务] without travelling long distances.\n> This can reduce the need for [部分出行] and make [任务] more convenient.\n\n短语：`video conferencing` 视频会议；`digital communication tools` 数字通信工具；`complete transactions remotely` 远程完成交易；`reduce unnecessary business trips` 减少不必要的商务出行。",
+    "sourceEssayIds": [
+      "essay-1",
+      "essay-3",
+      "essay-15"
+    ]
+  },
+  {
+    "id": "J5",
+    "title": "便利不等于全面替代",
+    "kind": "judgment",
+    "chain": "承认工具提供的便利 → 指出目标还有其他功能 → 解释这些功能需要什么 → 判断应补充还是替代。",
+    "detail": "思路：承认工具提供的便利 → 指出目标还有其他功能 → 解释这些功能需要什么 → 判断应补充还是替代。\n\n> Although [工具] makes [某项活动] easier, [完整目标] involves more than [工具能提供的功能].\n> [另一项关键功能] requires [系统指导／实际练习／直接互动].\n> Therefore, [工具] should be viewed as a useful supplement rather than a complete replacement for [原有机构／活动].\n\n短语：`involve more than ...` 不只涉及……；`face-to-face interaction` 面对面互动；`structured guidance` 系统指导；`a supplement rather than a replacement` 补充而非替代。",
+    "expansion": "思路：承认工具提供的便利 → 指出目标还有其他功能 → 解释这些功能需要什么 → 判断应补充还是替代。\n\n> Although [工具] makes [某项活动] easier, [完整目标] involves more than [工具能提供的功能].\n> [另一项关键功能] requires [系统指导／实际练习／直接互动].\n> Therefore, [工具] should be viewed as a useful supplement rather than a complete replacement for [原有机构／活动].\n\n短语：`involve more than ...` 不只涉及……；`face-to-face interaction` 面对面互动；`structured guidance` 系统指导；`a supplement rather than a replacement` 补充而非替代。",
+    "sourceEssayIds": [
+      "essay-6",
+      "essay-15"
+    ]
+  },
+  {
+    "id": "S1",
+    "title": "保护单个物种也有助于保护整个生态系统",
+    "kind": "specialist",
+    "chain": "物种相互依赖 → 单个物种消失影响食物链 → 保护物种维护生态平衡",
+    "detail": "物种相互依赖 → 单个物种消失影响食物链 → 保护物种维护生态平衡",
+    "expansion": "物种相互依赖 → 单个物种消失影响食物链 → 保护物种维护生态平衡",
+    "sourceEssayIds": [
+      "essay-2"
+    ]
+  },
+  {
+    "id": "S2",
+    "title": "在线交易可能带来隐私泄露和诈骗风险",
+    "kind": "specialist",
+    "chain": "个人及支付信息在线流动 → 犯罪者可能窃取或滥用 → 消费者承担损失",
+    "detail": "个人及支付信息在线流动 → 犯罪者可能窃取或滥用 → 消费者承担损失",
+    "expansion": "个人及支付信息在线流动 → 犯罪者可能窃取或滥用 → 消费者承担损失",
+    "sourceEssayIds": [
+      "essay-3"
+    ]
+  },
+  {
+    "id": "S3",
+    "title": "改变出行方式比单纯增加道路容量更直接处理汽车依赖",
+    "kind": "specialist",
+    "chain": "扩路增加容量 → 仍依赖私家车；公交提供替代方式 → 可减少道路车辆",
+    "detail": "扩路增加容量 → 仍依赖私家车；公交提供替代方式 → 可减少道路车辆",
+    "expansion": "扩路增加容量 → 仍依赖私家车；公交提供替代方式 → 可减少道路车辆",
+    "sourceEssayIds": [
+      "essay-5"
+    ]
+  },
+  {
+    "id": "S4",
+    "title": "大量信息需要筛选、判断和系统指导",
+    "kind": "specialist",
+    "chain": "信息多且质量不一 → 学生难以判断 → 教师提供可靠材料与学习顺序",
+    "detail": "信息多且质量不一 → 学生难以判断 → 教师提供可靠材料与学习顺序",
+    "expansion": "信息多且质量不一 → 学生难以判断 → 教师提供可靠材料与学习顺序",
+    "sourceEssayIds": [
+      "essay-6"
+    ]
+  },
+  {
+    "id": "S5",
+    "title": "更公平的高等教育机会有助于社会流动",
+    "kind": "specialist",
+    "chain": "降低贫困学生门槛 → 获得资格和技能 → 争取更高技能工作",
+    "detail": "降低贫困学生门槛 → 获得资格和技能 → 争取更高技能工作",
+    "expansion": "降低贫困学生门槛 → 获得资格和技能 → 争取更高技能工作",
+    "sourceEssayIds": [
+      "essay-7"
+    ]
+  },
+  {
+    "id": "S6",
+    "title": "基本收入需求应先于额外的工作满意度收益考虑",
+    "kind": "specialist",
+    "chain": "基本开支未满足 → 经济压力突出；达到保障水平 → 日常体验与职业发展更重要",
+    "detail": "基本开支未满足 → 经济压力突出；达到保障水平 → 日常体验与职业发展更重要",
+    "expansion": "基本开支未满足 → 经济压力突出；达到保障水平 → 日常体验与职业发展更重要",
+    "sourceEssayIds": [
+      "essay-11"
+    ]
+  },
+  {
+    "id": "S7",
+    "title": "人口集中可使公共投资覆盖更多受益者",
+    "kind": "specialist",
+    "chain": "城市居民集中 → 同一公共设施服务人群广 → 投资具有较大覆盖效益",
+    "detail": "城市居民集中 → 同一公共设施服务人群广 → 投资具有较大覆盖效益",
+    "expansion": "城市居民集中 → 同一公共设施服务人群广 → 投资具有较大覆盖效益",
+    "sourceEssayIds": [
+      "essay-12"
+    ]
+  },
+  {
+    "id": "S8",
+    "title": "跨境环境问题需要协调目标、政策和技术",
+    "kind": "specialist",
+    "chain": "影响跨越国界 → 单国无法充分控制 → 国际协作扩大治理范围",
+    "detail": "影响跨越国界 → 单国无法充分控制 → 国际协作扩大治理范围",
+    "expansion": "影响跨越国界 → 单国无法充分控制 → 国际协作扩大治理范围",
+    "sourceEssayIds": [
+      "essay-13"
+    ]
+  },
+  {
+    "id": "S9",
+    "title": "入学准备程度不能只由年龄决定",
+    "kind": "specialist",
+    "chain": "儿童发展速度不同 → 专注和承压能力不同 → 需要考虑个体发展",
+    "detail": "儿童发展速度不同 → 专注和承压能力不同 → 需要考虑个体发展",
+    "expansion": "儿童发展速度不同 → 专注和承压能力不同 → 需要考虑个体发展",
+    "sourceEssayIds": [
+      "essay-14"
+    ]
+  },
+  {
+    "id": "S10",
+    "title": "可缓解的不便可能小于难逆转的长期环境损害",
+    "kind": "specialist",
+    "chain": "出行不便可部分应对 → 环境损害持续且难逆转 → 环境收益可能更重要",
+    "detail": "出行不便可部分应对 → 环境损害持续且难逆转 → 环境收益可能更重要",
+    "expansion": "出行不便可部分应对 → 环境损害持续且难逆转 → 环境收益可能更重要",
+    "sourceEssayIds": [
+      "essay-15"
+    ]
+  }
+]

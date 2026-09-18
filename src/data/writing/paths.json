@@ -1,0 +1,32 @@
+[
+  {
+    "id": "A",
+    "title": "消除障碍",
+    "body": "逻辑：费用／距离／时间障碍 → 部分人无法参与 → 减少障碍 → 扩大参与机会。\n\n适配观点：P1 获取门槛、P8 公平，也可用于 P4 节省时间。\n\n> Some [人群] may be unable to [动词原形] because [具体障碍].\n> By [动词-ing＋措施], [政策／服务] can reduce this barrier and allow more people to [动词原形].\n\n短语：`reduce financial barriers` 降低经济门槛；`improve access to education` 改善教育可及性；`make services more accessible` 让服务更容易获得。"
+  },
+  {
+    "id": "B",
+    "title": "省去步骤或替换方式",
+    "body": "逻辑：原方式有额外环节 → 新方式省去或替换环节 → 时间、成本或消耗减少。\n\n适配观点：P4 效率、J4 远程工具；P3 环保仅在替代方式确实减少消耗时使用。\n\n> With [工具／服务], people no longer need to [原来必需的步骤].\n> This can reduce [具体耗时／成本／消耗] and make [任务] more [efficient / convenient / affordable].\n\n短语：`reduce the time and effort required to ...` 减少做某事所需的时间与精力；`reduce the need for ...` 减少对……的需求；`complete tasks remotely` 远程完成任务。"
+  },
+  {
+    "id": "C",
+    "title": "增加机会，积累能力",
+    "body": "逻辑：更多练习或互动 → 形成能力、知识或经验 → 更好完成未来任务。\n\n适配观点：P2 能力发展、P10 关系中的沟通机会。\n\n> [机构／做法] provides [人群] with opportunities to [动词原形＋活动].\n> Through regular [名词／动词-ing], they can develop [具体能力].\n> This can better prepare them for [未来任务／场景].\n\n短语：`develop practical skills` 培养实践技能；`gain qualifications` 获得资格；`build up experience` 积累经验；`be better prepared for ...` 为……做好更充分的准备。"
+  },
+  {
+    "id": "D",
+    "title": "需求增长，带动相关活动",
+    "body": "逻辑：需求增加 → 企业或服务扩张 → 招聘、收入或支出增加。\n\n适配观点：P5 就业；从支出端看也可展开 P6 成本。\n\n> As demand for [产品／服务] grows, companies may need to [expand their operations / hire more workers].\n> This can create employment opportunities in [具体行业].\n\n短语：`increase demand for ...` 增加对……的需求；`support related industries` 支持相关产业；`hire additional workers` 招聘额外员工；`generate income` 创造收入。"
+  },
+  {
+    "id": "E",
+    "title": "状态改变，影响行为和表现",
+    "body": "逻辑：时间安排／工作体验改变 → 压力、动力或专注程度改变 → 行为、健康或表现改变。\n\n适配观点：P7 表现、P9 健康、P10 相处时间。\n\n> People who [积极条件] may be more [focused / motivated] and better able to [具体任务].\n> In contrast, those who [消极条件] may [具体不利后果].\n\n短语：`reduce work-related stress` 减少工作压力；`remain focused` 保持专注；`be more motivated` 更有动力；`have time to rest and recover` 有时间休息与恢复。"
+  },
+  {
+    "id": "F",
+    "title": "比较条件与后果",
+    "body": "逻辑：承认两方价值 → 选择比较标准 → 说明何时／为什么一方更重要。\n\n适配观点：J1 长短期权衡、J2 按条件选择、J3 缓解弊端、J5 保留线下功能。\n\n> Although [另一方的合理之处], [自己支持的选择] is more suitable when [具体条件].\n> While [一项不利影响] can be reduced through [措施], [另一项影响] may last longer and be more difficult to reverse.\n\n短语：`take ... into consideration` 将……纳入考虑；`meet basic needs` 满足基本需求；`in the long term` 从长期看；`be difficult to reverse` 难以逆转。"
+  }
+]

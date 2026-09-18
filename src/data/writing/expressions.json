@@ -1,0 +1,548 @@
+[
+  {
+    "id": "writing-expression-1",
+    "ideaIds": [
+      "P1"
+    ],
+    "answer": "reduce financial barriers",
+    "meaning": "降低经济门槛",
+    "sentence": "Free university education can reduce financial barriers for students.",
+    "translation": "免费大学教育可以降低学生的经济门槛。",
+    "grammar": "reduce + 名词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-2",
+    "ideaIds": [
+      "P1"
+    ],
+    "answer": "access to",
+    "meaning": "获取……的机会",
+    "sentence": "Public transport gives residents access to essential services.",
+    "translation": "公共交通让居民有机会获得基本服务。",
+    "grammar": "access to + 名词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-3",
+    "ideaIds": [
+      "P2"
+    ],
+    "answer": "develop communication and teamwork skills",
+    "meaning": "培养沟通和团队合作能力",
+    "sentence": "Schools help students develop communication and teamwork skills.",
+    "translation": "学校帮助学生培养沟通和团队合作能力。",
+    "grammar": "help someone + 动词原形",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-4",
+    "ideaIds": [
+      "P2"
+    ],
+    "answer": "improve employment prospects",
+    "meaning": "改善就业前景",
+    "sentence": "University qualifications can improve employment prospects.",
+    "translation": "大学资格可以改善就业前景。",
+    "grammar": "can + 动词原形",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-5",
+    "ideaIds": [
+      "P3"
+    ],
+    "answer": "reduce carbon emissions",
+    "meaning": "减少碳排放",
+    "sentence": "Taking fewer flights can reduce carbon emissions.",
+    "translation": "减少飞行可以减少碳排放。",
+    "grammar": "reduce + 名词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-6",
+    "ideaIds": [
+      "P3"
+    ],
+    "answer": "maintain ecological balance",
+    "meaning": "维持生态平衡",
+    "sentence": "Protecting endangered species can help maintain ecological balance.",
+    "translation": "保护濒危物种有助于维持生态平衡。",
+    "grammar": "help + 动词原形",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-7",
+    "ideaIds": [
+      "P4"
+    ],
+    "answer": "reduce the time and effort required to",
+    "meaning": "减少做某事所需的时间和精力",
+    "sentence": "Online shopping can reduce the time and effort required to buy goods.",
+    "translation": "网购可以减少购买商品所需的时间和精力。",
+    "grammar": "required to + 动词原形",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-8",
+    "ideaIds": [
+      "P4"
+    ],
+    "answer": "provide structured guidance",
+    "meaning": "提供系统指导",
+    "sentence": "Teachers can provide structured guidance for students.",
+    "translation": "教师可以为学生提供系统指导。",
+    "grammar": "provide + 名词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-9",
+    "ideaIds": [
+      "P5"
+    ],
+    "answer": "create employment opportunities",
+    "meaning": "创造就业机会",
+    "sentence": "Online retail can create employment opportunities in logistics.",
+    "translation": "在线零售可以在物流行业创造就业机会。",
+    "grammar": "opportunities in + 行业",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-10",
+    "ideaIds": [
+      "P5"
+    ],
+    "answer": "demand for",
+    "meaning": "对……的需求",
+    "sentence": "Online shopping increases demand for delivery services.",
+    "translation": "网购增加对配送服务的需求。",
+    "grammar": "demand for + 名词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-11",
+    "ideaIds": [
+      "P6"
+    ],
+    "answer": "require additional funding",
+    "meaning": "需要额外资金",
+    "sentence": "Protecting endangered species may require additional funding.",
+    "translation": "保护濒危物种可能需要额外资金。",
+    "grammar": "may + 动词原形",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-12",
+    "ideaIds": [
+      "P6"
+    ],
+    "answer": "offset some of the costs",
+    "meaning": "抵消部分成本",
+    "sentence": "Higher productivity may offset some of the costs of shorter working hours.",
+    "translation": "更高的生产率可能抵消短工时的部分成本。",
+    "grammar": "offset + 名词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-13",
+    "ideaIds": [
+      "P7"
+    ],
+    "answer": "remain focused",
+    "meaning": "保持专注",
+    "sentence": "Employees who rest well may remain focused at work.",
+    "translation": "休息好的员工可能在工作中保持专注。",
+    "grammar": "remain + 形容词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-14",
+    "ideaIds": [
+      "P7"
+    ],
+    "answer": "lose interest in learning",
+    "meaning": "失去学习兴趣",
+    "sentence": "Children under excessive pressure may lose interest in learning.",
+    "translation": "承受过大压力的儿童可能失去学习兴趣。",
+    "grammar": "interest in + 名词／动词-ing",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-15",
+    "ideaIds": [
+      "P8"
+    ],
+    "answer": "promote greater equality of opportunity",
+    "meaning": "促进更大的机会公平",
+    "sentence": "Free university education can promote greater equality of opportunity.",
+    "translation": "免费大学教育可以促进更大的机会公平。",
+    "grammar": "promote + 名词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-16",
+    "ideaIds": [
+      "P8"
+    ],
+    "answer": "reduce regional inequality",
+    "meaning": "缩小地区不平等",
+    "sentence": "Investment in rural services can reduce regional inequality.",
+    "translation": "对农村服务的投资可以缩小地区不平等。",
+    "grammar": "investment in + 名词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-17",
+    "ideaIds": [
+      "P9"
+    ],
+    "answer": "physical and mental well-being",
+    "meaning": "身心健康",
+    "sentence": "Longer weekends can improve physical and mental well-being.",
+    "translation": "较长的周末可以改善身心健康。",
+    "grammar": "improve + 名词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-18",
+    "ideaIds": [
+      "P9"
+    ],
+    "answer": "reduce work-related stress",
+    "meaning": "减少工作压力",
+    "sentence": "Having time to rest can reduce work-related stress.",
+    "translation": "有时间休息可以减少工作压力。",
+    "grammar": "Having ... 作主语",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-19",
+    "ideaIds": [
+      "P10"
+    ],
+    "answer": "maintain stronger relationships",
+    "meaning": "维持更稳固的关系",
+    "sentence": "Regular communication helps people maintain stronger relationships.",
+    "translation": "定期沟通帮助人们维持更稳固的关系。",
+    "grammar": "help people + 动词原形",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-20",
+    "ideaIds": [
+      "P10"
+    ],
+    "answer": "stay in touch with",
+    "meaning": "与……保持联系",
+    "sentence": "Digital tools allow people to stay in touch with family members.",
+    "translation": "数字工具让人们与家人保持联系。",
+    "grammar": "allow people to + 动词原形",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-21",
+    "ideaIds": [
+      "J1"
+    ],
+    "answer": "should be weighed against",
+    "meaning": "应该与……权衡",
+    "sentence": "Short-term costs should be weighed against long-term benefits.",
+    "translation": "短期成本应该与长期收益权衡。",
+    "grammar": "should be + 过去分词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-22",
+    "ideaIds": [
+      "J2"
+    ],
+    "answer": "take priority",
+    "meaning": "优先",
+    "sentence": "Basic public services should take priority where access is limited.",
+    "translation": "在获取机会有限的地方，基本公共服务应优先。",
+    "grammar": "should + 动词原形",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-23",
+    "ideaIds": [
+      "J3"
+    ],
+    "answer": "protect personal data",
+    "meaning": "保护个人数据",
+    "sentence": "Online companies should protect personal data.",
+    "translation": "网络公司应该保护个人数据。",
+    "grammar": "protect + 名词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-24",
+    "ideaIds": [
+      "J4"
+    ],
+    "answer": "complete transactions remotely",
+    "meaning": "远程完成交易",
+    "sentence": "Digital tools allow businesses to complete transactions remotely.",
+    "translation": "数字工具让企业远程完成交易。",
+    "grammar": "allow businesses to + 动词原形",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-25",
+    "ideaIds": [
+      "J5"
+    ],
+    "answer": "face-to-face interaction",
+    "meaning": "面对面互动",
+    "sentence": "Online communication cannot fully replace face-to-face interaction.",
+    "translation": "在线沟通不能完全替代面对面互动。",
+    "grammar": "replace + 名词",
+    "source": "依据已确认观点库改编的练习例句",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-26",
+    "ideaIds": [
+      "P1"
+    ],
+    "answer": "students from low-income families",
+    "meaning": "低收入家庭学生",
+    "sentence": "One major benefit of free university education is that it can make higher education more accessible to students from low-income families.",
+    "translation": "目标表达：低收入家庭学生。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-7，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-27",
+    "ideaIds": [
+      "P1"
+    ],
+    "answer": "at a relatively low cost",
+    "meaning": "以相对较低的成本",
+    "sentence": "Public transport is also particularly important for people who do not own a car, as it allows them to travel to work, schools and other essential services at a relatively low cost.",
+    "translation": "目标表达：以相对较低的成本。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-5，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-28",
+    "ideaIds": [
+      "P4"
+    ],
+    "answer": "communicate almost instantly",
+    "meaning": "几乎即时沟通",
+    "sentence": "With telephones and the Internet, people can now communicate almost instantly, regardless of distance.",
+    "translation": "目标表达：几乎即时沟通。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-1，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-29",
+    "ideaIds": [
+      "P5"
+    ],
+    "answer": "a wide range of related industries",
+    "meaning": "多种相关产业",
+    "sentence": "Online retail supports a wide range of related industries, including manufacturing, transportation, logistics and technology.",
+    "translation": "目标表达：多种相关产业。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-3，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-30",
+    "ideaIds": [
+      "P5"
+    ],
+    "answer": "contribute to economic growth",
+    "meaning": "促进经济增长",
+    "sentence": "Better infrastructure can make it easier for these businesses to operate and expand, which may create additional jobs and contribute to economic growth.",
+    "translation": "目标表达：促进经济增长。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-12，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-31",
+    "ideaIds": [
+      "P6"
+    ],
+    "answer": "face higher costs",
+    "meaning": "面临更高成本",
+    "sentence": "Admittedly, fewer working hours may reduce the income of some employees, while businesses may also face higher costs if they need to hire additional workers.",
+    "translation": "目标表达：面临更高成本。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-4，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-32",
+    "ideaIds": [
+      "P6"
+    ],
+    "answer": "place financial pressure on governments",
+    "meaning": "给政府带来财政压力",
+    "sentence": "In conclusion, although protecting endangered species can place financial pressure on governments, conservation provides important long-term benefits by maintaining healthier ecosystems and supporting society.",
+    "translation": "目标表达：给政府带来财政压力。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-2，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-33",
+    "ideaIds": [
+      "P7"
+    ],
+    "answer": "remain focused when facing difficulties",
+    "meaning": "面对困难保持专注",
+    "sentence": "They may therefore be more willing to invest time and effort in their responsibilities and remain focused when facing difficulties.",
+    "translation": "目标表达：面对困难保持专注。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-11，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-34",
+    "ideaIds": [
+      "P8"
+    ],
+    "answer": "students from disadvantaged backgrounds",
+    "meaning": "弱势背景学生",
+    "sentence": "In the long term, this could improve social mobility by giving students from disadvantaged backgrounds a better chance to develop their skills, gain qualifications and pursue higher-skilled employment.",
+    "translation": "目标表达：弱势背景学生。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-7，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-35",
+    "ideaIds": [
+      "P10"
+    ],
+    "answer": "participate in social activities",
+    "meaning": "参与社交活动",
+    "sentence": "With longer weekends, employees can spend more time with their families and friends and participate in social activities together.",
+    "translation": "目标表达：参与社交活动。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-4，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-36",
+    "ideaIds": [
+      "J1"
+    ],
+    "answer": "long-term benefits",
+    "meaning": "长期收益",
+    "sentence": "Although protecting endangered species may require significant government funding, it can provide important long-term benefits for both society and the environment.",
+    "translation": "目标表达：长期收益。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-2，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-37",
+    "ideaIds": [
+      "J2"
+    ],
+    "answer": "according to local conditions",
+    "meaning": "根据当地条件",
+    "sentence": "By introducing policies according to local conditions, governments can direct resources towards the areas where they are most needed and use public resources more efficiently.",
+    "translation": "目标表达：根据当地条件。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-13，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-38",
+    "ideaIds": [
+      "J3"
+    ],
+    "answer": "secure online payments",
+    "meaning": "保障在线支付安全",
+    "sentence": "Online companies are continually improving technologies designed to protect personal data and secure online payments, while governments can impose stricter regulations on digital businesses.",
+    "translation": "目标表达：保障在线支付安全。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-3，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-39",
+    "ideaIds": [
+      "J3"
+    ],
+    "answer": "control spending through appropriate funding policies",
+    "meaning": "通过适当资金政策控制支出",
+    "sentence": "Governments can also control spending through appropriate funding policies while ensuring that financial background does not become a major barrier to higher education.",
+    "translation": "目标表达：通过适当资金政策控制支出。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-7，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-40",
+    "ideaIds": [
+      "J4"
+    ],
+    "answer": "Video conferencing",
+    "meaning": "视频会议",
+    "sentence": "Video conferencing, online payment systems and digital communication allow many international transactions to be completed remotely.",
+    "translation": "目标表达：视频会议。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-1，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-41",
+    "ideaIds": [
+      "J4"
+    ],
+    "answer": "digital communication tools",
+    "meaning": "数字通信工具",
+    "sentence": "Video conferencing and other digital communication tools allow people to communicate with colleagues and business partners in other countries without travelling long distances.",
+    "translation": "目标表达：数字通信工具。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-15，中文为目标短语释义",
+    "aliases": []
+  },
+  {
+    "id": "writing-expression-42",
+    "ideaIds": [
+      "J5"
+    ],
+    "answer": "structured guidance",
+    "meaning": "系统指导",
+    "sentence": "Access to information is only one part of education, while schools and teachers still play an essential role by providing structured guidance and helping students develop important practical and social skills.",
+    "translation": "目标表达：系统指导。请结合英文语境回忆完整短语。",
+    "grammar": "根据当前句子检查词形、主语与搭配",
+    "source": "原范文 essay-6，中文为目标短语释义",
+    "aliases": []
+  }
+]

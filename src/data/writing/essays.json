@@ -1,0 +1,460 @@
+[
+  {
+    "id": "essay-1",
+    "number": 1,
+    "title": "科技发展",
+    "prompt": "Technological development has made people’s lives more complicated. To what extent do you agree or disagree?",
+    "promptSource": "根据范文推拟，非原题",
+    "type": "opinion",
+    "ideaIds": [
+      "P4",
+      "P10",
+      "J3",
+      "J4"
+    ],
+    "paragraphs": [
+      {
+        "text": "Although technological development has introduced new challenges and requires people to learn new skills, I largely disagree that it has made life more complicated overall. Once people become familiar with new technologies, they can make many everyday tasks considerably easier and more convenient.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "At an individual level, technology has significantly reduced the time and effort required for everyday communication. \n In the past, people often had to write letters to family members or friends and wait days or even weeks for a response. \n With telephones and the Internet, people can now communicate almost instantly, regardless of distance. \nAs a result, maintaining relationships and exchanging information have become much easier, making everyday communication far more convenient than it was in the past.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "Technology has also made economic and social activities less dependent on physical location. Businesses can now communicate with customers, suppliers and colleagues in other countries without travelling long distances for every meeting. Video conferencing, online payment systems and digital communication allow many international transactions to be completed remotely. As a result, geographical distance has become far less of an obstacle to economic activity.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "Admittedly, technological development has introduced new forms of complexity. People now have to manage numerous online accounts, protect their personal data and deal with a constant flow of messages and information. These problems are genuine and can sometimes make modern life more stressful. However, they do not outweigh the substantial reduction in time and effort that technology has brought to everyday life. In many cases, the problem lies not in the technology itself, but in how it is designed and used.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, although technological development has created some new challenges, it has simplified a much wider range of everyday activities by reducing the time, effort and physical barriers involved in completing them. I therefore disagree that technology has made people's lives more complicated overall.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "",
+    "source": "202609.范文.汇总.md"
+  },
+  {
+    "id": "essay-2",
+    "number": 2,
+    "title": "濒危物种保护",
+    "prompt": "Some people think that governments spend too much money protecting endangered species and that this money should be used to solve other problems. To what extent do you agree or disagree?",
+    "promptSource": "原文件题干",
+    "type": "opinion",
+    "ideaIds": [
+      "P3",
+      "P5",
+      "P6",
+      "J1"
+    ],
+    "paragraphs": [
+      {
+        "text": "Although protecting endangered species may require significant government funding, it can provide important long-term benefits for both society and the environment. I therefore largely disagree that governments should spend this money on other problems instead of protecting endangered species.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "Protecting endangered species can benefit the environment by helping to maintain ecological balance. The loss of one species can affect other organisms within the same food chain and gradually disrupt the wider ecosystem. Therefore, governments are not simply spending money on individual species; they are also investing in the ecosystems of which these species are a part.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "Protecting endangered species can also benefit society by creating employment opportunities in areas such as tourism, scientific research and environmental management. These activities can generate income while supporting conservation. In addition, healthy ecosystems provide resources and environmental services on which human societies depend.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "Admittedly, protecting endangered species may require additional funding and resources in the short term. However, these costs should be weighed against the significant environmental and social benefits that conservation can provide in the long term.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, although protecting endangered species can place financial pressure on governments, conservation provides important long-term benefits by maintaining healthier ecosystems and supporting society. I therefore largely disagree that governments should use this money to solve other problems instead.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "",
+    "source": "202609.范文.汇总.md"
+  },
+  {
+    "id": "essay-3",
+    "number": 3,
+    "title": "网购",
+    "prompt": "More people are buying goods online instead of shopping in physical stores. Do the advantages of this trend outweigh the disadvantages?",
+    "promptSource": "原文件题干",
+    "type": "outweigh",
+    "ideaIds": [
+      "P1",
+      "P4",
+      "P5",
+      "J3",
+      "J4"
+    ],
+    "paragraphs": [
+      {
+        "text": "Although buying goods online has created some problems, particularly online fraud and concerns about personal data, it has provided far greater benefits to both individuals and society. In my view, the advantages of online shopping clearly outweigh its disadvantages, mainly because it offers greater convenience to consumers and creates economic opportunities.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "At an individual level, buying goods online can improve people's daily lives by making shopping considerably more convenient. Online shopping can significantly reduce the time and effort required to purchase desired products, as consumers no longer need to travel long distances to physical stores. Moreover, the Internet and digital devices give consumers access to information about millions of products, allowing them to compare different options and choose those that best meet their needs. As a result, people can purchase suitable products more efficiently and conveniently, making everyday shopping considerably easier.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "Society can also benefit from online shopping, since its growth has created significant employment opportunities. Online retail supports a wide range of related industries, including manufacturing, transportation, logistics and technology. As an increasing number of people tend to purchase goods online, demand for delivery, warehousing and digital services continues to grow, encouraging companies in these sectors to employ more workers. Therefore, the expansion of online shopping can contribute to employment and economic activity far beyond the retail sector itself.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "Admittedly, buying goods online may expose consumers to risks involving personal data and online fraud. As more purchases and financial transactions take place on the Internet, criminals may have more opportunities to steal personal or financial information. However, these risks do not necessarily outweigh the broader benefits of online shopping. Online companies are continually improving technologies designed to protect personal data and secure online payments, while governments can impose stricter regulations on digital businesses. Consequently, although security concerns cannot be completely eliminated, they can be reduced considerably, whereas the convenience and economic opportunities created by online shopping are widespread and long-lasting.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, although buying goods online creates privacy and security concerns, it provides substantial benefits by reducing the time and effort required for shopping and creating employment opportunities in a range of related industries. Since many of its disadvantages can be mitigated through better technology and regulation, I believe that the advantages of this trend clearly outweigh the disadvantages.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "Although buying goods online has created some problems, particularly online fraud and concerns about personal data, it has provided far greater benefits to both individuals and society. In my view, the advantages of online shopping clearly outweigh those of relying solely on physical stores, mainly because it offers greater convenience to consumers and creates economic opportunities.",
+    "source": "202609.范文.汇总.md"
+  },
+  {
+    "id": "essay-4",
+    "number": 4,
+    "title": "缩短工时",
+    "prompt": "Employees should work fewer hours and have longer weekends in order to improve their quality of life. To what extent do you agree or disagree?",
+    "promptSource": "原文件题干",
+    "type": "opinion",
+    "ideaIds": [
+      "P6",
+      "P7",
+      "P9",
+      "P10"
+    ],
+    "paragraphs": [
+      {
+        "text": "Although fewer working hours and longer weekends may create some financial challenges, such as lower income for some employees, they can provide significant benefits by improving people's quality of life. I therefore agree that employees should work fewer hours and have longer weekends.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "Fewer working hours and longer weekends can improve employees' physical and mental well-being. People who work long hours may have less time for exercise and rest, and sitting at a desk for long periods can have negative effects on their physical health. Moreover, longer weekends can help reduce work-related stress by giving employees more time to rest and recover. As a result, better physical and mental well-being can significantly improve employees' overall quality of life.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "Having more free time can also help employees maintain stronger relationships with family and friends. Close relationships require time and regular communication, which may be difficult for people who spend most of their time at work. With longer weekends, employees can spend more time with their families and friends and participate in social activities together. This can help them maintain stronger relationships and therefore improve their quality of life.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "Admittedly, fewer working hours may reduce the income of some employees, while businesses may also face higher costs if they need to hire additional workers. However, working fewer hours does not necessarily lead to lower productivity. Employees who have enough time to rest may be more focused and productive at work. Therefore, some of the financial costs of shorter working hours may be offset by higher productivity.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, although fewer working hours and longer weekends may create some financial challenges for employees and businesses, they can improve people's physical and mental well-being and help them maintain stronger relationships. I therefore agree that employees should work fewer hours and have longer weekends.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "",
+    "source": "202609.范文.汇总.md"
+  },
+  {
+    "id": "essay-5",
+    "number": 5,
+    "title": "公共交通投资",
+    "prompt": "Governments should spend more money on public transport than on building new roads. To what extent do you agree or disagree?",
+    "promptSource": "原文件题干",
+    "type": "opinion",
+    "ideaIds": [
+      "P1",
+      "P3",
+      "J1",
+      "J2"
+    ],
+    "paragraphs": [
+      {
+        "text": "Although building new roads can help increase traffic capacity in growing cities, I largely agree that governments should spend more money on public transport. A well-developed public transport system can reduce people's dependence on private cars, making travel more affordable while also reducing traffic congestion and air pollution.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "One major benefit of investing in public transport is that it can make daily travel more affordable and accessible. When reliable buses and trains are widely available, people do not need to rely on private cars for every journey. This can reduce the money they spend on fuel, insurance and parking. Public transport is also particularly important for people who do not own a car, as it allows them to travel to work, schools and other essential services at a relatively low cost. Therefore, greater investment in public transport can provide practical benefits to a wide range of people.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "Public transport can also provide a more sustainable solution to traffic congestion and air pollution. If more people choose buses and trains instead of private cars, fewer vehicles will be needed on the roads, thereby reducing both congestion and vehicle emissions. By contrast, building more roads mainly increases road capacity and does not directly reduce people's dependence on cars. Although new roads may relieve congestion temporarily, investing in public transport addresses the problem more directly by providing people with an alternative to driving.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "Admittedly, building new roads is still necessary in some areas, particularly where the existing road network cannot meet the needs of a growing population. New roads can improve connections between different areas and provide additional capacity for both private and commercial vehicles. However, this does not mean that road construction should receive more funding than public transport. In the long term, reducing dependence on private cars is likely to provide broader benefits than simply creating more space for them.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, although governments should continue to invest in roads where additional capacity is genuinely needed, I believe that a larger share of transport funding should be allocated to public transport. By making travel more affordable and accessible while reducing dependence on private cars, public transport offers a more sustainable solution to the transport needs of modern cities.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "",
+    "source": "202609.范文.汇总.md"
+  },
+  {
+    "id": "essay-6",
+    "number": 6,
+    "title": "学校与教师",
+    "prompt": "As information is now widely available on the Internet, schools and teachers are becoming less important. To what extent do you agree or disagree?",
+    "promptSource": "原文件题干",
+    "type": "opinion",
+    "ideaIds": [
+      "P1",
+      "P2",
+      "P4",
+      "J5"
+    ],
+    "paragraphs": [
+      {
+        "text": "Although the Internet has made information far more accessible, I do not agree that schools and teachers are becoming less important. Access to information is only one part of education, while schools and teachers still play an essential role by providing structured guidance and helping students develop important practical and social skills.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "One major benefit of schools and teachers is that they make learning more efficient. When studying independently online, students need to decide which information is reliable and relevant and what they should focus on. However, many students may lack the ability to make these judgments and can easily become overwhelmed by the enormous amount of information available on the Internet. By contrast, teachers can provide structured guidance, select appropriate learning materials and help students focus on what they genuinely need to learn. As a result, students can acquire knowledge more effectively and efficiently.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "Schools and teachers also help students develop skills that cannot easily be learned from online information alone. Although students can gain knowledge from the Internet, communication and teamwork skills require interaction with other people in real-life situations. Schools provide students with regular opportunities to communicate with classmates, work in teams and solve problems together. By practising these skills on a daily basis, students can become better prepared for future study and employment.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "Admittedly, the Internet gives students access to a much wider range of information than traditional educational resources can provide. This has undoubtedly reduced people's dependence on schools and teachers for basic information. However, education is not simply about finding information; it is also about understanding, evaluating and applying it effectively. In this sense, the Internet should be viewed as a useful educational tool rather than a replacement for schools and teachers.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, although the Internet has made information easier to access, schools and teachers remain essential because they provide structured guidance and help students develop skills that cannot be acquired through information alone. I therefore disagree that their importance is declining.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "",
+    "source": "202609.范文.汇总.md"
+  },
+  {
+    "id": "essay-7",
+    "number": 7,
+    "title": "免费大学教育",
+    "prompt": "Some people believe that university education should be free for all students, regardless of their financial background. To what extent do you agree or disagree?",
+    "promptSource": "原文件题干",
+    "type": "opinion",
+    "ideaIds": [
+      "P1",
+      "P2",
+      "P6",
+      "P8",
+      "J1",
+      "J3"
+    ],
+    "paragraphs": [
+      {
+        "text": "Although making university education free would place additional financial pressure on governments, I agree that it could bring significant long-term benefits to society. In particular, free university education can improve access to higher education and promote greater equality of opportunity for students from different financial backgrounds.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "One major benefit of free university education is that it can make higher education more accessible to students from low-income families. Attending university can require a considerable amount of money, including tuition fees and other living costs. As a result, some students may choose to enter the workforce instead of continuing their education because they cannot afford the cost of a degree. This may prevent them from gaining qualifications that could improve their employment prospects in the future. By removing tuition fees, governments can reduce this financial barrier and give more students the opportunity to attend university regardless of their family income.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "Free university education can also promote greater social equality. When access to higher education depends heavily on a family's ability to pay, students from wealthier backgrounds may have an unfair advantage over those from less wealthy families. Making university education free would allow students to compete for educational opportunities on a more equal basis. In the long term, this could improve social mobility by giving students from disadvantaged backgrounds a better chance to develop their skills, gain qualifications and pursue higher-skilled employment.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "Admittedly, providing free university education would require substantial public funding, and some students from wealthy families would also benefit even though they may be able to afford tuition fees themselves. These concerns are genuine. However, the financial cost should be weighed against the long-term social benefits of improving access to education and reducing inequality. Governments can also control spending through appropriate funding policies while ensuring that financial background does not become a major barrier to higher education.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, although free university education would create additional financial costs for governments, I believe that its long-term benefits are more significant. By improving access to higher education and promoting greater equality of opportunity, free university education can benefit both individuals and society. I therefore agree that university education should be free for all students regardless of their financial background.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "",
+    "source": "202609.范文.汇总.md"
+  },
+  {
+    "id": "essay-11",
+    "number": 11,
+    "title": "高薪与满意度",
+    "prompt": "Some people believe that a high salary is the most important factor when choosing a job, while others believe that job satisfaction is more important. Discuss both views and give your own opinion.",
+    "promptSource": "原文件题干",
+    "type": "discussion",
+    "ideaIds": [
+      "P2",
+      "P7",
+      "J1",
+      "J2"
+    ],
+    "paragraphs": [
+      {
+        "text": "Although a high salary plays an important role when people choose a job, I believe that job satisfaction is more important overall. A good salary can provide financial security and help people maintain a reasonable standard of living, while job satisfaction can have a greater influence on their daily working life and long-term career development.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "On the one hand, there are good reasons why some people consider salary the most important factor when choosing a job. A high salary allows employees to meet their basic needs and pay for expenses such as housing, food and healthcare. It can also reduce financial pressure, particularly for people who need to support their families. As a result, a well-paid job can provide greater financial security and contribute to a better quality of life. For people who do not earn enough to meet their basic needs, salary may therefore be their main consideration when choosing a job.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "On the other hand, job satisfaction can provide broader benefits in the long term. Employees who are satisfied with their jobs are generally more motivated and engaged at work. They may therefore be more willing to invest time and effort in their responsibilities and remain focused when facing difficulties. This can improve both their productivity and the quality of their work. In addition, people who enjoy their jobs are more likely to remain in the same profession and continue developing their skills and experience, which can create better opportunities for career advancement.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "In my view, salary is extremely important until people have achieved a reasonable level of financial security. However, once their basic financial needs are met, earning more money does not necessarily make a job more satisfying. Since people spend a significant part of their lives at work, their daily experience, motivation and long-term career development should also be taken into consideration. For this reason, I believe job satisfaction is ultimately more important than salary.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, although a high salary can provide financial security and improve people's standard of living, job satisfaction can improve their motivation, productivity and long-term career development. I therefore believe that job satisfaction is more important, provided that employees earn enough to meet their basic financial needs.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "",
+    "source": "202609.范文.汇总.md"
+  },
+  {
+    "id": "essay-12",
+    "number": 12,
+    "title": "城乡投资",
+    "prompt": "Some people believe that governments should invest in improving large cities, while others think that more resources should be directed towards rural areas. Discuss both views and give your own opinion.",
+    "promptSource": "原文件题干",
+    "type": "discussion",
+    "ideaIds": [
+      "P1",
+      "P5",
+      "P8",
+      "J2"
+    ],
+    "paragraphs": [
+      {
+        "text": "Although investing in large cities can generate significant economic benefits, directing resources towards rural areas can also provide important social benefits in the long term. In my opinion, governments should invest in both urban and rural areas according to their different needs rather than giving absolute priority to either one.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "On the one hand, investing in large cities can be an efficient use of public resources. Since large cities have large populations, improvements in public transport, infrastructure and other public services can benefit a considerable number of people. Moreover, cities usually contain a large number of businesses and provide many employment opportunities. Better infrastructure can make it easier for these businesses to operate and expand, which may create additional jobs and contribute to economic growth. Therefore, investment in large cities can generate considerable economic and social benefits.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "On the other hand, investment in rural areas is particularly important for reducing regional inequality. People living in rural areas may have more limited access to essential public services, such as education, healthcare and public transport. By building new facilities and improving these services, governments can make them more accessible to rural residents and significantly improve their quality of life. This can also help reduce the development gap between urban and rural areas and promote more balanced development.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "In my view, governments should allocate resources according to the specific needs of different areas. Large cities may require continuous investment to maintain infrastructure and support economic activity, while rural areas may need more funding to improve basic public services and reduce barriers to development. Since both urban and rural areas are important parts of society, neither should be ignored when governments make decisions about public spending.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, while investment in large cities can benefit a large number of people and generate significant economic returns, investment in rural areas can improve access to essential services and reduce regional inequality. I therefore believe that governments should consider the different needs of each area and allocate public resources accordingly.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "",
+    "source": "202609.范文.汇总.md"
+  },
+  {
+    "id": "essay-13",
+    "number": 13,
+    "title": "环境治理层级",
+    "prompt": "Some people believe that environmental problems should be solved globally, while others think that individual countries should deal with these problems themselves. Discuss both views and give your own opinion.",
+    "promptSource": "原文件题干",
+    "type": "discussion",
+    "ideaIds": [
+      "P3",
+      "J2"
+    ],
+    "paragraphs": [
+      {
+        "text": "Environmental problems can occur at both global and national levels, so there is debate over which level should be responsible for solving them. While international cooperation can be more effective in addressing widespread environmental problems, individual countries are often better able to deal with local issues. In my opinion, the appropriate approach should depend on the scale and nature of each environmental problem.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "On the one hand, global cooperation is essential for environmental problems that extend beyond national borders. Problems such as climate change and ocean pollution cannot be effectively addressed by one country alone because their causes and effects may involve many different countries. By working together, governments can establish common environmental targets, coordinate their policies and share useful technology and scientific knowledge. As a result, international cooperation can address environmental problems on a much larger scale and make environmental policies more effective.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "On the other hand, individual countries are often in a better position to deal with environmental problems that are mainly local. National governments usually have a better understanding of their own industries, infrastructure and environmental conditions, allowing them to identify the specific causes of local problems. For example, a city suffering from serious traffic-related air pollution may need stricter vehicle regulations and better public transport. By introducing policies according to local conditions, governments can direct resources towards the areas where they are most needed and use public resources more efficiently.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "In my view, neither global nor national action is suitable for every environmental problem. International cooperation should be used when the causes and effects of a problem cross national borders and cannot be controlled by a single country. However, when an environmental issue is limited to a particular country or region, national governments should take primary responsibility for addressing it. Therefore, the level of action should match the scale of the problem.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, global cooperation can provide a more effective response to widespread environmental problems, while individual countries can develop more targeted solutions to local issues. I therefore believe that governments should choose between national and international action according to the scale and nature of the environmental problem.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "",
+    "source": "202609.范文.汇总.md"
+  },
+  {
+    "id": "essay-14",
+    "number": 14,
+    "title": "儿童入学年龄",
+    "prompt": "Some people think that children should begin formal education as early as possible, while others believe that they should not start school until the age of seven. Discuss both views and give your own opinion.",
+    "promptSource": "原文件题干",
+    "type": "discussion",
+    "ideaIds": [
+      "P2",
+      "P7",
+      "P9",
+      "J2"
+    ],
+    "paragraphs": [
+      {
+        "text": "There are different views about the best age for children to begin formal education. Starting school early can give children more time to acquire knowledge and develop basic academic skills, while starting at the age of seven can allow them to enjoy a more flexible childhood and become better prepared for the pressure of formal learning. In my opinion, children's individual development should be considered when deciding when they are ready to start formal education.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "On the one hand, beginning formal education at an early age gives children more time to learn and practise important academic skills. Children who start school earlier are exposed to reading, writing and basic mathematics at a younger age, giving them more time to develop these abilities. A strong foundation in these subjects can make it easier for them to understand more difficult material later in their education. As a result, early education may better prepare children for future study and provide them with more educational opportunities.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "On the other hand, delaying formal education until the age of seven can give children more time to play and spend time with their families. These activities are important because young children can develop communication and social skills through interaction with family members and other children. Moreover, older children may be better able to concentrate and cope with the pressure of structured learning. If children are introduced to academic pressure before they are ready, they may become stressed or lose interest in learning. Starting school later may therefore protect their mental well-being and improve the quality of their learning.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "In my view, children develop at different rates, so their readiness for formal education should also be taken into consideration. Some children are naturally curious and able to concentrate at an early age, while others may need more time for play and social development. Schools and parents should therefore consider children's ability to cope with structured learning rather than focusing only on their exact age.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, starting formal education early can give children more time to develop academic skills, while delaying it can provide more time for social and emotional development. I believe that children's developmental needs should be an important consideration when deciding when they should begin formal schooling.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "",
+    "source": "202609.范文.汇总.md"
+  },
+  {
+    "id": "essay-15",
+    "number": 15,
+    "title": "减少飞行",
+    "prompt": "Some people have decided to reduce the number of times they fly every year or to stop flying altogether. Do you think the environmental benefits of this development outweigh the disadvantages for individuals and businesses?",
+    "promptSource": "原文件题干",
+    "type": "outweigh",
+    "ideaIds": [
+      "P3",
+      "J1",
+      "J3",
+      "J4",
+      "J5"
+    ],
+    "paragraphs": [
+      {
+        "text": "Nowadays, an increasing number of people are choosing to reduce the number of flights they take each year or even stop flying altogether. Although this trend may create some challenges for individuals and businesses, it can provide significant environmental benefits by reducing the consumption of fossil fuels and carbon emissions. I therefore believe that the environmental benefits clearly outweigh the disadvantages.",
+        "role": "开头：回应题目与立场"
+      },
+      {
+        "text": "One major environmental benefit of reducing air travel is that it can lower our dependence on non-renewable resources. Aircraft consume large quantities of fossil fuels, particularly when millions of people travel long distances by air every year. If people choose to take fewer unnecessary flights, less fuel will be consumed, reducing the demand for these limited resources. Furthermore, burning aviation fuel produces carbon emissions that contribute to climate change. Therefore, reducing the number of flights can lower carbon emissions and reduce the environmental impact of air travel.",
+        "role": "主体一：解释主要理由"
+      },
+      {
+        "text": "Admittedly, this trend may create disadvantages for both individuals and businesses. For individuals, taking fewer flights can make long-distance travel less convenient, especially for those who need to visit family members or travel abroad regularly. Businesses may also face difficulties because face-to-face meetings are sometimes important for negotiations, building relationships and managing international projects. Reducing business travel may therefore make some forms of international communication less convenient and efficient.",
+        "role": "主体二：第二个理由／另一方"
+      },
+      {
+        "text": "However, many of these disadvantages can be mitigated through modern technology. Video conferencing and other digital communication tools allow people to communicate with colleagues and business partners in other countries without travelling long distances. Although online communication cannot completely replace face-to-face interaction, it can reduce the need for many unnecessary business trips. More importantly, the inconvenience caused by reducing air travel is generally manageable, whereas environmental damage caused by excessive fossil-fuel consumption and carbon emissions can have long-term effects and may be difficult to reverse. For this reason, the environmental benefits are more significant in the long term.",
+        "role": "回应／个人判断"
+      },
+      {
+        "text": "In conclusion, although reducing air travel may make long-distance travel less convenient for individuals and create communication challenges for businesses, many of these problems can be reduced through modern technology. By contrast, reducing fossil-fuel consumption and carbon emissions can provide important long-term environmental benefits. I therefore believe that these benefits outweigh the disadvantages for individuals and businesses.",
+        "role": "结论：总结与立场"
+      }
+    ],
+    "originalOpening": "",
+    "source": "202609.范文.汇总.md"
+  }
+]

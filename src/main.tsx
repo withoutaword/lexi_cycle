@@ -1,4 +1,4 @@
-import { StrictMode,type ReactNode } from 'react'
+import { StrictMode,Suspense,lazy,type ReactNode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { createBrowserRouter,RouterProvider } from 'react-router-dom'
 import { AppShell } from './components/AppShell'
@@ -18,8 +18,9 @@ import { DictationProvider } from './context/DictationContext'
 import { DictationPracticePage } from './pages/DictationPracticePage'
 import { DictationSummaryPage } from './pages/DictationSummaryPage'
 import { DictationHistoryPage } from './pages/DictationHistoryPage'
+const WritingPage=lazy(()=>import('./pages/WritingPage').then(module=>({default:module.WritingPage})))
 import './styles.css'
 import './homeStats.css'
 const protect=(node:ReactNode)=><ProtectedRoute>{node}</ProtectedRoute>
-const router=createBrowserRouter([{path:'/login',element:<AuthPage/>},{element:protect(<AppShell/>),children:[{path:'/',element:<HomePage/>},{path:'/vocabulary',element:<VocabularyPage/>},{path:'/upload',element:<UploadPage/>},{path:'/mistakes',element:<MistakesPage/>},{path:'/leaderboard',element:<LeaderboardPage/>},{path:'/dictation-history',element:<DictationHistoryPage/>}]},{path:'/practice',element:protect(<PracticePage/>)},{path:'/summary',element:protect(<SummaryPage/>)},{path:'/dictation',element:protect(<DictationPracticePage/>)},{path:'/dictation/summary',element:protect(<DictationSummaryPage/>)}])
+const router=createBrowserRouter([{path:'/login',element:<AuthPage/>},{element:protect(<AppShell/>),children:[{path:'/',element:<HomePage/>},{path:'/writing',element:<Suspense fallback={<div className="loading">正在加载写作练习…</div>}><WritingPage/></Suspense>},{path:'/vocabulary',element:<VocabularyPage/>},{path:'/upload',element:<UploadPage/>},{path:'/mistakes',element:<MistakesPage/>},{path:'/leaderboard',element:<LeaderboardPage/>},{path:'/dictation-history',element:<DictationHistoryPage/>}]},{path:'/practice',element:protect(<PracticePage/>)},{path:'/summary',element:protect(<SummaryPage/>)},{path:'/dictation',element:protect(<DictationPracticePage/>)},{path:'/dictation/summary',element:protect(<DictationSummaryPage/>)}])
 createRoot(document.getElementById('root')!).render(<StrictMode><AuthProvider><AppProvider><SessionProvider><DictationProvider><RouterProvider router={router}/></DictationProvider></SessionProvider></AppProvider></AuthProvider></StrictMode>)
