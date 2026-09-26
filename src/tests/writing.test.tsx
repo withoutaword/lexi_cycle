@@ -89,3 +89,47 @@ describe('reference visibility controls',()=>{
   expect(screen.getByRole('button',{name:'隐藏参考'}).getAttribute('aria-expanded')).toBe('true')
  })
 })
+
+
+describe('writing leaderboard source records',()=>{
+ it('reuses the same attempt ID when retrying an unchanged submission',async()=>{
+  render(<MemoryRouter initialEntries={['/writing?track=expressions&topic=essay-7']}><WritingPage/></MemoryRouter>)
+  fireEvent.change(screen.getByLabelText('输入短语：降低经济门槛'),{target:{value:'reduce financial barriers'}})
+  fireEvent.click(screen.getByText('记录本次练习'))
+  await waitFor(()=>expect(screen.getByText('记录本次练习').hasAttribute('disabled')).toBe(false))
+  expect(readWritingAttempts('learner-a')[0].firstTryCorrect).toBe(true)
+  const id=readWritingAttempts('learner-a')[0].id
+  fireEvent.change(screen.getByLabelText('提示等级'),{target:{value:'guided'}})
+  fireEvent.click(screen.getByText('记录本次练习'))
+  await waitFor(()=>expect(screen.getByText('记录本次练习').hasAttribute('disabled')).toBe(false))
+  expect(readWritingAttempts('learner-a')).toHaveLength(1)
+  expect(readWritingAttempts('learner-a')[0].id).toBe(id)
+ })
+ it('does not call a corrected answer first-try correct after an error',async()=>{
+  render(<MemoryRouter initialEntries={['/writing?track=expressions&topic=essay-7']}><WritingPage/></MemoryRouter>)
+  const input=screen.getByLabelText('输入短语：降低经济门槛')
+  fireEvent.change(input,{target:{value:'wrong'}})
+  fireEvent.click(screen.getByText('记录本次练习'))
+  await waitFor(()=>expect(screen.getByText('记录本次练习').hasAttribute('disabled')).toBe(false))
+  fireEvent.change(input,{target:{value:'reduce financial barriers'}})
+  fireEvent.click(screen.getByText('记录本次练习'))
+  await waitFor(()=>expect(readWritingAttempts('learner-a')).toHaveLength(2))
+  expect(readWritingAttempts('learner-a')[0]).toMatchObject({fixedCorrect:true,firstTryCorrect:false})
+ })
+ it('does not label a guided answer first-try correct after switching back to independent',async()=>{
+  render(<MemoryRouter initialEntries={['/writing?track=expressions&topic=essay-7']}><WritingPage/></MemoryRouter>)
+  fireEvent.change(screen.getByLabelText('提示等级'),{target:{value:'guided'}})
+  fireEvent.change(screen.getByLabelText('提示等级'),{target:{value:'independent'}})
+  fireEvent.change(screen.getByLabelText('输入短语：降低经济门槛'),{target:{value:'reduce financial barriers'}})
+  fireEvent.click(screen.getByText('记录本次练习'))
+  await waitFor(()=>expect(readWritingAttempts('learner-a')[0]?.firstTryCorrect).toBe(false))
+ })
+ it('does not create a completion record when only a migration topic is entered',()=>{
+  render(<MemoryRouter initialEntries={['/writing?track=expressions&topic=essay-7']}><WritingPage/></MemoryRouter>)
+  fireEvent.click(screen.getByText('迁移造句'))
+  fireEvent.change(screen.getByLabelText('换一个相关话题，说明你想表达的逻辑'),{target:{value:'Public transport'}})
+  fireEvent.click(screen.getByText('记录本次练习'))
+  expect(readWritingAttempts('learner-a')).toHaveLength(0)
+  expect(screen.getByText('请先填写练习内容')).toBeTruthy()
+ })
+})

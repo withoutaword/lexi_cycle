@@ -1,0 +1,1277 @@
+{
+  "version": 1,
+  "schema": "vocabulary-source-v1",
+  "dataset": "task1-phrases",
+  "datasetZh": "小作文词库",
+  "items": [
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Introduction",
+      "conceptGroupZh": "题目改写",
+      "lemma": "the chart compares",
+      "sentence": "The chart compares household spending in two countries.",
+      "translation": "该图比较了两个国家的家庭支出。",
+      "answer": "The chart compares",
+      "targetType": "phrase",
+      "id": "task1-phrase-0001",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "introduction",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Introduction",
+      "conceptGroupZh": "题目改写",
+      "lemma": "the graph illustrates changes in",
+      "sentence": "The graph illustrates changes in international student numbers between 2010 and 2025.",
+      "translation": "该图展示了2010年至2025年国际学生人数的变化。",
+      "answer": "The graph illustrates changes in",
+      "targetType": "phrase",
+      "id": "task1-phrase-0002",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "introduction"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Introduction",
+      "conceptGroupZh": "题目改写",
+      "lemma": "the table shows",
+      "sentence": "The table shows the number of visits to four city libraries.",
+      "translation": "该表显示了四座城市图书馆的访问次数。",
+      "answer": "The table shows",
+      "targetType": "phrase",
+      "id": "task1-phrase-0003",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "introduction"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Introduction",
+      "conceptGroupZh": "题目改写",
+      "lemma": "the maps show how",
+      "sentence": "The maps show how the public park changed between 2000 and 2025.",
+      "translation": "这些地图展示了该公园在2000年至2025年间的变化。",
+      "answer": "The maps show how",
+      "targetType": "phrase",
+      "id": "task1-phrase-0004",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Introduction",
+      "conceptGroupZh": "题目改写",
+      "lemma": "the diagram shows how",
+      "sentence": "The diagram shows how used plastic bottles are recycled.",
+      "translation": "该图展示了废旧塑料瓶的回收过程。",
+      "answer": "The diagram shows how",
+      "targetType": "phrase",
+      "id": "task1-phrase-0005",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "process"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Introduction",
+      "conceptGroupZh": "题目改写",
+      "lemma": "with figures given in",
+      "sentence": "The table compares library visits, with figures given in thousands.",
+      "translation": "该表比较了图书馆访问量，数据以千为单位。",
+      "answer": "with figures given in",
+      "targetType": "phrase",
+      "id": "task1-phrase-0006",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "unit"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Overview",
+      "conceptGroupZh": "总体概括",
+      "lemma": "overall, it is clear that",
+      "sentence": "Overall, it is clear that car use increased while bus use declined.",
+      "translation": "总体来看，汽车使用量上升，而公交车使用量下降。",
+      "answer": "Overall, it is clear that",
+      "targetType": "phrase",
+      "id": "task1-phrase-0007",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "overview",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Overview",
+      "conceptGroupZh": "总体概括",
+      "lemma": "became increasingly popular",
+      "sentence": "Online shopping became increasingly popular over the period.",
+      "translation": "在此期间，网上购物变得越来越普及。",
+      "answer": "became increasingly popular",
+      "targetType": "phrase",
+      "id": "task1-phrase-0008",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "overview",
+        "trend"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Overview",
+      "conceptGroupZh": "总体概括",
+      "lemma": "became less dependent on",
+      "sentence": "The company became less dependent on fossil fuels by 2025.",
+      "translation": "到2025年，该公司对化石燃料的依赖降低了。",
+      "answer": "became less dependent on",
+      "targetType": "phrase",
+      "id": "task1-phrase-0009",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "overview"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Overview",
+      "conceptGroupZh": "总体概括",
+      "lemma": "moved in opposite directions",
+      "sentence": "Visitor numbers and average spending moved in opposite directions.",
+      "translation": "游客数量与人均消费呈相反方向变化。",
+      "answer": "moved in opposite directions",
+      "targetType": "phrase",
+      "id": "task1-phrase-0010",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "overview",
+        "mixed-chart"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Overview",
+      "conceptGroupZh": "总体概括",
+      "lemma": "had become relatively similar",
+      "sentence": "Internet usage levels had become relatively similar by 2025.",
+      "translation": "到2025年，各国互联网使用率已变得较为接近。",
+      "answer": "had become relatively similar",
+      "targetType": "phrase",
+      "id": "task1-phrase-0011",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "overview",
+        "convergence"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Overview",
+      "conceptGroupZh": "总体概括",
+      "lemma": "remained the largest category",
+      "sentence": "Staff salaries remained the largest category despite a marked decline.",
+      "translation": "尽管明显下降，员工薪资仍是最大的支出类别。",
+      "answer": "remained the largest category",
+      "targetType": "phrase",
+      "id": "task1-phrase-0012",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "overview",
+        "ranking"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Overview",
+      "conceptGroupZh": "总体概括",
+      "lemma": "the only major feature to remain unchanged",
+      "sentence": "The library will be the only major feature to remain unchanged.",
+      "translation": "图书馆将是唯一保持不变的主要设施。",
+      "answer": "the only major feature to remain unchanged",
+      "targetType": "phrase",
+      "id": "task1-phrase-0013",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "overview",
+        "map"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "increased from A to B",
+      "sentence": "The population increased from 2 million to 3.5 million.",
+      "translation": "人口从200万增加到350万。",
+      "answer": "increased from 2 million to 3.5 million",
+      "targetType": "phrase",
+      "id": "task1-phrase-0014",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "increased by",
+      "sentence": "The population increased by 1.5 million over the period.",
+      "translation": "在此期间，人口增加了150万。",
+      "answer": "increased by 1.5 million",
+      "targetType": "phrase",
+      "id": "task1-phrase-0015",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend",
+        "preposition",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "rose steadily to",
+      "sentence": "Car use rose steadily to 65% in 2020.",
+      "translation": "汽车使用率稳步上升至2020年的65%。",
+      "answer": "rose steadily to",
+      "targetType": "phrase",
+      "id": "task1-phrase-0016",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "rose sharply",
+      "sentence": "The figure rose sharply after 2010.",
+      "translation": "该数值在2010年后急剧上升。",
+      "answer": "rose sharply",
+      "targetType": "phrase",
+      "id": "task1-phrase-0017",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "edged up to",
+      "sentence": "The employment rate edged up to 74% in the final year.",
+      "translation": "就业率在最后一年小幅升至74%。",
+      "answer": "edged up to",
+      "targetType": "phrase",
+      "id": "task1-phrase-0018",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "fell consistently from",
+      "sentence": "The proportion using buses fell consistently from 50% to 30%.",
+      "translation": "乘坐公交车的比例持续从50%降至30%。",
+      "answer": "fell consistently from",
+      "targetType": "phrase",
+      "id": "task1-phrase-0019",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "declined gradually",
+      "sentence": "Library attendance declined gradually over the decade.",
+      "translation": "图书馆访问量在这十年中逐渐下降。",
+      "answer": "declined gradually",
+      "targetType": "phrase",
+      "id": "task1-phrase-0020",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "remained relatively stable at",
+      "sentence": "The figure remained relatively stable at around 30 until 2010.",
+      "translation": "直到2010年，该数值一直稳定在30左右。",
+      "answer": "remained relatively stable at",
+      "targetType": "phrase",
+      "id": "task1-phrase-0021",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "fluctuated between A and B",
+      "sentence": "The figure fluctuated between 30 and 50 throughout the period.",
+      "translation": "该数值在整个期间内于30至50之间波动。",
+      "answer": "fluctuated between 30 and 50",
+      "targetType": "phrase",
+      "id": "task1-phrase-0022",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "reached a peak of",
+      "sentence": "The figure reached a peak of 60 in 2010.",
+      "translation": "该数值在2010年达到60的峰值。",
+      "answer": "reached a peak of",
+      "targetType": "phrase",
+      "id": "task1-phrase-0023",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "before falling to",
+      "sentence": "Production climbed to 2 million tonnes before falling to 1.5 million.",
+      "translation": "产量升至200万吨，随后降至150万吨。",
+      "answer": "before falling to",
+      "targetType": "phrase",
+      "id": "task1-phrase-0024",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend",
+        "sequence"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "ended the period at",
+      "sentence": "Bicycle use ended the period at just 12%.",
+      "translation": "自行车使用率在期末降至仅12%。",
+      "answer": "ended the period at",
+      "targetType": "phrase",
+      "id": "task1-phrase-0025",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Trend",
+      "conceptGroupZh": "上升下降与稳定",
+      "lemma": "more than doubled",
+      "sentence": "The number of visitors more than doubled between 2010 and 2020.",
+      "translation": "2010年至2020年间，游客数量增长到两倍以上。",
+      "answer": "more than doubled",
+      "targetType": "phrase",
+      "id": "task1-phrase-0026",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "trend",
+        "comparison"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Comparison",
+      "conceptGroupZh": "比较与排名",
+      "lemma": "was twice as high as",
+      "sentence": "The figure for Country A was twice as high as that for Country B.",
+      "translation": "A国的数值是B国的两倍。",
+      "answer": "was twice as high as",
+      "targetType": "phrase",
+      "id": "task1-phrase-0027",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "comparison",
+        "priority"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Comparison",
+      "conceptGroupZh": "比较与排名",
+      "lemma": "recorded similar figures",
+      "sentence": "Countries A and B recorded similar figures, at 42% and 40% respectively.",
+      "translation": "A国和B国的数据相近，分别为42%和40%。",
+      "answer": "recorded similar figures",
+      "targetType": "phrase",
+      "id": "task1-phrase-0028",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "comparison"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Comparison",
+      "conceptGroupZh": "比较与排名",
+      "lemma": "respectively",
+      "sentence": "The figures for A and B were 42% and 40% respectively.",
+      "translation": "A和B的数据分别为42%和40%。",
+      "answer": "respectively",
+      "targetType": "phrase",
+      "id": "task1-phrase-0029",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "comparison",
+        "data-accuracy"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Comparison",
+      "conceptGroupZh": "比较与排名",
+      "lemma": "by far the highest",
+      "sentence": "Country A recorded by far the highest level of spending.",
+      "translation": "A国的支出水平遥遥领先。",
+      "answer": "by far the highest",
+      "targetType": "phrase",
+      "id": "task1-phrase-0030",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "comparison",
+        "ranking"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Comparison",
+      "conceptGroupZh": "比较与排名",
+      "lemma": "had by far the lowest figure",
+      "sentence": "Country E had by far the lowest figure, at only $80.",
+      "translation": "E国的数据明显最低，仅为80美元。",
+      "answer": "had by far the lowest figure",
+      "targetType": "phrase",
+      "id": "task1-phrase-0031",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "comparison",
+        "ranking"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Comparison",
+      "conceptGroupZh": "比较与排名",
+      "lemma": "followed closely by",
+      "sentence": "Country A ranked first, followed closely by Countries B and C.",
+      "translation": "A国排名第一，B国和C国紧随其后。",
+      "answer": "followed closely by",
+      "targetType": "phrase",
+      "id": "task1-phrase-0032",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "comparison",
+        "ranking"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Comparison",
+      "conceptGroupZh": "比较与排名",
+      "lemma": "overtook",
+      "sentence": "Car use overtook bus use by 2010.",
+      "translation": "到2010年，汽车使用率超过了公交车使用率。",
+      "answer": "overtook",
+      "targetType": "phrase",
+      "id": "task1-phrase-0033",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "comparison",
+        "trend"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Comparison",
+      "conceptGroupZh": "比较与排名",
+      "lemma": "by contrast",
+      "sentence": "By contrast, bicycle use declined steadily throughout the period.",
+      "translation": "相比之下，自行车使用率在整个期间稳步下降。",
+      "answer": "By contrast",
+      "targetType": "phrase",
+      "id": "task1-phrase-0034",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "comparison",
+        "cohesion"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Comparison",
+      "conceptGroupZh": "比较与排名",
+      "lemma": "whereas",
+      "sentence": "Housing was the largest expense in Country A, whereas food ranked first in Country B.",
+      "translation": "住房是A国最大的支出，而食品在B国排名第一。",
+      "answer": "whereas",
+      "targetType": "phrase",
+      "id": "task1-phrase-0035",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "comparison",
+        "cohesion"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Proportion",
+      "conceptGroupZh": "比例与数据",
+      "lemma": "accounted for",
+      "sentence": "Housing accounted for 38% of total expenditure.",
+      "translation": "住房占总支出的38%。",
+      "answer": "accounted for",
+      "targetType": "phrase",
+      "id": "task1-phrase-0036",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "proportion",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Proportion",
+      "conceptGroupZh": "比例与数据",
+      "lemma": "made up",
+      "sentence": "Housing and food together made up 63% of household spending.",
+      "translation": "住房和食品合计占家庭支出的63%。",
+      "answer": "made up",
+      "targetType": "phrase",
+      "id": "task1-phrase-0037",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "proportion"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Proportion",
+      "conceptGroupZh": "比例与数据",
+      "lemma": "represented the smallest share",
+      "sentence": "Entertainment represented the smallest share in both countries.",
+      "translation": "娱乐支出在两个国家所占比例均为最小。",
+      "answer": "represented the smallest share",
+      "targetType": "phrase",
+      "id": "task1-phrase-0038",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "proportion",
+        "ranking"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Proportion",
+      "conceptGroupZh": "比例与数据",
+      "lemma": "rose by 10 percentage points",
+      "sentence": "The share of housing rose by 10 percentage points, from 25% to 35%.",
+      "translation": "住房占比从25%升至35%，增加了10个百分点。",
+      "answer": "rose by 10 percentage points",
+      "targetType": "phrase",
+      "id": "task1-phrase-0039",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "proportion",
+        "data-accuracy",
+        "priority"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Proportion",
+      "conceptGroupZh": "比例与数据",
+      "lemma": "stood at",
+      "sentence": "The figure for transport stood at 20% in Country B.",
+      "translation": "B国的交通支出占比为20%。",
+      "answer": "stood at",
+      "targetType": "phrase",
+      "id": "task1-phrase-0040",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "data"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Proportion",
+      "conceptGroupZh": "比例与数据",
+      "lemma": "just over",
+      "sentence": "The figures for Countries D and E were just over four hours.",
+      "translation": "D国和E国的数据略高于4小时。",
+      "answer": "just over",
+      "targetType": "phrase",
+      "id": "task1-phrase-0041",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "approximation"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Proportion",
+      "conceptGroupZh": "比例与数据",
+      "lemma": "approximately",
+      "sentence": "Production rose to approximately 2 million tonnes.",
+      "translation": "产量上升至约200万吨。",
+      "answer": "approximately",
+      "targetType": "phrase",
+      "id": "task1-phrase-0042",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "approximation"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Grouping",
+      "conceptGroupZh": "分组与段落组织",
+      "lemma": "a similar pattern can be seen in",
+      "sentence": "A similar pattern can be seen in transport spending.",
+      "translation": "交通支出也呈现出类似的模式。",
+      "answer": "A similar pattern can be seen in",
+      "targetType": "phrase",
+      "id": "task1-phrase-0043",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "grouping",
+        "cohesion"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Grouping",
+      "conceptGroupZh": "分组与段落组织",
+      "lemma": "the other two categories",
+      "sentence": "The other two categories followed much flatter trends.",
+      "translation": "另外两个类别的趋势平缓得多。",
+      "answer": "The other two categories",
+      "targetType": "phrase",
+      "id": "task1-phrase-0044",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "grouping"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Grouping",
+      "conceptGroupZh": "分组与段落组织",
+      "lemma": "in terms of",
+      "sentence": "In terms of renewable generation, Country B recorded the highest proportion.",
+      "translation": "就可再生能源发电而言，B国的比例最高。",
+      "answer": "In terms of",
+      "targetType": "phrase",
+      "id": "task1-phrase-0045",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "grouping",
+        "mixed-chart"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Process",
+      "conceptGroupZh": "流程图",
+      "lemma": "consists of six main stages",
+      "sentence": "The recycling process consists of six main stages.",
+      "translation": "回收过程由六个主要阶段组成。",
+      "answer": "consists of six main stages",
+      "targetType": "phrase",
+      "id": "task1-phrase-0046",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "process",
+        "overview",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Process",
+      "conceptGroupZh": "流程图",
+      "lemma": "beginning with and ending with",
+      "sentence": "The process begins with the collection of used bottles and ends with the production of new ones.",
+      "translation": "该过程始于废瓶收集，终于新瓶生产。",
+      "answer": "begins with the collection of used bottles and ends with the production of new ones",
+      "targetType": "phrase",
+      "id": "task1-phrase-0047",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "process",
+        "overview",
+        "sequence"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Process",
+      "conceptGroupZh": "流程图",
+      "lemma": "are collected and transported to",
+      "sentence": "Used bottles are collected and transported to a recycling facility.",
+      "translation": "废旧塑料瓶被收集并运往回收设施。",
+      "answer": "are collected and transported to",
+      "targetType": "phrase",
+      "id": "task1-phrase-0048",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "process",
+        "passive-voice"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Process",
+      "conceptGroupZh": "流程图",
+      "lemma": "are sorted according to",
+      "sentence": "The bottles are sorted according to their type.",
+      "translation": "这些瓶子根据类型进行分类。",
+      "answer": "are sorted according to",
+      "targetType": "phrase",
+      "id": "task1-phrase-0049",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "process",
+        "passive-voice"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Process",
+      "conceptGroupZh": "流程图",
+      "lemma": "before being",
+      "sentence": "The coffee beans are dried before being roasted at a high temperature.",
+      "translation": "咖啡豆先被晾干，然后在高温下烘焙。",
+      "answer": "before being",
+      "targetType": "phrase",
+      "id": "task1-phrase-0050",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "process",
+        "passive-voice",
+        "sequence"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Process",
+      "conceptGroupZh": "流程图",
+      "lemma": "in the next stage",
+      "sentence": "In the next stage, the liquid is processed in a separator.",
+      "translation": "在下一阶段，该液体会在分离器中进行处理。",
+      "answer": "In the next stage",
+      "targetType": "phrase",
+      "id": "task1-phrase-0051",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "process",
+        "sequence"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Process",
+      "conceptGroupZh": "流程图",
+      "lemma": "in the final stage",
+      "sentence": "In the final stage, the packaged coffee is delivered to shops.",
+      "translation": "在最后阶段，包装好的咖啡被运往商店。",
+      "answer": "In the final stage",
+      "targetType": "phrase",
+      "id": "task1-phrase-0052",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "process",
+        "sequence"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Process",
+      "conceptGroupZh": "流程图",
+      "lemma": "a continuous natural process",
+      "sentence": "The water cycle is a continuous natural process.",
+      "translation": "水循环是一个持续的自然过程。",
+      "answer": "a continuous natural process",
+      "targetType": "phrase",
+      "id": "task1-phrase-0053",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "process",
+        "natural-process"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Map",
+      "conceptGroupZh": "地图题",
+      "lemma": "became considerably more developed",
+      "sentence": "The village became considerably more developed by 2025.",
+      "translation": "到2025年，该村庄的开发程度显著提高。",
+      "answer": "became considerably more developed",
+      "targetType": "phrase",
+      "id": "task1-phrase-0054",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map",
+        "overview",
+        "priority"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Map",
+      "conceptGroupZh": "地图题",
+      "lemma": "was replaced by",
+      "sentence": "The farmland was replaced by apartment buildings.",
+      "translation": "农田被公寓楼取代。",
+      "answer": "was replaced by",
+      "targetType": "phrase",
+      "id": "task1-phrase-0055",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map",
+        "change",
+        "priority"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Map",
+      "conceptGroupZh": "地图题",
+      "lemma": "was converted into",
+      "sentence": "The small shop was converted into a supermarket.",
+      "translation": "小商店被改建成了一家超市。",
+      "answer": "was converted into",
+      "targetType": "phrase",
+      "id": "task1-phrase-0056",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map",
+        "change"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Map",
+      "conceptGroupZh": "地图题",
+      "lemma": "was cleared to make way for",
+      "sentence": "The forest was cleared to make way for a public park.",
+      "translation": "树林被清除，以腾出空间建设公共公园。",
+      "answer": "was cleared to make way for",
+      "targetType": "phrase",
+      "id": "task1-phrase-0057",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map",
+        "change"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Map",
+      "conceptGroupZh": "地图题",
+      "lemma": "will remain unchanged",
+      "sentence": "The central library will remain unchanged under the proposed plan.",
+      "translation": "根据规划，中央图书馆将保持不变。",
+      "answer": "will remain unchanged",
+      "targetType": "phrase",
+      "id": "task1-phrase-0058",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map",
+        "future-plan"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Map",
+      "conceptGroupZh": "地图题",
+      "lemma": "will be constructed on",
+      "sentence": "A new teaching building will be constructed on the vacant land.",
+      "translation": "空地上将建造一座新的教学楼。",
+      "answer": "will be constructed on",
+      "targetType": "phrase",
+      "id": "task1-phrase-0059",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map",
+        "future-plan"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Map",
+      "conceptGroupZh": "地图题",
+      "lemma": "will be relocated from A to B",
+      "sentence": "The bus station will be relocated from the eastern end to the western end.",
+      "translation": "公交站将从东端迁至西端。",
+      "answer": "will be relocated from the eastern end to the western end",
+      "targetType": "phrase",
+      "id": "task1-phrase-0060",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map",
+        "location",
+        "future-plan"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Map",
+      "conceptGroupZh": "地图题",
+      "lemma": "to the north of",
+      "sentence": "The new café is located to the north of the central lawn.",
+      "translation": "新咖啡馆位于中央草坪的北侧。",
+      "answer": "to the north of",
+      "targetType": "phrase",
+      "id": "task1-phrase-0061",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map",
+        "location"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Map",
+      "conceptGroupZh": "地图题",
+      "lemma": "in the centre of",
+      "sentence": "The library is situated in the centre of the campus.",
+      "translation": "图书馆位于校园中央。",
+      "answer": "in the centre of",
+      "targetType": "phrase",
+      "id": "task1-phrase-0062",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map",
+        "location"
+      ],
+      "difficulty": 1,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Map",
+      "conceptGroupZh": "地图题",
+      "lemma": "alongside",
+      "sentence": "A cycle lane will be added alongside the pedestrian street.",
+      "translation": "步行街旁将增设一条自行车道。",
+      "answer": "alongside",
+      "targetType": "phrase",
+      "id": "task1-phrase-0063",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map",
+        "location"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    },
+    {
+      "category": "IELTS Writing Task 1",
+      "categoryZh": "雅思小作文高频短语",
+      "conceptGroup": "Map",
+      "conceptGroupZh": "地图题",
+      "lemma": "became more pedestrian-friendly",
+      "sentence": "The town centre became more pedestrian-friendly after redevelopment.",
+      "translation": "改造后，市中心变得更加适合步行。",
+      "answer": "became more pedestrian-friendly",
+      "targetType": "phrase",
+      "id": "task1-phrase-0064",
+      "tags": [
+        "ielts-writing",
+        "task1",
+        "map",
+        "overview"
+      ],
+      "difficulty": 2,
+      "needsReview": false
+    }
+  ]
+}

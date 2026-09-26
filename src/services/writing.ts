@@ -9,7 +9,7 @@ export { essays, ideas, expressions, templates, paths, resources }
 export type WritingTrack = 'templates' | 'ideas' | 'expressions'
 export type HintLevel = 'guided' | 'recall' | 'independent'
 export interface WritingDraft { fields:Record<string,string>; checks:string[]; hintLevel:HintLevel; hintViews:number; startedAt:number; updatedAt:number }
-export interface WritingAttempt { id:string; workspaceId:string; track:WritingTrack; topic:string; exercise:string; draft:WritingDraft; elapsedSeconds:number; fixedCorrect?:boolean; submittedAt:number }
+export interface WritingAttempt { id:string; workspaceId:string; track:WritingTrack; topic:string; exercise:string; draft:WritingDraft; elapsedSeconds:number; fixedCorrect?:boolean; firstTryCorrect?:boolean; submittedAt:number }
 export const emptyWritingDraft=():WritingDraft=>({fields:{},checks:[],hintLevel:'independent',hintViews:0,startedAt:Date.now(),updatedAt:Date.now()})
 const prefix=(userId:string)=>`lexi-writing:${encodeURIComponent(userId)}:`
 export function validWritingDraft(value:unknown):value is WritingDraft {

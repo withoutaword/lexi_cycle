@@ -57,3 +57,10 @@ create policy "users read own dictation attempts" on public.sentence_dictation_a
 
 grant select, insert on public.sentence_dictation_attempts to authenticated;
 revoke all on function public.assign_dictation_attempt_number() from public;
+
+-- Metadata for idempotent submissions and original recall accuracy.
+alter table public.sentence_dictation_attempts add column if not exists submission_key text;
+alter table public.sentence_dictation_attempts add column if not exists first_try_correct boolean;
+create unique index if not exists dictation_submission_key_idx
+  on public.sentence_dictation_attempts(user_id, submission_key);
+-- Run leaderboard-all-practice.sql after all base SQL scripts to count these records.
