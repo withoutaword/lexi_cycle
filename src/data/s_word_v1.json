@@ -1,0 +1,1918 @@
+{
+  "version": 1,
+  "schema": "vocabulary-source-v1",
+  "dataset": "s_word_v1",
+  "datasetZh": "s_word_v1",
+  "items": [
+    {
+      "id": "my-0001",
+      "category": "My IELTS",
+      "lemma": "contemporary",
+      "sentence": "This phenomenon might not be such a novelty in contemporary society.",
+      "translation": "这种现象在现代社会可能并不是什么新鲜事。",
+      "answer": "contemporary",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0002",
+      "category": "My IELTS",
+      "lemma": "reformer",
+      "sentence": "Social reformers advocated for fundamental changes in the education system.",
+      "translation": "社会改革家们主张对教育体系进行根本性的变革。",
+      "answer": "reformers",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0003",
+      "category": "My IELTS",
+      "lemma": "reform",
+      "sentence": "The government introduced economic reforms to stimulate local growth.",
+      "translation": "政府推行经济改革以刺激当地增长。",
+      "answer": "reforms",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0004",
+      "category": "My IELTS",
+      "lemma": "consonant",
+      "sentence": "The language features a unique system of vowels and consonants.",
+      "translation": "这种语言具有独特的元音和辅音系统。",
+      "answer": "consonants",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0005",
+      "category": "My IELTS",
+      "lemma": "tendency",
+      "sentence": "There is a growing tendency for young people to work remotely.",
+      "translation": "年轻人远程办公的趋势日益明显。",
+      "answer": "tendency",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0006",
+      "category": "My IELTS",
+      "lemma": "prestige",
+      "sentence": "The overall prestige of a police force is enhanced if rapid response is persistent.",
+      "translation": "如果快速响应得以持续，警队的整体声望就会得到提升。",
+      "answer": "prestige",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0007",
+      "category": "My IELTS",
+      "lemma": "imitate",
+      "sentence": "Early tools were closely imitated from shapes found in nature.",
+      "translation": "早期工具紧密模仿了自然界中发现的形状。",
+      "answer": "imitated",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0008",
+      "category": "My IELTS",
+      "lemma": "disguise",
+      "sentence": "The predators were cleverly disguised among the surrounding vegetation.",
+      "translation": "捕食者被巧妙地伪装在周围的植被中。",
+      "answer": "disguised",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0009",
+      "category": "My IELTS",
+      "lemma": "substitution",
+      "sentence": "The substitution of renewable energy for fossil fuels is crucial for the environment.",
+      "translation": "用可再生能源替代化石燃料对环境至关重要。",
+      "answer": "substitution",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0010",
+      "category": "My IELTS",
+      "lemma": "substitute",
+      "sentence": "By substituting synthetic materials for natural ones, production costs dropped.",
+      "translation": "通过用合成材料替代天然材料，生产成本有所下降。",
+      "answer": "substituting",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0011",
+      "category": "My IELTS",
+      "lemma": "infiltrate",
+      "sentence": "Rainwater infiltrates through layers of soil, leaving impurities behind.",
+      "translation": "雨水渗透过几层土壤，将杂质留在了后面。",
+      "answer": "infiltrates",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0012",
+      "category": "My IELTS",
+      "lemma": "gentry",
+      "sentence": "In eighteenth-century Britain, the landed gentry held immense political power.",
+      "translation": "在18世纪的英国，地主乡绅阶层拥有巨大的政治权力。",
+      "answer": "gentry",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0013",
+      "category": "My IELTS",
+      "lemma": "net change",
+      "sentence": "Scientists calculated the net change in forest coverage over the past decade.",
+      "translation": "科学家们计算了过去十年森林覆盖率的净变化量。",
+      "answer": "net change",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0014",
+      "category": "My IELTS",
+      "lemma": "invoke",
+      "sentence": "Researchers invoked ancient theories to explain modern climate patterns.",
+      "translation": "研究人员援引古代理论来解释现代气候模式。",
+      "answer": "invoked",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0015",
+      "category": "My IELTS",
+      "lemma": "assimilation",
+      "sentence": "Assimilation occurs when a speech sound changes under the influence of a neighbouring sound.",
+      "translation": "当某个发音在邻近发音的影响下发生改变时，就会发生同化现象。",
+      "answer": "Assimilation",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0016",
+      "category": "My IELTS",
+      "lemma": "fussy",
+      "sentence": "Certain bird species are extremely fussy about their nesting locations.",
+      "translation": "某些鸟类对它们的筑巢地点极其挑剔。",
+      "answer": "fussy",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0017",
+      "category": "My IELTS",
+      "lemma": "fuzzy",
+      "sentence": "The boundaries between different ecological zones can often be fuzzy.",
+      "translation": "不同生态区域之间的界限往往很模糊。",
+      "answer": "fuzzy",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0018",
+      "category": "My IELTS",
+      "lemma": "assimilate",
+      "sentence": "New immigrants were encouraged to assimilate into the local community.",
+      "translation": "新移民被鼓励融入当地社区。",
+      "answer": "assimilate",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0019",
+      "category": "My IELTS",
+      "lemma": "simulate",
+      "sentence": "Computer models simulated the long-term impact of rising sea levels.",
+      "translation": "计算机模型模拟了海平面上升的长期影响。",
+      "answer": "simulated",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0020",
+      "category": "My IELTS",
+      "lemma": "stimulate",
+      "sentence": "Creating an intellectually stimulating environment fosters cognitive development.",
+      "translation": "营造一个富有智力刺激的环境有助于促进认知发展。",
+      "answer": "stimulating",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0021",
+      "category": "My IELTS",
+      "lemma": "hereby",
+      "sentence": "The regulation is hereby declared effective immediately by the committee.",
+      "translation": "委员会特此宣布该规定立即生效。",
+      "answer": "hereby",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0022",
+      "category": "My IELTS",
+      "lemma": "articulate",
+      "sentence": "The candidate clearly articulated her vision for urban development.",
+      "translation": "该候选人清晰地阐述了她对城市发展的愿景。",
+      "answer": "articulated",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0023",
+      "category": "My IELTS",
+      "lemma": "articulate",
+      "sentence": "He was an articulate speaker who persuaded the audience effortlessly.",
+      "translation": "他是一位口才流利的演讲者，轻松说服了听众。",
+      "answer": "articulate",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0024",
+      "category": "My IELTS",
+      "lemma": "whereas",
+      "sentence": "Some species thrive in urban areas, whereas others face extinction.",
+      "translation": "某些物种在城市地区茁壮成长，而其他物种则面临灭绝。",
+      "answer": "whereas",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0025",
+      "category": "My IELTS",
+      "lemma": "omit",
+      "sentence": "Key details were intentionally omitted from the preliminary report.",
+      "translation": "关键细节被故意从初步报告中省去了。",
+      "answer": "omitted",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0026",
+      "category": "My IELTS",
+      "lemma": "subtle",
+      "sentence": "There are subtle differences in tone that convey entirely different meanings.",
+      "translation": "语气上有微妙的差异，能传达完全不同的含义。",
+      "answer": "subtle",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0027",
+      "category": "My IELTS",
+      "lemma": "exploit",
+      "sentence": "Industries are exploring new methods of exploiting renewable energy resources.",
+      "translation": "各行业正在探索开发利用可再生能源的新方法。",
+      "answer": "exploiting",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0028",
+      "category": "My IELTS",
+      "lemma": "shallow",
+      "sentence": "Coral reefs usually thrive in warm, shallow coastal waters.",
+      "translation": "珊瑚礁通常在温暖浅薄的海岸水域繁衍生息。",
+      "answer": "shallow",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0029",
+      "category": "My IELTS",
+      "lemma": "Eurasian",
+      "sentence": "The Eurasian steppe spans thousands of miles across two continents.",
+      "translation": "亚欧大草原跨越两大洲，绵延数千英里。",
+      "answer": "Eurasian",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0030",
+      "category": "My IELTS",
+      "lemma": "occupation",
+      "sentence": "The survey recorded data on age, gender, and traditional occupations.",
+      "translation": "该调查记录了关于年龄、性别和传统职业的数据。",
+      "answer": "occupations",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0031",
+      "category": "My IELTS",
+      "lemma": "virus",
+      "sentence": "Researchers studied how airborne viruses spread in enclosed spaces.",
+      "translation": "研究人员研究了空气传播的病毒如何在封闭空间内扩散。",
+      "answer": "viruses",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0032",
+      "category": "My IELTS",
+      "lemma": "director",
+      "sentence": "The project director oversaw the implementation of the new policy.",
+      "translation": "项目主管监督了新政策的实施。",
+      "answer": "director",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0033",
+      "category": "My IELTS",
+      "lemma": "disease",
+      "sentence": "Vaccination programs helped eradicate several infectious diseases.",
+      "translation": "疫苗接种计划帮助消除了几种传染性疾病。",
+      "answer": "diseases",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0034",
+      "category": "My IELTS",
+      "lemma": "pizza",
+      "sentence": "The popularity of fast food like pizza reflected changing eating habits.",
+      "translation": "像披萨这样的快餐的普及反映了人们饮食习惯的改变。",
+      "answer": "pizza",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0035",
+      "category": "My IELTS",
+      "lemma": "tour",
+      "sentence": "Visitors can take a guided tour to explore the historical ruins.",
+      "translation": "游客可以参加有导游陪同的游览来探索历史遗迹。",
+      "answer": "tour",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0036",
+      "category": "My IELTS",
+      "lemma": "laboratory",
+      "sentence": "Experiments conducted in a controlled laboratory environment yielded consistent results.",
+      "translation": "在受控实验室环境中进行的实验取得了客观一致的结果。",
+      "answer": "laboratory",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0037",
+      "category": "My IELTS",
+      "lemma": "parcel",
+      "sentence": "The courier delivered several heavy parcels to the main office.",
+      "translation": "快递员递送了几个沉重的包裹到主办公室。",
+      "answer": "parcels",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0038",
+      "category": "My IELTS",
+      "lemma": "barge dock",
+      "sentence": "Cargo was unloaded efficiently at the newly built barge docks.",
+      "translation": "货物在新建的驳码头高效地被卸下。",
+      "answer": "barge docks",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0039",
+      "category": "My IELTS",
+      "lemma": "diagnosis",
+      "sentence": "Early diagnosis of the condition greatly improves treatment outcomes.",
+      "translation": "早期诊断病情能极大改善治疗效果。",
+      "answer": "diagnosis",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0040",
+      "category": "My IELTS",
+      "lemma": "dementia",
+      "sentence": "Research shows that regular mental exercise may slow the onset of dementia.",
+      "translation": "研究表明定期的思维锻炼可能会延缓阿尔茨海默病（痴呆症）的发作。",
+      "answer": "dementia",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0041",
+      "category": "My IELTS",
+      "lemma": "kiln",
+      "sentence": "Ancient artisans used a high-temperature kiln to harden pottery.",
+      "translation": "古代工匠使用高温窑来烧硬陶器。",
+      "answer": "kiln",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0042",
+      "category": "My IELTS",
+      "lemma": "tie it back",
+      "sentence": "In the conclusion, the author managed to tie it back to the main thesis.",
+      "translation": "在结论部分，作者成功将其呼应/扣回到了主旨大意上。",
+      "answer": "tie it back",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0043",
+      "category": "My IELTS",
+      "lemma": "clay",
+      "sentence": "The riverbed provided an abundant supply of natural clay for local potters.",
+      "translation": "河床为当地陶工提供了充足的天然粘土。",
+      "answer": "clay",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0044",
+      "category": "My IELTS",
+      "lemma": "pot",
+      "sentence": "Archaeologists discovered ceramic pots used for food storage.",
+      "translation": "考古学家发现了用于储存食物的陶瓷罐。",
+      "answer": "pots",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0045",
+      "category": "My IELTS",
+      "lemma": "archaeologist",
+      "sentence": "Archaeologists excavated ancient ruins to study early human settlements.",
+      "translation": "考古学家发掘古代遗址以研究早期人类聚落。",
+      "answer": "archaeologists",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0046",
+      "category": "My IELTS",
+      "lemma": "trial",
+      "sentence": "Clinical trials are necessary to verify the safety of new medical drugs.",
+      "translation": "临床试验对于验证新药物的安全性是必要的。",
+      "answer": "trials",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0047",
+      "category": "My IELTS",
+      "lemma": "anaesthetic",
+      "sentence": "The patient was administered a local anaesthetic before the minor surgery.",
+      "translation": "患者在小手术前接受了局部麻醉。",
+      "answer": "anaesthetic",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0048",
+      "category": "My IELTS",
+      "lemma": "anxiety",
+      "sentence": "High levels of anxiety can adversely affect academic performance.",
+      "translation": "高水平的焦虑会对学术表现产生不利影响。",
+      "answer": "anxiety",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0049",
+      "category": "My IELTS",
+      "lemma": "episode",
+      "sentence": "The patient experienced repeated episodes of severe fatigue.",
+      "translation": "患者经历了一发作接一发作的严重疲劳。",
+      "answer": "episodes",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0050",
+      "category": "My IELTS",
+      "lemma": "pillow",
+      "sentence": "Ergonomic pillows can provide better neck support during sleep.",
+      "translation": "人体工学枕头可以在睡眠时提供更好的颈部支撑。",
+      "answer": "pillows",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0051",
+      "category": "My IELTS",
+      "lemma": "scheme",
+      "sentence": "The local government launched a new recycling scheme to reduce waste.",
+      "translation": "当地政府推出了一项新的回收计划以减少垃圾。",
+      "answer": "scheme",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0052",
+      "category": "My IELTS",
+      "lemma": "semester",
+      "sentence": "Students are required to submit their dissertations before the end of the semester.",
+      "translation": "学生必须在学期结束前提交论文。",
+      "answer": "semester",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0053",
+      "category": "My IELTS",
+      "lemma": "grocery",
+      "sentence": "Supermarkets have expanded their selection of organic grocery products.",
+      "translation": "超市扩大了有机杂货商品的挑选范围。",
+      "answer": "grocery",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0054",
+      "category": "My IELTS",
+      "lemma": "publicise",
+      "sentence": "The university used social media to publicise its upcoming research conference.",
+      "translation": "大学利用社交媒体宣传即将举行的学术会议。",
+      "answer": "publicise",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0055",
+      "category": "My IELTS",
+      "lemma": "favourably",
+      "sentence": "The proposed environmental policy was received favourably by the public.",
+      "translation": "提议的环境政策得到了公众的好评/赞许。",
+      "answer": "favourably",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0056",
+      "category": "My IELTS",
+      "lemma": "intensive",
+      "sentence": "The course offers intensive language training over a four-week period.",
+      "translation": "该课程在四周时间内提供集中的语言培训。",
+      "answer": "intensive",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0057",
+      "category": "My IELTS",
+      "lemma": "distinct",
+      "sentence": "The two species have distinct vocal signatures that prevent cross-breeding.",
+      "translation": "这两个物种有着截然不同的发声特征，从而防止了杂交。",
+      "answer": "distinct",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0058",
+      "category": "My IELTS",
+      "lemma": "imprecisely",
+      "sentence": "Because data was collected imprecisely, the findings were considered unreliable.",
+      "translation": "由于数据收集得不够精确，这些结论被认为不可靠。",
+      "answer": "imprecisely",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0059",
+      "category": "My IELTS",
+      "lemma": "insecticide",
+      "sentence": "Overuse of chemical insecticides can damage beneficial insects and soil quality.",
+      "translation": "过度使用化学杀虫剂会破坏有益昆虫和土壤质量。",
+      "answer": "insecticides",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0060",
+      "category": "My IELTS",
+      "lemma": "deliberately",
+      "sentence": "Some plant species deliberately shed their leaves during dry seasons to conserve water.",
+      "translation": "某些植物物种在旱季故意掉落叶子以节约水分。",
+      "answer": "deliberately",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0061",
+      "category": "My IELTS",
+      "lemma": "for the sake of",
+      "sentence": "Environmental laws were tightened for the sake of public health and safety.",
+      "translation": "为了公众健康和安全，环境法律被进一步收紧。",
+      "answer": "for the sake of",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0062",
+      "category": "My IELTS",
+      "lemma": "sake",
+      "sentence": "They preserved the historic building purely for the sake of cultural heritage.",
+      "translation": "他们保存这座历史建筑纯粹是为了文化遗产的缘故。",
+      "answer": "sake",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0063",
+      "category": "My IELTS",
+      "lemma": "susceptible",
+      "sentence": "Young seedlings are particularly susceptible to sudden drops in temperature.",
+      "translation": "幼苗特别容易受到气温骤降的影响。",
+      "answer": "susceptible",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0064",
+      "category": "My IELTS",
+      "lemma": "adversarial",
+      "sentence": "Legal systems in some countries are based on an adversarial court process.",
+      "translation": "某些国家的法律体系是基于对抗性的法庭诉讼程序。",
+      "answer": "adversarial",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0065",
+      "category": "My IELTS",
+      "lemma": "malicious",
+      "sentence": "Cybersecurity measures were upgraded to protect systems against malicious attacks.",
+      "translation": "网络安全措施得到了升级，以保护系统免受恶意攻击。",
+      "answer": "malicious",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0066",
+      "category": "My IELTS",
+      "lemma": "reap",
+      "sentence": "Farmers who adopted modern irrigation techniques were able to reap richer harvests.",
+      "translation": "采用现代灌溉技术的农民收获了更丰收的农作物。",
+      "answer": "reap",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0067",
+      "category": "My IELTS",
+      "lemma": "bureaucracy",
+      "sentence": "Excessive bureaucracy can delay the approval process for new infrastructure projects.",
+      "translation": "过度的官僚主义会推迟新基础设施项目的审批流程。",
+      "answer": "bureaucracy",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0068",
+      "category": "My IELTS",
+      "lemma": "archive",
+      "sentence": "Historical documents stored in the national archives provided rare insight into the era.",
+      "translation": "国家档案馆中保存的历史文献为了解那个时代提供了罕见的洞察。",
+      "answer": "archives",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0069",
+      "category": "My IELTS",
+      "lemma": "instantaneously",
+      "sentence": "Modern communication technology allows information to be transmitted instantaneously worldwide.",
+      "translation": "现代通信技术允许信息在世界范围内即时传输。",
+      "answer": "instantaneously",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0070",
+      "category": "My IELTS",
+      "lemma": "inclusive",
+      "sentence": "Educational systems should aim to build an inclusive environment for all students.",
+      "translation": "教育体系应旨在为所有学生营造包容性的环境。",
+      "answer": "inclusive",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0071",
+      "category": "My IELTS",
+      "lemma": "variety",
+      "sentence": "The garden contains numerous varieties of flowering plants.",
+      "translation": "花园里包含众多品种的花卉植物。",
+      "answer": "varieties",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0072",
+      "category": "My IELTS",
+      "lemma": "burgeoning",
+      "sentence": "The burgeoning tech industry attracted skilled workers from around the globe.",
+      "translation": "蓬勃发展的科技产业吸引了来自全球的技术工人。",
+      "answer": "burgeoning",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0073",
+      "category": "My IELTS",
+      "lemma": "pledge",
+      "sentence": "Several countries made a firm pledge to reduce carbon emissions by half.",
+      "translation": "几个国家作出了将碳排放量减少一半的坚决承诺。",
+      "answer": "pledge",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0074",
+      "category": "My IELTS",
+      "lemma": "algorithmic",
+      "sentence": "Algorithmic decision-making plays a significant role in online search results.",
+      "translation": "算法决策在在线搜索结果中发挥着重要作用。",
+      "answer": "Algorithmic",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0075",
+      "category": "My IELTS",
+      "lemma": "dystopian notion",
+      "sentence": "Critics argue that total digital surveillance presents a dystopian notion of the future.",
+      "translation": "批评者认为完全的数字监控呈现出一种反乌托邦式的未来观念。",
+      "answer": "dystopian notion",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0076",
+      "category": "My IELTS",
+      "lemma": "pendulum",
+      "sentence": "Public opinion swung like a pendulum between support and skepticism.",
+      "translation": "公众舆论像钟摆一样在支持与怀疑之间摇摆。",
+      "answer": "pendulum",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0077",
+      "category": "My IELTS",
+      "lemma": "evangelist",
+      "sentence": "Technology evangelists enthusiastically promoted the benefits of automation.",
+      "translation": "科技倡导者/热心推行者热衷于推广自动化的好处。",
+      "answer": "evangelists",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0078",
+      "category": "My IELTS",
+      "lemma": "jeopardise",
+      "sentence": "Unregulated development could jeopardise delicate local ecosystems.",
+      "translation": "缺乏监管的开发可能会危及脆弱的本地生态系统。",
+      "answer": "jeopardise",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0079",
+      "category": "My IELTS",
+      "lemma": "equality",
+      "sentence": "Achieving gender equality remains a core goal of international social initiatives.",
+      "translation": "实现性别平等仍然是国际社会倡议的核心目标。",
+      "answer": "equality",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0080",
+      "category": "My IELTS",
+      "lemma": "keen to",
+      "sentence": "Researchers were keen to explore the untapped potential of marine resources.",
+      "translation": "研究人员非常热衷于探索海洋资源的未开发潜力。",
+      "answer": "keen to",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0081",
+      "category": "My IELTS",
+      "lemma": "dominate",
+      "sentence": "A few multinational corporations dominate the international market.",
+      "translation": "少数跨国企业主导着国际市场。",
+      "answer": "dominate",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0082",
+      "category": "My IELTS",
+      "lemma": "transformative effects",
+      "sentence": "The industrial revolution had transformative effects on human societal structures.",
+      "translation": "工业革命对人类社会结构产生了变革性的影响。",
+      "answer": "transformative effects",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0083",
+      "category": "My IELTS",
+      "lemma": "proclaim",
+      "sentence": "Scientists proclaimed the discovery of a new subatomic particle.",
+      "translation": "科学家们正式宣告发现了一种新的亚原子粒子。",
+      "answer": "proclaimed",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0084",
+      "category": "My IELTS",
+      "lemma": "emergence",
+      "sentence": "The emergence of smart devices revolutionized daily communication habits.",
+      "translation": "智能设备的出现革新了日常的交流习惯。",
+      "answer": "emergence",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0085",
+      "category": "My IELTS",
+      "lemma": "mindset",
+      "sentence": "Fostering a flexible growth mindset is crucial when learning complex skills.",
+      "translation": "在学习复杂技能时，培养灵活的成长型思维模式至关重要。",
+      "answer": "mindset",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0086",
+      "category": "My IELTS",
+      "lemma": "a wealth of",
+      "sentence": "The museum offers a wealth of historical information about maritime trade.",
+      "translation": "该博物馆提供了大量关于海上贸易的历史信息。",
+      "answer": "a wealth of",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0087",
+      "category": "My IELTS",
+      "lemma": "infiltrate",
+      "sentence": "Microplastics have infiltrated aquatic habitats across the globe.",
+      "translation": "微塑料已经渗透进入全球的水生栖息地。",
+      "answer": "infiltrated",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0088",
+      "category": "My IELTS",
+      "lemma": "sensationalist",
+      "sentence": "Media outlets were criticized for publishing sensationalist headlines to drive clicks.",
+      "translation": "媒体因发表耸人听闻的标题以赚取点击率而受到批评。",
+      "answer": "sensationalist",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0089",
+      "category": "My IELTS",
+      "lemma": "hysteria",
+      "sentence": "The false alarm caused widespread public hysteria across the region.",
+      "translation": "假警报在整个地区引起了广泛的公众恐慌。",
+      "answer": "hysteria",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0090",
+      "category": "My IELTS",
+      "lemma": "devastation",
+      "sentence": "The tropical storm left a trail of severe devastation along the coastal cities.",
+      "translation": "热带风暴在沿海城市留下了一片严重的破坏遗迹。",
+      "answer": "devastation",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0091",
+      "category": "My IELTS",
+      "lemma": "curry",
+      "sentence": "Traditional spices are essential when preparing authentic Asian curries.",
+      "translation": "在制作正宗的亚洲咖喱时，传统香料是必不可少的。",
+      "answer": "curries",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0092",
+      "category": "My IELTS",
+      "lemma": "vegan",
+      "sentence": "More restaurants are incorporating nutritious vegan options into their menus.",
+      "translation": "越来越多的餐厅在菜单中加入营养丰富的纯素食选项。",
+      "answer": "vegan",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0093",
+      "category": "My IELTS",
+      "lemma": "chocolate",
+      "sentence": "Dark chocolate contains antioxidants that may benefit cardiovascular health.",
+      "translation": "黑巧克力含有可能有利于心血管健康的抗氧化剂。",
+      "answer": "chocolate",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0094",
+      "category": "My IELTS",
+      "lemma": "contaminate",
+      "sentence": "Industrial runoff can easily contaminate groundwater sources.",
+      "translation": "工业径流很容易污染地下水水源。",
+      "answer": "contaminate",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0095",
+      "category": "My IELTS",
+      "lemma": "resistance to antibiotics",
+      "sentence": "Overprescribing medication accelerates the problem of bacterial resistance to antibiotics.",
+      "translation": "过度开药加速了细菌对抗生素产生抗药性的问题。",
+      "answer": "resistance to antibiotics",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0096",
+      "category": "My IELTS",
+      "lemma": "wagon",
+      "sentence": "Early settlers relied on heavy wooden wagons to transport goods.",
+      "translation": "早期定居者依靠沉重的木制四轮马车/货车来运输货物。",
+      "answer": "wagon",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0097",
+      "category": "My IELTS",
+      "lemma": "shed",
+      "sentence": "Tools and equipment were stored safely inside the garden shed.",
+      "translation": "工具和设备安全地储存在花园棚屋里。",
+      "answer": "shed",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0098",
+      "category": "My IELTS",
+      "lemma": "hand implement",
+      "sentence": "Before modern machinery, farmers relied exclusively on basic hand implements.",
+      "translation": "在现代机械出现之前，农民完全依赖基础的手工农具。",
+      "answer": "hand implements",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0099",
+      "category": "My IELTS",
+      "lemma": "incredible",
+      "sentence": "The expedition team made an incredible discovery deep in the rainforest.",
+      "translation": "考察队在雨林深处作出了令人难以置信的发现。",
+      "answer": "incredible",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0100",
+      "category": "My IELTS",
+      "lemma": "boundary",
+      "sentence": "Natural landmarks often defined the boundary between neighboring tribes.",
+      "translation": "自然地标通常划定了邻近部落之间的边界。",
+      "answer": "boundary",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0101",
+      "category": "My IELTS",
+      "lemma": "mechanisation",
+      "sentence": "The rapid mechanisation of agriculture reduced the demand for manual field labour.",
+      "translation": "农业的快速机械化减少了对体力农活劳力的需求。",
+      "answer": "mechanisation",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0102",
+      "category": "My IELTS",
+      "lemma": "convert into",
+      "sentence": "Old textile mills were converted into modern residential apartments.",
+      "translation": "老旧纺织厂被改装转变成了现代住宅公寓。",
+      "answer": "converted into",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0103",
+      "category": "My IELTS",
+      "lemma": "win an award",
+      "sentence": "The eco-friendly building design won an award for sustainable architecture.",
+      "translation": "这项环保建筑设计因可持续建筑理念赢得了奖项。",
+      "answer": "won an award",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0104",
+      "category": "My IELTS",
+      "lemma": "situate",
+      "sentence": "The ancient fortress was strategically situated atop a high hill.",
+      "translation": "这座古老要塞被战术性地置于高山之上。",
+      "answer": "situate",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0105",
+      "category": "My IELTS",
+      "lemma": "valley",
+      "sentence": "Rivers often carve deep valleys through mountainous terrain.",
+      "translation": "河流经常穿越山区切割出深谷。",
+      "answer": "valley",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0106",
+      "category": "My IELTS",
+      "lemma": "trail",
+      "sentence": "Hikers followed the marked trail through the dense pine forest.",
+      "translation": "徒步旅行者沿着标记好的小径穿越茂密的松树林。",
+      "answer": "trail",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0107",
+      "category": "My IELTS",
+      "lemma": "coal mine",
+      "sentence": "The historic coal mine was shut down to reduce regional carbon emissions.",
+      "translation": "这座历史悠久的煤矿被关闭，以减少区域碳排放。",
+      "answer": "coal mine",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0108",
+      "category": "My IELTS",
+      "lemma": "demand",
+      "sentence": "Growing consumer demand pushed manufacturers to increase production.",
+      "translation": "增长的消费者需求迫使制造商扩大生产。",
+      "answer": "demand",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0109",
+      "category": "My IELTS",
+      "lemma": "crop",
+      "sentence": "Drought conditions damaged cereal crops across the entire region.",
+      "translation": "干旱状况损坏了整个地区的谷物农作物。",
+      "answer": "crop",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0110",
+      "category": "My IELTS",
+      "lemma": "soil",
+      "sentence": "Healthy soil is crucial for sustainable food production.",
+      "translation": "健康的土壤对于可持续粮食生产至关重要。",
+      "answer": "soil",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0111",
+      "category": "My IELTS",
+      "lemma": "fungus",
+      "sentence": "Certain types of fungus play a essential role in breaking down organic matter.",
+      "translation": "某些类型的真菌在分解有机物方面发挥着必不可少的作用。",
+      "answer": "fungus",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0112",
+      "category": "My IELTS",
+      "lemma": "labour-intensive",
+      "sentence": "Traditional tea harvesting is a highly labour-intensive process.",
+      "translation": "传统的茶叶采摘是一项高度劳动密集型的过程。",
+      "answer": "labour-intensive",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0113",
+      "category": "My IELTS",
+      "lemma": "extract",
+      "sentence": "Valuable minerals were extracted from deep underground rock formations.",
+      "translation": "珍贵矿物是从深层地下岩层中开采/提炼出来的。",
+      "answer": "extracted",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0114",
+      "category": "My IELTS",
+      "lemma": "altitude",
+      "sentence": "Plant growth slows down significantly at higher altitudes.",
+      "translation": "在较高海拔地区，植物生长会显著减缓。",
+      "answer": "altitude",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0115",
+      "category": "My IELTS",
+      "lemma": "equator",
+      "sentence": "Regions located near the equator experience warm temperatures year-round.",
+      "translation": "位于赤道附近的地区全年气候温暖。",
+      "answer": "equator",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0116",
+      "category": "My IELTS",
+      "lemma": "predictable",
+      "sentence": "Seasonal rainfall patterns in the valley are relatively predictable.",
+      "translation": "山谷中的季节性降雨模式相对可预测。",
+      "answer": "predictable",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0117",
+      "category": "My IELTS",
+      "lemma": "invasive",
+      "sentence": "Invasive plant species can outcompete native flora for nutrients.",
+      "translation": "入侵植物物种会在养分竞争中战胜本土植物。",
+      "answer": "invasive",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0118",
+      "category": "My IELTS",
+      "lemma": "figure",
+      "sentence": "Recent statistical figures highlight a steady increase in renewable energy adoption.",
+      "translation": "最近的统计数据突显出可再生能源采用率的稳步上升。",
+      "answer": "figures",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0119",
+      "category": "My IELTS",
+      "lemma": "assignment",
+      "sentence": "Students must complete their written assignment prior to the tutorial session.",
+      "translation": "学生必须在辅导课前完成他们的书面作业。",
+      "answer": "assignment",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0120",
+      "category": "My IELTS",
+      "lemma": "biodiversity",
+      "sentence": "Conserving rainforests is critical for maintaining global biodiversity.",
+      "translation": "保护雨林对于维持全球生物多样性至关重要。",
+      "answer": "biodiversity",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0121",
+      "category": "My IELTS",
+      "lemma": "threat",
+      "sentence": "Habitat destruction poses a major threat to many endangered species.",
+      "translation": "栖息地破坏对许多濒危物种构成了重大威胁。",
+      "answer": "threat",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0122",
+      "category": "My IELTS",
+      "lemma": "marine",
+      "sentence": "Marine biologists are researching the impact of ocean warming on coral reefs.",
+      "translation": "海洋生物学家正在研究海洋变暖对珊瑚礁的影响。",
+      "answer": "marine",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0123",
+      "category": "My IELTS",
+      "lemma": "widespread attention",
+      "sentence": "The revolutionary study attracted widespread attention from the scientific community.",
+      "translation": "这项革命性的研究吸引了科学界广泛的关注。",
+      "answer": "widespread attention",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0124",
+      "category": "My IELTS",
+      "lemma": "drought",
+      "sentence": "Prolonged droughts severely impacted agricultural yields in the southern region.",
+      "translation": "长期的干旱严重影响了南部地区的农业产量。",
+      "answer": "droughts",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0125",
+      "category": "My IELTS",
+      "lemma": "dwell in",
+      "sentence": "Indigenous communities have dwelt in harmony with the forest for centuries.",
+      "translation": "原住民社区几个世纪以来一直与森林和谐共处居住。",
+      "answer": "dwelt in",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0126",
+      "category": "My IELTS",
+      "lemma": "territory",
+      "sentence": "Migratory birds travel vast distances across international territory.",
+      "translation": "候鸟跨越国际领土飞越遥远的距离。",
+      "answer": "territory",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0127",
+      "category": "My IELTS",
+      "lemma": "domesticate",
+      "sentence": "Early humans learned to domesticate wild animals for farming and transport.",
+      "translation": "早期人类学会了驯养野生动物用于耕作和运输。",
+      "answer": "domesticate",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0128",
+      "category": "My IELTS",
+      "lemma": "plateau",
+      "sentence": "The Tibetan plateau plays a major role in regulating Asian climate patterns.",
+      "translation": "青藏高原在调节亚洲气候模式中扮演着主要角色。",
+      "answer": "plateau",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0129",
+      "category": "My IELTS",
+      "lemma": "portfolio",
+      "sentence": "Students are required to present a comprehensive portfolio of their artistic work.",
+      "translation": "学生需要展示一份包含他们艺术作品的综合作品集。",
+      "answer": "portfolio",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0130",
+      "category": "My IELTS",
+      "lemma": "ethnicity",
+      "sentence": "The metropolitan area is home to people from a diverse range of ethnicities.",
+      "translation": "该大都会区是来自各种族的人群的家园。",
+      "answer": "ethnicities",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0131",
+      "category": "My IELTS",
+      "lemma": "continental",
+      "sentence": "The region experiences a extreme continental climate with harsh winters.",
+      "translation": "该地区经历着带有严冬的极端大陆性气候。",
+      "answer": "continental",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0132",
+      "category": "My IELTS",
+      "lemma": "retain",
+      "sentence": "The old building managed to retain its original architectural charm.",
+      "translation": "这座老建筑成功保留了其原本的建筑魅力。",
+      "answer": "retain",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0133",
+      "category": "My IELTS",
+      "lemma": "abolition of slavery",
+      "sentence": "The legal abolition of slavery reshaped the socio-economic landscape of the nation.",
+      "translation": "奴隶制的法律废除重塑了该国的社会经济格局。",
+      "answer": "abolition of slavery",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0134",
+      "category": "My IELTS",
+      "lemma": "plantation",
+      "sentence": "Large sugarcane plantations dominated the tropical island's agricultural economy.",
+      "translation": "大型甘蔗种植园主导了该热带岛屿的农业经济。",
+      "answer": "plantation",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0135",
+      "category": "My IELTS",
+      "lemma": "subsidise",
+      "sentence": "The state decided to subsidise public transportation to encourage eco-friendly travel.",
+      "translation": "国家决定资助/补贴公共交通以鼓励环保出行。",
+      "answer": "subsidise",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0136",
+      "category": "My IELTS",
+      "lemma": "clinical",
+      "sentence": "The new treatment showed promising results during initial clinical trials.",
+      "translation": "这种新疗法在最初的临床试验中显示出了良好的前景。",
+      "answer": "clinical",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0137",
+      "category": "My IELTS",
+      "lemma": "muffle",
+      "sentence": "Heavy curtains were installed to muffle sound from the busy street outside.",
+      "translation": "安装厚窗帘是为了消音/压制外面繁忙街道传来的噪声。",
+      "answer": "muffle",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0138",
+      "category": "My IELTS",
+      "lemma": "excessive",
+      "sentence": "Excessive exposure to ultraviolet radiation can cause long-term skin damage.",
+      "translation": "过度暴露于紫外线辐射会导致长期皮肤损伤。",
+      "answer": "excessive",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0139",
+      "category": "My IELTS",
+      "lemma": "attuned to",
+      "sentence": "Experienced nocturnal hunters are highly attuned to subtle movements in the dark.",
+      "translation": "经验丰富的夜间猎手对黑夜中的微妙动静非常适应/敏感。",
+      "answer": "attuned to",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0140",
+      "category": "My IELTS",
+      "lemma": "gold mine",
+      "sentence": "The discovery of a rich gold mine sparked a rapid influx of prospectors.",
+      "translation": "富金矿的发现引发了淘金者的快速涌入。",
+      "answer": "gold mine",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0141",
+      "category": "My IELTS",
+      "lemma": "vulnerable",
+      "sentence": "Coastal communities are increasingly vulnerable to rising sea levels.",
+      "translation": "沿海社区越来越容易受到海平面上升的影响（易受伤害的）。",
+      "answer": "vulnerable",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0142",
+      "category": "My IELTS",
+      "lemma": "fermentation",
+      "sentence": "Fermentation is a biochemical process used in making bread and yogurt.",
+      "translation": "发酵是一种用于制作面包和酸奶的生物化学过程。",
+      "answer": "fermentation",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0143",
+      "category": "My IELTS",
+      "lemma": "dual menace",
+      "sentence": "Deforestation and global warming pose dual menaces to biodiversity.",
+      "translation": "滥伐森林和全球变暖对生物多样性构成了双重威胁。",
+      "answer": "dual menaces",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0144",
+      "category": "My IELTS",
+      "lemma": "council",
+      "sentence": "The local city council voted in favour of building a new public park.",
+      "translation": "当地市议会投票赞成建造一个新的公共公园。",
+      "answer": "council",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0145",
+      "category": "My IELTS",
+      "lemma": "hairdresser",
+      "sentence": "She decided to consult a professional hairdresser before the special event.",
+      "translation": "她决定在特殊活动前咨询一位专业理发师。",
+      "answer": "hairdresser",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0146",
+      "category": "My IELTS",
+      "lemma": "motorbike",
+      "sentence": "Riding a motorbike provides a convenient way to navigate crowded city streets.",
+      "translation": "骑摩托车为在拥挤的城市街道中通行提供了便捷的方式。",
+      "answer": "motorbike",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0147",
+      "category": "My IELTS",
+      "lemma": "instrument",
+      "sentence": "Scientific instruments were calibrated carefully before taking measurements.",
+      "translation": "科学仪器在测量前都经过了仔细校准。",
+      "answer": "instruments",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0148",
+      "category": "My IELTS",
+      "lemma": "kennel",
+      "sentence": "Pet owners left their dogs at a certified local kennel while traveling.",
+      "translation": "宠物主人在旅行期间将狗寄养在当地经过认证的狗舍中。",
+      "answer": "kennel",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0149",
+      "category": "My IELTS",
+      "lemma": "cabin",
+      "sentence": "Researchers stayed in a small wooden cabin deep in the mountain forest.",
+      "translation": "研究人员住在高山森林深处的一间小木屋里。",
+      "answer": "cabin",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0150",
+      "category": "My IELTS",
+      "lemma": "refund",
+      "sentence": "Customers are eligible for a full refund if the service is cancelled.",
+      "translation": "如果服务取消，客户有资格获得全额退款。",
+      "answer": "refund",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0151",
+      "category": "My IELTS",
+      "lemma": "Italian",
+      "sentence": "The museum hosted a special exhibition of classical Italian artwork.",
+      "translation": "博物馆举办了一场古典意大利艺术品的特别展览。",
+      "answer": "Italian",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0152",
+      "category": "My IELTS",
+      "lemma": "dolphin",
+      "sentence": "Dolphins use echolocation to navigate and hunt prey underwater.",
+      "translation": "海豚在水下利用回声定位导航和捕猎猎物。",
+      "answer": "dolphins",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0153",
+      "category": "My IELTS",
+      "lemma": "Northern",
+      "sentence": "The Northern Lights attract thousands of tourists to Arctic regions each year.",
+      "translation": "北极光每年吸引成千上万的游客前往北极地区。",
+      "answer": "Northern",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0154",
+      "category": "My IELTS",
+      "lemma": "voucher",
+      "sentence": "Participants were given a discount voucher redeemable at local stores.",
+      "translation": "与会者收到了可在当地商店兑换的优惠券。",
+      "answer": "voucher",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0155",
+      "category": "My IELTS",
+      "lemma": "spectacular",
+      "sentence": "The volcanic eruption produced a spectacular display of natural force.",
+      "translation": "火山喷发展现了自然力量的壮观景象。",
+      "answer": "spectacular",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0156",
+      "category": "My IELTS",
+      "lemma": "herd",
+      "sentence": "A large herd of wild elephants crossed the river during migration.",
+      "translation": "一大群野生大象在迁徙过程中渡过了河流。",
+      "answer": "herd",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0157",
+      "category": "My IELTS",
+      "lemma": "roam",
+      "sentence": "Wild cattle were allowed to roam freely across the grasslands.",
+      "translation": "野牛被允许在大草原上自由漫游。",
+      "answer": "roam",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0158",
+      "category": "My IELTS",
+      "lemma": "saiga",
+      "sentence": "The saiga antelope is famous for its uniquely shaped flexible nose structure.",
+      "translation": "赛加羚羊/高鼻羚羊以其独特形状的灵巧鼻部结构而闻名。",
+      "answer": "saiga",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0159",
+      "category": "My IELTS",
+      "lemma": "conservationist",
+      "sentence": "Conservationists worked tirelessly to safeguard the natural wetland habitats.",
+      "translation": "自然保护主义者努力不懈地保护天然湿地栖息地。",
+      "answer": "conservationists",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0160",
+      "category": "My IELTS",
+      "lemma": "epidemic level",
+      "sentence": "The spread of the virus reached epidemic levels in several urban centers.",
+      "translation": "病毒的传播在几个城市中心达到了流行病级别。",
+      "answer": "epidemic level",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0161",
+      "category": "My IELTS",
+      "lemma": "poach",
+      "sentence": "Strict laws were introduced to prevent illegal attempts to poach rare wildlife.",
+      "translation": "出台了严厉的法律以防止非法偷猎稀有野生动物的企图。",
+      "answer": "poach",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0162",
+      "category": "My IELTS",
+      "lemma": "scarf",
+      "sentence": "Woollen scarves were commonly worn to keep warm in severe winters.",
+      "translation": "羊毛围巾通常在严冬佩戴以保暖。",
+      "answer": "scarves",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0163",
+      "category": "My IELTS",
+      "lemma": "mirror",
+      "sentence": "The calm surface of the lake acted like a natural mirror reflecting the sky.",
+      "translation": "平静的湖面就像一面天然的镜子倒映着天空。",
+      "answer": "mirror",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0164",
+      "category": "My IELTS",
+      "lemma": "dinghy",
+      "sentence": "The sailors boarded an inflatable dinghy to reach the shore safely.",
+      "translation": "船员们登上了一艘充气橡皮艇/小艇，安全抵达岸边。",
+      "answer": "dinghy",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0165",
+      "category": "My IELTS",
+      "lemma": "tide",
+      "sentence": "The high tide swept away loose coastal sediments during the storm.",
+      "translation": "暴风雨期间的大潮冲走了松散的海岸沉淀物。",
+      "answer": "tide",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0166",
+      "category": "My IELTS",
+      "lemma": "reasonable",
+      "sentence": "The researchers offered a reasonable explanation for the unexpected experimental results.",
+      "translation": "研究人员对意外的实验结果给出了合理的解释。",
+      "answer": "reasonable",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0167",
+      "category": "My IELTS",
+      "lemma": "toiletries",
+      "sentence": "Travelers should pack essential toiletries in sealed bags for safety.",
+      "translation": "旅客应将必要的洗漱用品装入密封袋中以防万一。",
+      "answer": "toiletries",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0168",
+      "category": "My IELTS",
+      "lemma": "wetsuits and life jackets",
+      "sentence": "Safety gear such as wetsuits and life jackets are mandatory for water sports.",
+      "translation": "水上运动强制要求使用潜水服和救生衣等安全装备。",
+      "answer": "wetsuits and life jackets",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0169",
+      "category": "My IELTS",
+      "lemma": "towel",
+      "sentence": "The hotel provides complimentary clean towels for guests at the poolside.",
+      "translation": "酒店在泳池边为客人提供免费的干净毛巾。",
+      "answer": "towel",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0170",
+      "category": "My IELTS",
+      "lemma": "terminology",
+      "sentence": "Technical terminology can often confuse non-specialist general readers.",
+      "translation": "专业术语常常会让非专业的普通读者感到困惑。",
+      "answer": "terminology",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0171",
+      "category": "My IELTS",
+      "lemma": "octopus",
+      "sentence": "The octopus display remarkable problem-solving intelligence underwater.",
+      "translation": "章鱼在水下展示出令人称奇的解决问题的智能。",
+      "answer": "octopus",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0172",
+      "category": "My IELTS",
+      "lemma": "moderately",
+      "sentence": "Regular, moderately intense exercise benefits long-term physical health.",
+      "translation": "定期进行中等强度的运动有利于长期身体健康。",
+      "answer": "moderately",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0173",
+      "category": "My IELTS",
+      "lemma": "universal",
+      "sentence": "Music is often described as a universal language understood across cultures.",
+      "translation": "音乐常被描述为一种超越文化而被理解的通用/普遍语言。",
+      "answer": "universal",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0174",
+      "category": "My IELTS",
+      "lemma": "reveal",
+      "sentence": "Further analysis revealed a strong correlation between lifestyle and longevity.",
+      "translation": "进一步的分析揭示了生活方式与长寿之间的强相关性。",
+      "answer": "revealed",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0175",
+      "category": "My IELTS",
+      "lemma": "social upheaval",
+      "sentence": "Industrialisation caused massive social upheaval across major European cities.",
+      "translation": "工业化在欧洲主要城市引发了巨大的社会动荡。",
+      "answer": "social upheaval",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0176",
+      "category": "My IELTS",
+      "lemma": "poverty",
+      "sentence": "Eradicating poverty is a priority for global sustainable development initiatives.",
+      "translation": "消除贫困是全球可持续发展倡议的首要任务。",
+      "answer": "poverty",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0177",
+      "category": "My IELTS",
+      "lemma": "vibrant",
+      "sentence": "The port city transformed into a vibrant hub of international commerce.",
+      "translation": "这个港口城市转变成了充满活力的国际商业中心。",
+      "answer": "vibrant",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0178",
+      "category": "My IELTS",
+      "lemma": "philanthropic",
+      "sentence": "Philanthropic donations supported the construction of a modern medical facility.",
+      "translation": "慈善捐赠支持了一座现代医疗设施的建设。",
+      "answer": "philanthropic",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0179",
+      "category": "My IELTS",
+      "lemma": "religious",
+      "sentence": "Ancient architecture often reflected deep religious beliefs and cultural values.",
+      "translation": "古代建筑往往反映出深厚的宗教信仰和文化价值。",
+      "answer": "religious",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0180",
+      "category": "My IELTS",
+      "lemma": "inheritance",
+      "sentence": "The distribution of family inheritance was governed by strict legal traditions.",
+      "translation": "家族遗产的分配受制于严格的法律传统。",
+      "answer": "inheritance",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0181",
+      "category": "My IELTS",
+      "lemma": "amass",
+      "sentence": "Successful merchants were able to amass substantial wealth through overseas trade.",
+      "translation": "成功的商人能够通过海外贸易积聚大量财富。",
+      "answer": "amass",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0182",
+      "category": "My IELTS",
+      "lemma": "mining",
+      "sentence": "The expansion of coal mining brought both economic growth and environmental issues.",
+      "translation": "煤炭开采的扩张既带来了经济增长，也带来了环境问题。",
+      "answer": "mining",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0183",
+      "category": "My IELTS",
+      "lemma": "property",
+      "sentence": "Investing in real estate properties became a popular wealth management strategy.",
+      "translation": "投资房地产成为一种受欢迎的资产管理策略。",
+      "answer": "properties",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0184",
+      "category": "My IELTS",
+      "lemma": "compile",
+      "sentence": "Researchers spent months compiling a comprehensive database of plant species.",
+      "translation": "研究人员花了数月时间编制/收集了一个全面的植物物种数据库。",
+      "answer": "compiling",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0185",
+      "category": "My IELTS",
+      "lemma": "catch up on sleep",
+      "sentence": "Students often use weekends to catch up on sleep lost during busy weekdays.",
+      "translation": "学生们经常利用周末补觉，以弥补繁忙工作日缺失的睡眠。",
+      "answer": "catch up on sleep",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0186",
+      "category": "My IELTS",
+      "lemma": "whiteware",
+      "sentence": "Recycling centers accept household whiteware such as washing machines and dishwashers.",
+      "translation": "回收中心接受诸如洗衣机和洗碗机等家用白色家电。",
+      "answer": "whiteware",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0187",
+      "category": "My IELTS",
+      "lemma": "fridge",
+      "sentence": "Energy-efficient fridges consume significantly less electricity than older models.",
+      "translation": "节能冰箱比旧型号消耗的电量要少得多。",
+      "answer": "fridge",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0188",
+      "category": "My IELTS",
+      "lemma": "stove",
+      "sentence": "Modern electric stoves provide precise control over cooking temperatures.",
+      "translation": "现代电炉/炉灶能对烹饪温度提供精确的控制。",
+      "answer": "stove",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0189",
+      "category": "My IELTS",
+      "lemma": "rental property",
+      "sentence": "Demand for rental property surged due to rising housing prices in major cities.",
+      "translation": "由于大城市房价上涨，租赁房产的需求大增。",
+      "answer": "rental property",
+      "targetType": "phrase",
+      "aliases": []
+    },
+    {
+      "id": "my-0190",
+      "category": "My IELTS",
+      "lemma": "garage",
+      "sentence": "The residential house features a double garage for vehicle parking.",
+      "translation": "该住宅自带一个用于停放车辆的双车位车库。",
+      "answer": "garage",
+      "targetType": "word",
+      "aliases": []
+    },
+    {
+      "id": "my-0191",
+      "category": "My IELTS",
+      "lemma": "occupation",
+      "sentence": "Demographic surveys collect information regarding income, education, and occupation.",
+      "translation": "人口统计调查收集有关收入、教育和职业的信息。",
+      "answer": "occupation",
+      "targetType": "word",
+      "aliases": []
+    }
+  ]
+}

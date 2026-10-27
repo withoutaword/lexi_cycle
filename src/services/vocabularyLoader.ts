@@ -1,4 +1,5 @@
 import vocabulary from '../data/vocabulary_source.json'
+import shellyWords from '../data/s_word_v1.json'
 import singularPlural from '../data/单复数.json'
 import participles from '../data/分词形式.json'
 import writing from '../data/写作常用.json'
@@ -14,7 +15,7 @@ export interface ValidationIssue { id?:string; message:string }
 export interface LoadResult { items:LoadedVocabulary[]; issues:ValidationIssue[] }
 const isString=(v:unknown):v is string => typeof v==='string' && v.trim().length>0
 export function loadVocabulary():LoadResult {
-  const files:[Dataset,FileData][]=[['vocabulary',vocabulary],['singular-plural',singularPlural],['participles',participles],['writing',writing],['writing-singular-plural',writingSingularPlural],['task1-phrases',task1Phrases],['task2-core-concepts',task2CoreConcepts],['dictation',dictation],['irregular-verbs',irregularVerbs]]
+  const files:[Dataset,FileData][]=[['vocabulary',vocabulary],['s_word_v1',shellyWords],['singular-plural',singularPlural],['participles',participles],['writing',writing],['writing-singular-plural',writingSingularPlural],['task1-phrases',task1Phrases],['task2-core-concepts',task2CoreConcepts],['dictation',dictation],['irregular-verbs',irregularVerbs]]
   const ids=new Set<string>(), issues:ValidationIssue[]=[], items:LoadedVocabulary[]=[]
   for(const [dataset,file] of files) for(const raw of file.items) {
     const c=raw as Partial<VocabularySource>
